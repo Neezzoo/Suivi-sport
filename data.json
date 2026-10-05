@@ -1,0 +1,384 @@
+{
+ "v": 1,
+ "seq": 23,
+ "cap": {
+  "reprise": false,
+  "depuis": ""
+ },
+ "program": {
+  "U1": {
+   "name": "Upper 1",
+   "focus": "Pectoraux et épaisseur du dos",
+   "ex": [
+    [
+     "Développé couché haltères, prise semi-neutre",
+     "4",
+     "10-12",
+     "2 min"
+    ],
+    [
+     "Tirage horizontal poulie basse, prise neutre",
+     "4",
+     "10-12",
+     "2 min"
+    ],
+    [
+     "Développé incliné (machine guidée ou haltères)",
+     "3",
+     "10-12",
+     "2 min"
+    ],
+    [
+     "Élévations latérales haltères",
+     "4",
+     "15",
+     "1 min"
+    ],
+    [
+     "Super-set curl marteau / extension poulie haute",
+     "3",
+     "12-15",
+     "1 min après le duo"
+    ],
+    [
+     "Face pull corde",
+     "2",
+     "15-20",
+     "1 min"
+    ]
+   ]
+  },
+  "U2": {
+   "name": "Upper 2",
+   "focus": "Épaules et largeur du dos",
+   "ex": [
+    [
+     "Tirage vertical prise large (neutre si le poignet tire)",
+     "4",
+     "10-12",
+     "2 min"
+    ],
+    [
+     "Développé militaire machine, prise neutre",
+     "4",
+     "10-12",
+     "2 min"
+    ],
+    [
+     "Tirage poitrine machine, buste en appui",
+     "3",
+     "10-12",
+     "2 min"
+    ],
+    [
+     "Écartés pec deck ou poulie vis-à-vis",
+     "3",
+     "12-15",
+     "1 min"
+    ],
+    [
+     "Super-set curl poulie basse barre EZ / extension corde",
+     "3",
+     "12-15",
+     "1 min après le duo"
+    ],
+    [
+     "Oiseau machine (reverse pec deck)",
+     "2",
+     "15-20",
+     "1 min"
+    ]
+   ]
+  },
+  "warmup": "## Échauffement · 8 à 10 min\n- 5 min de rameur ou de vélo, tranquille.\n- Rotations externes à la poulie : 2 × 15 par bras, léger. C'est la protection de ton épaule gauche.\n- 1 ou 2 séries légères du premier exercice avant les séries de travail."
+ },
+ "sessions": [
+  {
+   "id": "n1",
+   "sport": "nat",
+   "status": "fait",
+   "date": "2026-09-09",
+   "title": "1625 m haché",
+   "distance": "1625",
+   "allure": "2:07",
+   "fc": "122",
+   "notes": "Garmin a compté 1825 m (8 longueurs de trop) : corrigé à 1625 m. Allure recalculée sur le temps de nage, 34:29 pour 1625 m, soit 2:07/100 (Garmin affichait 1:53). SWOLF recalculé à ~44 (Garmin : 39 sur 73 longueurs au lieu de 65) : estimation. Records Garmin de ce jour faussés. ~22 min de pause sur 56:20. Cardio montre douteux (122 bpm). Charge 55.",
+   "duree": "56 min",
+   "fcmax": "166",
+   "swolf": "~44",
+   "te": "2,4",
+   "tean": "1,6",
+   "calories": "438",
+   "garmin": true,
+   "cr": {
+    "avis": "Bonne séance technique une fois corrigée : 2:07/100 en nage effective, mais très hachée.",
+    "progression": "Première séance fiable de la série, elle sert de point de départ.",
+    "plus": "Allure de 2:07/100 en nage effective, déjà au niveau de ton objectif de course (~2:08).",
+    "moins": "22 min d'arrêt sur 56 : l'allure n'est tenue que sur des morceaux courts. En course, il n'y a pas de mur."
+   }
+  },
+  {
+   "id": "n2",
+   "sport": "nat",
+   "status": "fait",
+   "date": "2026-09-18",
+   "title": "1600 m continu",
+   "distance": "1600",
+   "allure": "2:27",
+   "fc": "130",
+   "notes": "Temps en mouvement 39:08 sur 45:15, la plus continue de tes séances. Garmin : base, ressenti très bien. Charge 75.",
+   "duree": "45 min",
+   "fcmax": "172",
+   "swolf": "51",
+   "te": "2,9",
+   "tean": "1,6",
+   "calories": "387",
+   "garmin": true,
+   "cr": {
+    "avis": "La séance la plus proche de la course : presque 40 min de nage avec peu d'arrêts.",
+    "progression": "Par rapport au 09/09 : 6 min de pause au lieu de 22, mais une allure qui passe de 2:07 à 2:27.",
+    "plus": "Tu tiens la durée : c'est la base de ton 1,4 km.",
+    "moins": "SWOLF 51 et pic à 172 bpm : la technique se dégrade sur la longueur. Il faut faire le pont avec des blocs de 200 à 400 m à 2:05-2:15."
+   }
+  },
+  {
+   "id": "n3",
+   "sport": "nat",
+   "status": "fait",
+   "date": "2026-09-24",
+   "title": "1750 m fractionné",
+   "distance": "1750",
+   "allure": "2:11",
+   "fc": "142",
+   "notes": "Temps de nage 38:22 sur 48:25 au total, donc ~10 min de pause. Garmin : base, ressenti très bien, effort 4/10. Charge 109.",
+   "duree": "38 min",
+   "fcmax": "171",
+   "swolf": "47",
+   "te": "3,2",
+   "tean": "2,3",
+   "calories": "371",
+   "garmin": true,
+   "cr": {
+    "avis": "Ta meilleure séance de natation de la série : la plus longue nage effective avec une allure solide.",
+    "progression": "Par rapport au 18/09 : +150 m, 16 s plus rapide aux 100 m (2:11 contre 2:27) et SWOLF meilleur (47 contre 51). Par rapport au 09/09 (2:07 mais 22 min de pause), allure proche avec deux fois moins d'arrêts.",
+    "plus": "2:11/100 sur 38 min de nage, c'est à 3 s de ton allure de course visée (~2:08).",
+    "moins": "Effet anaérobie à 2,3, le plus haut de la série, et pic à 171 bpm : certains fractionnés partent trop vite."
+   }
+  },
+  {
+   "id": "n4",
+   "sport": "nat",
+   "status": "prevu",
+   "date": "2026-10-05",
+   "title": "Pyramide 1800 m",
+   "distance": "1800",
+   "allure": "2:15-2:20",
+   "notes": "Échauffement 300 m, pyramide 1200 m, technique 4 × 50 m rattrapé, retour au calme 100 m dos.",
+   "consignes": "## Échauffement · 300 m\n- Nage libre en cherchant la glisse : 11 à 13 mouvements par longueur.\n- Allure tranquille, plus lente que 2:25/100 m.\n\n## Bloc principal · 1200 m en pyramide\n- 200 m, puis 20 s de repos.\n- 400 m, puis 30 s de repos.\n- 400 m, puis 30 s de repos.\n- 200 m, puis 20 s de repos.\n- Allure verrouillée entre 2:15 et 2:20/100 m, du premier au dernier intervalle.\n\n## Technique sous fatigue · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque, pour forcer l'allongement du bras.\n\n## Retour au calme · 100 m\n- Dos crawlé de préférence.\n\n## Repères\n- Le plus dur sera de ne pas partir trop vite sur le premier 200 m.\n- Si tu n'arrives pas à tenir 2:20 sur le dernier 400, allonge le repos à 45 s plutôt que de casser ta nage.\n- L'objectif course est 1,4 km en ~30 min, soit ~2:08/100 m."
+  },
+  {
+   "id": "v1",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-09-16",
+   "title": "Endurance 1 h",
+   "distance": "30,5",
+   "duree": "1h00",
+   "vitesse": "30",
+   "resistance": "10",
+   "fc": "154",
+   "notes": "Vélo de salle. 29 km/h de 0 à 15 km, 31 km/h de 15 à 30 km. Zones FC : Z2 7 %, Z3 54 %, Z4 33 %, Z5 1 %. Garmin : base, ressenti bien.",
+   "te": "4,1",
+   "tean": "0,0",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "0 à 15 km",
+     "vitesse": "29 km/h"
+    },
+    {
+     "label": "15 à 30 km",
+     "vitesse": "31 km/h"
+    }
+   ],
+   "cr": {
+    "avis": "Sortie correcte mais encore trop appuyée pour de l'endurance : un tiers du temps en zone 4.",
+    "progression": "Par rapport au 05/09 : même vitesse (30 km/h) et même résistance, mais 7 bpm de moins. Bon signe.",
+    "plus": "Tu as su lever le pied par rapport au 05/09.",
+    "moins": "Accélération en deuxième moitié (29 puis 31 km/h) : c'est là que le cardio monte. Garde la même vitesse du début à la fin."
+   }
+  },
+  {
+   "id": "v2",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-09-22",
+   "title": "Seuil 46 min",
+   "distance": "24,2",
+   "duree": "46 min",
+   "vitesse": "32",
+   "resistance": "14 / 13",
+   "fc": "168",
+   "notes": "Vélo de salle. Zones FC : Z3 5 %, Z4 93 %. Garmin : seuil.",
+   "te": "4,5",
+   "tean": "0,0",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "Résistance 14",
+     "temps": "30 min",
+     "dist": "16,2 km",
+     "vitesse": "32,5 km/h"
+    },
+    {
+     "label": "Résistance 13",
+     "temps": "15 min",
+     "dist": "8 km",
+     "vitesse": "32 km/h"
+    }
+   ],
+   "cr": {
+    "avis": "Vraie séance au seuil, bien menée : 93 % du temps en zone 4, sans passer en zone 5.",
+    "progression": "Ta meilleure vitesse de la série (32 km/h) à la plus haute résistance. C'est ta référence de seuil.",
+    "plus": "Effort très bien dosé : aucune minute en zone 5, effet anaérobie à 0.",
+    "moins": "Une seule séance vélo par semaine en ce moment : ce type de séance passe après l'endurance longue, pas à sa place."
+   }
+  },
+  {
+   "id": "v3",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-09-30",
+   "title": "40 km endurance",
+   "distance": "40",
+   "duree": "1h24",
+   "vitesse": "28,5",
+   "resistance": "8 / 10 / 8",
+   "fc": "151",
+   "notes": "Vélo de salle. Ressenti Garmin : très bien, effort 4/10. Charge d'entraînement 121. Distance et vitesse lues sur le compteur du vélo (la montre affiche 0 km en intérieur).",
+   "fcmax": "162",
+   "te": "3,7",
+   "tean": "0,1",
+   "calories": "980",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "Résistance 8",
+     "temps": "15 min"
+    },
+    {
+     "label": "Résistance 10",
+     "temps": "45 min"
+    },
+    {
+     "label": "Résistance 8",
+     "temps": "25 min"
+    }
+   ],
+   "analyse": "- Ce qui est bien : 1h24 d'affilée, effort 4/10 et effet anaérobie quasi nul (0,1). C'est exactement le type de séance qui te manque.\n- Ce qui coince : 151 bpm de moyenne et un pic à 162. Avec 15 min et 25 min à résistance 8 probablement plus bas, le bloc de 45 min à résistance 10 a dû tourner autour de 155-160 bpm (estimation : la capture ne donne pas la FC par bloc). C'est au-dessus de ton plafond de 150 bpm : sur ce bloc, tu faisais du tempo, pas de l'endurance fondamentale.\n- L'effet aérobie de 3,7 le confirme : pour une sortie d'endurance pure, on attend plutôt 2,5 à 3,3. Plus haut, tu accumules de la fatigue sans gagner davantage sur la durée.\n- Prochaine sortie : résistance 8 à 9 du début à la fin, cadence 85 à 95 tr/min, FC moyenne visée 145. Ajoute 15 à 20 min pour aller vers 1h45. Tu iras un peu moins vite, et c'est voulu.\n- Note : la montre n'a pas de capteur de vitesse en salle, d'où 0 km. Continue de noter le compteur du vélo comme tu l'as fait.",
+   "cr": {
+    "avis": "Bonne séance de fond, mais pas tout à fait de l'endurance fondamentale : 151 bpm de moyenne pour un plafond à 150.",
+    "progression": "Par rapport au 29/08 (résistance 8, 26,3 km/h, 152 bpm) : +2,2 km/h au même cardio, et 11 min de plus. C'est la vraie progression de ton endurance.",
+    "plus": "1h24 d'affilée à 4/10 d'effort, sans aucune dose anaérobie (0,1).",
+    "moins": "Le bloc de 45 min en résistance 10 t'a fait monter jusqu'à 162 bpm. La prochaine fois, reste en 8-9 tout du long."
+   }
+  },
+  {
+   "id": "v4",
+   "sport": "velo",
+   "status": "prevu",
+   "date": "",
+   "title": "Sortie longue EF",
+   "duree": "1h45",
+   "fc": "≤ 150 (viser 145)",
+   "notes": "Cadence haute, RPE 4/10. Allonger ensuite vers 2 h.",
+   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 8, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 10, cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure.\n- Après la première heure, 30 à 60 g de glucides par heure (boisson sucrée ou barre). C'est aussi l'occasion de tester ce que tu prendras en course.\n\n## Repères\n- Le vélo d'Obernai dure ~1h45 avec 765 m D+. Cette sortie construit la durée à cardio bas, c'est ce qui te manque le plus.\n- Si tu décroches avant la fin, arrête-toi à 1h35 cette fois et vise 1h45 la suivante."
+  },
+  {
+   "id": "m1",
+   "sport": "muscu",
+   "status": "prevu",
+   "date": "",
+   "title": "Upper 1",
+   "prog": "U1",
+   "sets": {}
+  },
+  {
+   "id": "m2",
+   "sport": "muscu",
+   "status": "prevu",
+   "date": "",
+   "title": "Upper 2",
+   "prog": "U2",
+   "sets": {}
+  },
+  {
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-08-29",
+   "title": "Endurance 32 km",
+   "distance": "32",
+   "duree": "1h13",
+   "vitesse": "26,3",
+   "resistance": "8",
+   "fc": "152",
+   "te": "3,8",
+   "tean": "0,4",
+   "garmin": true,
+   "notes": "Vélo de salle. Vitesse calculée (32 km en 1h13). Zones FC : Z2 3 %, Z3 75 %, Z4 20 %, Z5 1 %. Garmin : base, ressenti bien.",
+   "cr": {
+    "avis": "Séance d'endurance correcte, la plus « fond » de ta série d'été.",
+    "progression": "Première sortie de référence : c'est elle qui sert de point de comparaison pour la suite.",
+    "plus": "75 % du temps en zone 3, effort régulier sur 1h13.",
+    "moins": "152 bpm de moyenne et 20 % en zone 4 : déjà un peu au-dessus de ton plafond de 150."
+   },
+   "id": "s21"
+  },
+  {
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-09-05",
+   "title": "Tempo 35 km",
+   "distance": "35",
+   "duree": "1h12",
+   "vitesse": "30",
+   "resistance": "10",
+   "fc": "161",
+   "te": "4,6",
+   "tean": "0,0",
+   "garmin": true,
+   "notes": "Vélo de salle. Zones FC : Z3 22 %, Z4 75 %. Garmin : tempo, ressenti bien.",
+   "cr": {
+    "avis": "Ce n'est pas une sortie d'endurance, c'est 1h12 de tempo : 161 bpm et 75 % du temps en zone 4.",
+    "progression": "Par rapport au 29/08 : +3,7 km/h en passant de résistance 8 à 10, mais au prix de 9 bpm de plus.",
+    "plus": "Tu tiens 30 km/h plus d'une heure, la caisse est là.",
+    "moins": "Effet aérobie 4,6 : séance très fatigante. C'est le piège du puncheur, rouler trop fort tout le temps."
+   },
+   "id": "s22"
+  },
+  {
+   "sport": "nat",
+   "status": "fait",
+   "date": "2026-09-04",
+   "title": "Natation 25 et 50 m",
+   "distance": "1550",
+   "duree": "41 min",
+   "fc": "132",
+   "fcmax": "168",
+   "swolf": "67",
+   "te": "2,7",
+   "tean": "1,8",
+   "calories": "410",
+   "garmin": true,
+   "notes": "Bassin mixte (moitié 25 m, moitié 50 m) : Garmin s'est trompé dans le comptage, distance et allure non fiables (la montre affichait 1:39/100). Seul le SWOLF compte. Temps en mouvement 25:27 sur 41:20. Charge 70.",
+   "cr": {
+    "avis": "Séance difficile à lire : la montre a mal compté les longueurs, donc distance et allure ne sont pas exploitables.",
+    "progression": "Première séance de la série. Le SWOLF de 67 n'est pas comparable aux autres : en 50 m, une longueur compte double.",
+    "plus": "Tu as nagé 25 min en tout, et le ressenti était bon.",
+    "moins": "Effet anaérobie 1,8 : beaucoup d'efforts courts et intenses, l'inverse de ce que demande un 1,4 km de triathlon."
+   },
+   "id": "s23",
+   "bassin": "25 et 50"
+  }
+ ]
+}

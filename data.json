@@ -168,13 +168,72 @@
   {
    "id": "n4",
    "sport": "nat",
-   "status": "prevu",
+   "status": "fait",
    "date": "2026-10-05",
-   "title": "Pyramide 1800 m",
-   "distance": "1800",
-   "allure": "2:15-2:20",
-   "notes": "Échauffement 300 m, pyramide 1200 m, technique 4 × 50 m rattrapé, retour au calme 100 m dos.",
-   "consignes": "## Échauffement · 300 m\n- Nage libre en cherchant la glisse : 11 à 13 mouvements par longueur.\n- Allure tranquille, plus lente que 2:25/100 m.\n\n## Bloc principal · 1200 m en pyramide\n- 200 m, puis 20 s de repos.\n- 400 m, puis 30 s de repos.\n- 400 m, puis 30 s de repos.\n- 200 m, puis 20 s de repos.\n- Allure verrouillée entre 2:15 et 2:20/100 m, du premier au dernier intervalle.\n\n## Technique sous fatigue · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque, pour forcer l'allongement du bras.\n\n## Retour au calme · 100 m\n- Dos crawlé de préférence.\n\n## Repères\n- Le plus dur sera de ne pas partir trop vite sur le premier 200 m.\n- Si tu n'arrives pas à tenir 2:20 sur le dernier 400, allonge le repos à 45 s plutôt que de casser ta nage.\n- L'objectif course est 1,4 km en ~30 min, soit ~2:08/100 m."
+   "title": "Pyramide 1900 m",
+   "distance": "1900",
+   "allure": "2:15",
+   "notes": "Séance prévue nagée en entier, 1900 m d'après Garmin et confirmés par Enzo. Temps de nage 42:38 sur 44:52, 58:16 au total avec les pauses. 952 mouvements, 22 mvts/min. Charge 58. La « meilleure allure » de 0:51/100 affichée par Garmin est un bug de la montre.",
+   "consignes": "## Échauffement · 300 m\n- Nage libre en cherchant la glisse : 11 à 13 mouvements par longueur.\n- Allure tranquille, plus lente que 2:25/100 m.\n\n## Bloc principal · 1200 m en pyramide\n- 200 m, puis 20 s de repos.\n- 400 m, puis 30 s de repos.\n- 400 m, puis 30 s de repos.\n- 200 m, puis 20 s de repos.\n- Allure verrouillée entre 2:15 et 2:20/100 m, du premier au dernier intervalle.\n\n## Technique sous fatigue · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque, pour forcer l'allongement du bras.\n\n## Retour au calme · 100 m\n- Dos crawlé de préférence.\n\n## Repères\n- Le plus dur sera de ne pas partir trop vite sur le premier 200 m.\n- Si tu n'arrives pas à tenir 2:20 sur le dernier 400, allonge le repos à 45 s plutôt que de casser ta nage.\n- L'objectif course est 1,4 km en ~30 min, soit ~2:08/100 m.",
+   "duree": "45 min",
+   "fc": "135",
+   "fcmax": "163",
+   "swolf": "46",
+   "mvts": "12,5",
+   "te": "2,7",
+   "tean": "0,7",
+   "calories": "412",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "Intervalle 1",
+     "temps": "7:11",
+     "dist": "300 m",
+     "allure": "2:08"
+    },
+    {
+     "label": "Intervalle 2",
+     "temps": "4:27",
+     "dist": "200 m",
+     "allure": "2:14"
+    },
+    {
+     "label": "Intervalle 3",
+     "temps": "9:38",
+     "dist": "400 m",
+     "allure": "2:25"
+    },
+    {
+     "label": "Intervalle 4",
+     "temps": "10:39",
+     "dist": "425 m",
+     "allure": "2:20"
+    },
+    {
+     "label": "Intervalle 5",
+     "temps": "4:00",
+     "dist": "200 m",
+     "allure": "2:00"
+    },
+    {
+     "label": "Intervalle 6",
+     "temps": "5:07",
+     "dist": "250 m",
+     "allure": "2:03"
+    },
+    {
+     "label": "Intervalle 7",
+     "temps": "3:47",
+     "dist": "125 m",
+     "allure": "2:28"
+    }
+   ],
+   "cr": {
+    "avis": "Très bonne séance : ta plus longue natation, à 2:15 de moyenne, avec un cardio maîtrisé.",
+    "progression": "Par rapport au 24/09 : +150 m, allure proche (2:15 contre 2:11), mais FC moyenne plus basse (135 contre 142) et effet anaérobie divisé par trois (0,7 contre 2,3). Tu nages plus longtemps en forçant moins.",
+    "plus": "Bloc central de 400 + 425 m tenu à 2:20-2:25, et un dernier 200 à 2:00 : tu finis fort.",
+    "moins": "Échauffement à 2:08 au lieu de 2:25 et plus : tu pars trop vite. Les 400 sont un peu au-dessus de la cible (2:15-2:20)."
+   }
   },
   {
    "id": "v1",

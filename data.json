@@ -356,11 +356,85 @@
   {
    "id": "m1",
    "sport": "muscu",
-   "status": "prevu",
-   "date": "",
+   "status": "fait",
+   "date": "2026-10-07",
    "title": "Upper 1",
    "prog": "U1",
-   "sets": {}
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "26"
+      },
+      {
+       "kg": "26"
+      },
+      {
+       "kg": "26"
+      },
+      {
+       "kg": "24"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "39"
+      },
+      {
+       "kg": "45"
+      },
+      {
+       "kg": "45"
+      },
+      {
+       "kg": "45"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "15"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "7"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15,8"
+      }
+     ],
+     [
+      {
+       "kg": "15,8"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "0": "Haltères. Reps à préciser.",
+    "1": "Reps à préciser.",
+    "2": "Machine, 15 kg par bras. Nombre de séries et reps à préciser.",
+    "3": "7 kg par haltère. Nombre de séries et reps à préciser.",
+    "4": "Les deux à la poulie avec la corde, 15,8 kg. Séries et reps à préciser.",
+    "5": "Pas fait."
+   },
+   "notes": "Première séance Upper 1 du programme. Charges notées par Enzo ; répétitions à compléter.",
+   "cr": {
+    "avis": "Bonne reprise : charges cohérentes pour une première séance après 4 mois d'arrêt.",
+    "progression": "Première séance Upper 1 : elle sert de référence pour la double progression (10 à 12 reps, puis +1 à 2,5 kg).",
+    "plus": "Développé couché à 26 kg et tirage à 45 kg tenus sur 3 séries : la base est là.",
+    "moins": "Face pull sauté : c'est l'exercice qui protège ton épaule gauche, à ne pas zapper."
+   }
   },
   {
    "id": "m2",

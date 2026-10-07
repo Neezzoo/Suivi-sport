@@ -364,71 +364,130 @@
     "0": [
      [
       {
-       "kg": "26"
+       "kg": "26",
+       "r": "8-12"
       },
       {
-       "kg": "26"
+       "kg": "26",
+       "r": "8-12"
       },
       {
-       "kg": "26"
+       "kg": "26",
+       "r": "8-12"
       },
       {
-       "kg": "24"
+       "kg": "24",
+       "r": "8-12"
       }
      ]
     ],
     "1": [
      [
       {
-       "kg": "39"
+       "kg": "39",
+       "r": "8-12"
       },
       {
-       "kg": "45"
+       "kg": "45",
+       "r": "8-12"
       },
       {
-       "kg": "45"
+       "kg": "45",
+       "r": "8-12"
       },
       {
-       "kg": "45"
+       "kg": "45",
+       "r": "8-12"
       }
      ]
     ],
     "2": [
      [
       {
-       "kg": "15"
+       "kg": "15",
+       "r": "8-12"
+      },
+      {
+       "kg": "15",
+       "r": "8-12"
+      },
+      {
+       "kg": "15",
+       "r": "8-12"
+      },
+      {
+       "kg": "15",
+       "r": "8-12"
       }
      ]
     ],
     "3": [
      [
       {
-       "kg": "7"
+       "kg": "7",
+       "r": "8-12"
+      },
+      {
+       "kg": "7",
+       "r": "8-12"
+      },
+      {
+       "kg": "7",
+       "r": "8-12"
+      },
+      {
+       "kg": "7",
+       "r": "8-12"
       }
      ]
     ],
     "4": [
      [
       {
-       "kg": "15,8"
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
       }
      ],
      [
       {
-       "kg": "15,8"
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
       }
      ]
     ]
    },
    "exNotes": {
-    "0": "Haltères. Reps à préciser.",
-    "1": "Reps à préciser.",
-    "2": "Machine, 15 kg par bras. Nombre de séries et reps à préciser.",
-    "3": "7 kg par haltère. Nombre de séries et reps à préciser.",
-    "4": "Les deux à la poulie avec la corde, 15,8 kg. Séries et reps à préciser.",
+    "0": "Haltères.",
+    "2": "Machine, 15 kg par bras.",
+    "3": "7 kg par haltère.",
+    "4": "Les deux à la poulie avec la corde.",
     "5": "Pas fait."
    },
-   "notes": "Première séance Upper 1 du programme. Charges notées par Enzo ; répétitions à compléter.",
+   "notes": "Première séance Upper 1 du programme. 4 séries de 8 à 12 reps sur chaque exercice (Enzo ne note pas le détail des reps).",
    "cr": {
     "avis": "Bonne reprise : charges cohérentes pour une première séance après 4 mois d'arrêt.",
     "progression": "Première séance Upper 1 : elle sert de référence pour la double progression (10 à 12 reps, puis +1 à 2,5 kg).",

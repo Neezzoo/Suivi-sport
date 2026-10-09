@@ -345,13 +345,27 @@
   {
    "id": "v4",
    "sport": "velo",
-   "status": "prevu",
-   "date": "",
-   "title": "Sortie longue EF",
-   "duree": "1h45",
-   "fc": "≤ 150 (viser 145)",
-   "notes": "Cadence haute, RPE 4/10. Allonger ensuite vers 2 h.",
-   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 8, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 10, cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure.\n- Après la première heure, 30 à 60 g de glucides par heure (boisson sucrée ou barre). C'est aussi l'occasion de tester ce que tu prendras en course.\n\n## Repères\n- Le vélo d'Obernai dure ~1h45 avec 765 m D+. Cette sortie construit la durée à cardio bas, c'est ce qui te manque le plus.\n- Si tu décroches avant la fin, arrête-toi à 1h35 cette fois et vise 1h45 la suivante."
+   "status": "fait",
+   "date": "2026-10-09",
+   "title": "Sortie longue 50 km",
+   "duree": "1h40",
+   "fc": "157",
+   "notes": "Vélo de salle. Garmin : tempo, ressenti bien. Charge 191. Perte de sueur estimée 1,6 L. Distance et vitesse lues sur le compteur du vélo.",
+   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 8, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 10, cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure.\n- Après la première heure, 30 à 60 g de glucides par heure (boisson sucrée ou barre). C'est aussi l'occasion de tester ce que tu prendras en course.\n\n## Repères\n- Le vélo d'Obernai dure ~1h45 avec 765 m D+. Cette sortie construit la durée à cardio bas, c'est ce qui te manque le plus.\n- Si tu décroches avant la fin, arrête-toi à 1h35 cette fois et vise 1h45 la suivante.",
+   "distance": "50",
+   "vitesse": "30",
+   "resistance": "10",
+   "fcmax": "178",
+   "te": "4,5",
+   "tean": "1,3",
+   "calories": "1271",
+   "garmin": true,
+   "cr": {
+    "avis": "Grosse séance, mais ce n'est pas la sortie d'endurance prévue : 157 bpm de moyenne pour un plafond à 150, et Garmin la classe en tempo.",
+    "progression": "Plus longue sortie de la série (50 km, 1h40). Par rapport au 05/09 (même résistance 10, 30 km/h, 161 bpm sur 1h12), tu tiens 28 min de plus avec 4 bpm de moins.",
+    "plus": "Tu tiens 30 km/h pendant 1h40 : ta durée de course à vélo est presque atteinte.",
+    "moins": "Résistance 10 tout du long, pic à 178 et charge de 191 : beaucoup de fatigue pour peu de gain en endurance. La prochaine fois, résistance 8-9 et 145 bpm, même si tu roules à 27-28 km/h."
+   }
   },
   {
    "id": "m1",

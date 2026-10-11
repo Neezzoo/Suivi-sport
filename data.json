@@ -512,11 +512,144 @@
   {
    "id": "m2",
    "sport": "muscu",
-   "status": "prevu",
-   "date": "",
+   "status": "fait",
+   "date": "2026-10-11",
    "title": "Upper 2",
    "prog": "U2",
-   "sets": {}
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "27",
+       "r": "8-12"
+      },
+      {
+       "kg": "27",
+       "r": "8-12"
+      },
+      {
+       "kg": "27",
+       "r": "8-12"
+      },
+      {
+       "kg": "27",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "36",
+       "r": "8-12"
+      },
+      {
+       "kg": "36",
+       "r": "8-12"
+      },
+      {
+       "kg": "36",
+       "r": "8-12"
+      },
+      {
+       "kg": "36",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "9",
+       "r": "8-12"
+      },
+      {
+       "kg": "9",
+       "r": "8-12"
+      },
+      {
+       "kg": "9",
+       "r": "8-12"
+      },
+      {
+       "kg": "9",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "13",
+       "r": "8-12"
+      },
+      {
+       "kg": "13",
+       "r": "8-12"
+      },
+      {
+       "kg": "13",
+       "r": "8-12"
+      },
+      {
+       "kg": "13",
+       "r": "8-12"
+      }
+     ],
+     [
+      {
+       "kg": "18",
+       "r": "8-12"
+      },
+      {
+       "kg": "18",
+       "r": "8-12"
+      },
+      {
+       "kg": "18",
+       "r": "8-12"
+      },
+      {
+       "kg": "18",
+       "r": "8-12"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "1": "Machine.",
+    "2": "Machine.",
+    "3": "Poulie vis-à-vis, 9 kg par bras.",
+    "4": "Curl à la barre à la poulie 13 kg, extension à la corde 18 kg.",
+    "5": "Pas fait."
+   },
+   "notes": "Première séance Upper 2 du programme. 4 séries de 8 à 12 reps par exercice (fourchette donnée par Enzo).",
+   "cr": {
+    "avis": "Séance solide et équilibrée, avec des charges cohérentes pour une deuxième séance de reprise.",
+    "progression": "Première séance Upper 2 : elle devient ta référence. Bon écart de 4 jours avec l'Upper 1 du 07/10.",
+    "plus": "Tirage vertical à 52 kg : ton dos est déjà bien présent.",
+    "moins": "Oiseau sauté, comme le face pull lundi : c'est la 2e fois que tu coupes l'exercice qui protège ton épaule gauche."
+   }
   },
   {
    "sport": "velo",

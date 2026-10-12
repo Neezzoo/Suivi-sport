@@ -722,14 +722,28 @@
   {
    "id": "v5",
    "sport": "velo",
-   "status": "prevu",
+   "status": "fait",
    "date": "2026-10-12",
-   "title": "Sortie longue EF 99 min",
+   "title": "Sortie longue EF 48 km",
    "duree": "1h39",
    "resistance": "9",
-   "fc": "≤ 150 (viser 145)",
-   "notes": "Même durée que le 9/10, mais cette fois vraiment en endurance : la sortie du 9/10 était à 157 bpm de moyenne.",
-   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 7, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 9 (pas 10), cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n- Tu rouleras sans doute vers 27-28 km/h au lieu de 30 : c'est normal, c'est voulu.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple. Pas d'accélération finale.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure (tu as perdu 1,6 L de sueur le 9/10).\n- Après la première heure, 30 à 60 g de glucides par heure.\n\n## Repères\n- Objectif : 1h45 avec une moyenne autour de 145 bpm. La vitesse et la distance n'ont aucune importance aujourd'hui.\n- La semaine prochaine, si c'est réussi, on passe à 2 h."
+   "fc": "144",
+   "notes": "Vélo de salle, résistance 9 tout du long. Garmin : Base (aérobie bas), ressenti fort, effort 5/10. Charge 87. Perte de sueur estimée 1,4 L. Distance et vitesse lues sur le compteur du vélo.",
+   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 7, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 9 (pas 10), cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n- Tu rouleras sans doute vers 27-28 km/h au lieu de 30 : c'est normal, c'est voulu.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple. Pas d'accélération finale.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure (tu as perdu 1,6 L de sueur le 9/10).\n- Après la première heure, 30 à 60 g de glucides par heure.\n\n## Repères\n- Objectif : 1h45 avec une moyenne autour de 145 bpm. La vitesse et la distance n'ont aucune importance aujourd'hui.\n- La semaine prochaine, si c'est réussi, on passe à 2 h.",
+   "distance": "48",
+   "vitesse": "29",
+   "fcmax": "159",
+   "te": "3,3",
+   "tean": "0,0",
+   "calories": "1010",
+   "rpe": "5",
+   "garmin": true,
+   "cr": {
+    "avis": "Exactement la séance demandée : vraie sortie d'endurance, cardio maîtrisé du début à la fin.",
+    "progression": "Par rapport au 09/10 : même durée (1h39 contre 1h40), seulement 2 km de moins, mais 13 bpm de moins en moyenne (144 contre 157) et une charge divisée par deux (87 contre 191).",
+    "plus": "144 bpm de moyenne à 29 km/h : tu roules presque aussi vite qu'avant en restant sous ton plafond. C'est l'endurance qui progresse.",
+    "moins": "Pic à 159 bpm : quelques minutes au-dessus de 150, sans doute en fin de séance. La prochaine fois, baisse à 8 dès que tu dépasses 150."
+   }
   }
  ]
 }

@@ -748,13 +748,90 @@
   {
    "id": "n6",
    "sport": "nat",
-   "status": "prevu",
+   "status": "fait",
    "date": "2026-10-14",
-   "title": "3 × 400 m · 2000 m",
-   "distance": "2000",
-   "allure": "2:15-2:20",
-   "notes": "Suite de la pyramide du 05/10 : un 400 de plus, à allure régulière.",
-   "consignes": "## Échauffement · 300 m\n- Nage libre souple, plus lente que 2:25/100 m. Le 05/10 tu étais parti à 2:08 : ralentis vraiment.\n- Cherche la glisse : 11 à 13 mouvements par longueur.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque.\n\n## Bloc principal · 1200 m\n- 3 × 400 m à 2:15-2:20/100 m, soit 9:00 à 9:20 par 400.\n- 30 s de repos au mur entre chaque 400.\n- Objectif : les trois 400 au même temps, à 10 s près. Le 05/10, tes 400 avaient glissé à 2:20-2:25.\n\n## Allure vive · 200 m\n- 4 × 50 m à 2:00-2:05/100 m (environ 1:00 à 1:02 par 50), 20 s de repos.\n- Rapide mais propre : garde tes 13-14 mouvements par longueur.\n\n## Retour au calme · 100 m\n- Dos crawlé, très souple.\n\n## Repères\n- Si tu ne tiens pas 2:20 sur le troisième 400, prends 45 s de repos avant plutôt que de casser ta nage.\n- Total 2000 m, ta plus longue séance à ce jour."
+   "title": "3 × 400 m · 2050 m",
+   "distance": "2050",
+   "allure": "2:15",
+   "notes": "Séance prévue nagée. Distance de 2050 m = somme des intervalles Garmin (cohérente avec 2:15/100 sur 46:03 de nage). 57:35 au total avec les pauses. 1138 mouvements, 25 mvts/min. Charge 112. La « meilleure allure » de 0:55/100 est un bug de la montre.",
+   "consignes": "## Échauffement · 300 m\n- Nage libre souple, plus lente que 2:25/100 m. Le 05/10 tu étais parti à 2:08 : ralentis vraiment.\n- Cherche la glisse : 11 à 13 mouvements par longueur.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque.\n\n## Bloc principal · 1200 m\n- 3 × 400 m à 2:15-2:20/100 m, soit 9:00 à 9:20 par 400.\n- 30 s de repos au mur entre chaque 400.\n- Objectif : les trois 400 au même temps, à 10 s près. Le 05/10, tes 400 avaient glissé à 2:20-2:25.\n\n## Allure vive · 200 m\n- 4 × 50 m à 2:00-2:05/100 m (environ 1:00 à 1:02 par 50), 20 s de repos.\n- Rapide mais propre : garde tes 13-14 mouvements par longueur.\n\n## Retour au calme · 100 m\n- Dos crawlé, très souple.\n\n## Repères\n- Si tu ne tiens pas 2:20 sur le troisième 400, prends 45 s de repos avant plutôt que de casser ta nage.\n- Total 2000 m, ta plus longue séance à ce jour.",
+   "duree": "46 min",
+   "fc": "141",
+   "fcmax": "178",
+   "swolf": "48",
+   "mvts": "13,9",
+   "te": "3,3",
+   "tean": "2,2",
+   "calories": "461",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "Échauffement",
+     "temps": "6:08",
+     "dist": "300 m",
+     "allure": "2:03"
+    },
+    {
+     "label": "Rattrapé",
+     "temps": "5:23",
+     "dist": "200 m",
+     "allure": "2:41"
+    },
+    {
+     "label": "400 n°1",
+     "temps": "9:31",
+     "dist": "400 m",
+     "allure": "2:23"
+    },
+    {
+     "label": "400 n°2",
+     "temps": "9:25",
+     "dist": "400 m",
+     "allure": "2:21"
+    },
+    {
+     "label": "400 n°3",
+     "temps": "9:14",
+     "dist": "400 m",
+     "allure": "2:19"
+    },
+    {
+     "label": "50 vif n°1",
+     "temps": "0:51",
+     "dist": "50 m",
+     "allure": "1:42"
+    },
+    {
+     "label": "50 vif n°2",
+     "temps": "0:56",
+     "dist": "50 m",
+     "allure": "1:52"
+    },
+    {
+     "label": "50 vif n°3",
+     "temps": "0:52",
+     "dist": "50 m",
+     "allure": "1:43"
+    },
+    {
+     "label": "50 vif n°4",
+     "temps": "0:54",
+     "dist": "50 m",
+     "allure": "1:48"
+    },
+    {
+     "label": "Fin",
+     "temps": "2:50",
+     "dist": "150 m",
+     "allure": "1:53"
+    }
+   ],
+   "cr": {
+    "avis": "Bonne séance : ta plus longue natation (2050 m) et un bloc de 3 × 400 bien construit, chaque 400 plus rapide que le précédent.",
+    "progression": "Par rapport au 05/10 : un 400 de plus, et des 400 plus réguliers (2:23, 2:21, 2:19 contre 2:25 et 2:20). Le dernier 400 est enfin dans la cible.",
+    "plus": "Accélération progressive sur les 400 : tu gères ton effort au lieu de le subir.",
+    "moins": "Échauffement encore trop rapide (2:03 au lieu de 2:25 et plus), 50 vifs à 1:42-1:52 au lieu de 2:00-2:05, et fin à 1:53 au lieu d'un retour au calme : d'où l'effet anaérobie à 2,2 et le pic à 178."
+   }
   }
  ]
 }

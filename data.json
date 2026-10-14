@@ -744,6 +744,17 @@
     "plus": "144 bpm de moyenne à 29 km/h : tu roules presque aussi vite qu'avant en restant sous ton plafond. C'est l'endurance qui progresse.",
     "moins": "Pic à 159 bpm : quelques minutes au-dessus de 150, sans doute en fin de séance. La prochaine fois, baisse à 8 dès que tu dépasses 150."
    }
+  },
+  {
+   "id": "n6",
+   "sport": "nat",
+   "status": "prevu",
+   "date": "2026-10-14",
+   "title": "3 × 400 m · 2000 m",
+   "distance": "2000",
+   "allure": "2:15-2:20",
+   "notes": "Suite de la pyramide du 05/10 : un 400 de plus, à allure régulière.",
+   "consignes": "## Échauffement · 300 m\n- Nage libre souple, plus lente que 2:25/100 m. Le 05/10 tu étais parti à 2:08 : ralentis vraiment.\n- Cherche la glisse : 11 à 13 mouvements par longueur.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque.\n\n## Bloc principal · 1200 m\n- 3 × 400 m à 2:15-2:20/100 m, soit 9:00 à 9:20 par 400.\n- 30 s de repos au mur entre chaque 400.\n- Objectif : les trois 400 au même temps, à 10 s près. Le 05/10, tes 400 avaient glissé à 2:20-2:25.\n\n## Allure vive · 200 m\n- 4 × 50 m à 2:00-2:05/100 m (environ 1:00 à 1:02 par 50), 20 s de repos.\n- Rapide mais propre : garde tes 13-14 mouvements par longueur.\n\n## Retour au calme · 100 m\n- Dos crawlé, très souple.\n\n## Repères\n- Si tu ne tiens pas 2:20 sur le troisième 400, prends 45 s de repos avant plutôt que de casser ta nage.\n- Total 2000 m, ta plus longue séance à ce jour."
   }
  ]
 }

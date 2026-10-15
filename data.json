@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 23,
+ "seq": 24,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -831,6 +831,147 @@
     "progression": "Par rapport au 05/10 : un 400 de plus, et des 400 plus réguliers (2:23, 2:21, 2:19 contre 2:25 et 2:20). Le dernier 400 est enfin dans la cible.",
     "plus": "Accélération progressive sur les 400 : tu gères ton effort au lieu de le subir.",
     "moins": "Échauffement encore trop rapide (2:03 au lieu de 2:25 et plus), 50 vifs à 1:42-1:52 au lieu de 2:00-2:05, et fin à 1:53 au lieu d'un retour au calme : d'où l'effet anaérobie à 2,2 et le pic à 178."
+   }
+  },
+  {
+   "id": "s24",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-10-15",
+   "title": "Upper 1",
+   "prog": "U1",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "45",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "45",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "20",
+       "r": "8-12"
+      },
+      {
+       "kg": "25",
+       "r": "8-12"
+      },
+      {
+       "kg": "20",
+       "r": "8-12"
+      },
+      {
+       "kg": "20",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "4,5",
+       "r": "10"
+      },
+      {
+       "kg": "4,5",
+       "r": "10"
+      },
+      {
+       "kg": "4,5",
+       "r": "10"
+      },
+      {
+       "kg": "4,5",
+       "r": "10"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      }
+     ],
+     [
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "0": "Haltères, 10 reps.",
+    "2": "Machine.",
+    "3": "À la poulie : 10 reps à 4,5 kg puis 5 reps à 2,3 kg (série dégressive).",
+    "4": "Comme le 07/10 : les deux à la poulie avec la corde."
+   },
+   "notes": "4 séries par exercice (fourchette 8-12 sauf mention). Face pull non mentionné par Enzo.",
+   "cr": {
+    "avis": "Séance bien gérée : tu as allégé là où il fallait et progressé là où tu pouvais.",
+    "progression": "Par rapport au 07/10 : tirage 45 → 52 kg sur les séries lourdes, développé incliné 15 → 20-25 kg. Développé couché redescendu de 26 à 24 kg mais à 10 reps propres.",
+    "plus": "Le développé couché à 24 kg × 10, c'est exactement le bon choix pour monter proprement vers 26 kg.",
+    "moins": "Le passage de 15 à 25 kg au développé incliné est un très gros saut en une semaine : surveille ton épaule gauche sur cet exercice."
    }
   }
  ]

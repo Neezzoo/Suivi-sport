@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 24,
+ "seq": 25,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -973,6 +973,21 @@
     "progression": "Par rapport au 07/10 : tirage 45 → 52 kg sur les séries lourdes, développé incliné 15 → 20-25 kg. Développé couché redescendu de 26 à 24 kg mais à 10 reps propres.",
     "plus": "Le développé couché à 24 kg × 10, c'est exactement le bon choix pour monter proprement vers 26 kg.",
     "moins": "Le passage de 15 à 25 kg au développé incliné est un très gros saut en une semaine : surveille ton épaule gauche sur cet exercice."
+   }
+  },
+  {
+   "id": "s25",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-10-17",
+   "title": "Upper Hors série",
+   "notes": "Séance avec des amis, hors programme. Pas de charges ni de capture Garmin. Proche de l'Upper 1 : la prochaine séance sera l'Upper 2.",
+   "consignes": "## Exercices faits\n- Tractions\n- Tirage horizontal\n- Machine pectoraux\n- Écarté poulie vis-à-vis vers le bas (haut des pecs)\n- Arrière d'épaule à la corde, poulie\n- Élévations latérales à la poulie\n- Super-set biceps / triceps, comme en Upper 1",
+   "cr": {
+    "avis": "Bonne séance de dépannage : équilibrée entre poussée et tirage, et elle complète ta semaine (vélo, natation, deux upper).",
+    "progression": "Deux jours après l'Upper 1 du 15/10, avec beaucoup d'exercices en commun : c'est surtout du volume en plus sur les mêmes muscles.",
+    "plus": "Tu as fait l'arrière d'épaule, enfin ! C'est l'exercice qui protège ton épaule gauche, et tu l'avais sauté sur tes trois dernières séances.",
+    "moins": "Tractions et tirage la même semaine que la natation : surveille ton épaule gauche et ton poignet droit sur la prochaine natation."
    }
   }
  ]

@@ -993,13 +993,29 @@
   {
    "id": "n7",
    "sport": "nat",
-   "status": "prevu",
+   "status": "fait",
    "date": "2026-10-19",
-   "title": "2 × 600 m · 2000 m",
-   "distance": "2000",
-   "allure": "2:15-2:20",
-   "notes": "Suite du 14/10 : mêmes 1200 m d'allure, mais en 2 blocs de 600 m au lieu de 3 × 400.",
-   "consignes": "## Échauffement · 300 m\n- Nage souple : 7:15 ou plus pour les 300 m (2:25/100 et plus lent).\n- Le 05/10 et le 14/10, tu étais à 2:03-2:08 : c'est trop rapide, tu entames ta séance avant de commencer.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:20/100 m, soit 13:30 à 14:00 par 600.\n- 45 s de repos au mur entre les deux.\n- Pars au bas de la cible (2:20) et finis vers 2:15, comme tes 400 du 14/10.\n\n## Allure vive · 200 m\n- 4 × 50 m en 1:00 à 1:02 chacun, 20 s de repos.\n- Pas plus vite : le 14/10, tu les as nagés en 0:51-0:56, ce qui a fait monter ton cardio à 178.\n\n## Retour au calme · 100 m\n- Dos crawlé, très lent. Pas de sprint final.\n\n## Repères\n- Si le deuxième 600 dérape au-delà de 2:25, coupe-le en 2 × 300 avec 20 s de repos.\n- 2000 m au total."
+   "title": "2 × 600 m · 2000-2150 m (distance douteuse)",
+   "distance": "2150",
+   "allure": "2:06",
+   "notes": "Garmin : 2150 m, 48:31 (45:15 en mouvement, 1:08:06 au total), 2:06/100, 132 bpm, max 177, SWOLF 44, 12,3 mvts/longueur, 1054 mouvements, TE 2,8/2,3, charge 92. Distance DOUTEUSE : Enzo a perdu le compte des longueurs (bassin bondé, souci de lunettes), rythme irrégulier. Si la séance prévue de 2000 m a été nagée, 45:15 en mouvement donne 2:16/100, bien plus cohérent avec 132 bpm et les séances du 05/10 et du 14/10. Garmin a déjà ajouté des longueurs fantômes le 09/09.",
+   "consignes": "## Échauffement · 300 m\n- Nage souple : 7:15 ou plus pour les 300 m (2:25/100 et plus lent).\n- Le 05/10 et le 14/10, tu étais à 2:03-2:08 : c'est trop rapide, tu entames ta séance avant de commencer.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:20/100 m, soit 13:30 à 14:00 par 600.\n- 45 s de repos au mur entre les deux.\n- Pars au bas de la cible (2:20) et finis vers 2:15, comme tes 400 du 14/10.\n\n## Allure vive · 200 m\n- 4 × 50 m en 1:00 à 1:02 chacun, 20 s de repos.\n- Pas plus vite : le 14/10, tu les as nagés en 0:51-0:56, ce qui a fait monter ton cardio à 178.\n\n## Retour au calme · 100 m\n- Dos crawlé, très lent. Pas de sprint final.\n\n## Repères\n- Si le deuxième 600 dérape au-delà de 2:25, coupe-le en 2 × 300 avec 20 s de repos.\n- 2000 m au total.",
+   "duree": "48:31",
+   "fc": "132",
+   "fcmax": "177",
+   "swolf": "44",
+   "mvts": "12,3",
+   "bassin": "25",
+   "te": "2,8",
+   "tean": "2,3",
+   "calories": "498",
+   "garmin": true,
+   "cr": {
+    "avis": "Séance faite malgré de mauvaises conditions (monde, lunettes) : c'est une séance de volume utile, pas une séance de référence.",
+    "progression": "Les 2150 m et 2:06/100 ne tiennent pas : 9 s/100 plus vite que le 14/10 avec 9 bpm de moins, c'est improbable. Sur 2000 m, tu es à 2:16, soit le même niveau que le 05/10 et le 14/10.",
+    "plus": "Technique toujours propre malgré la gêne : 12,3 mouvements par longueur, SWOLF 44.",
+    "moins": "Rythme haché : effet anaérobie 2,3 et pic à 177 bpm, des relances au lieu de blocs réguliers. Le 2 × 600 reste à valider."
+   }
   }
  ]
 }

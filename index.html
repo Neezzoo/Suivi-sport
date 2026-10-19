@@ -219,6 +219,43 @@ td.last{font-weight:600;font-size:13px;line-height:1.35}
   .btn,.tab{min-height:40px}
   .f input,.f select,.f textarea,.sets input,.ex input.exn{font-size:16px}
 }
+/* Historique des semaines */
+.hist{display:flex;flex-direction:column;gap:6px}
+.hw{display:grid;grid-template-columns:150px minmax(0,1fr);gap:4px 14px;align-items:start;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:9px 12px}
+.hw .t{font-family:var(--f-display);font-weight:600;font-size:15px;text-transform:uppercase;letter-spacing:.03em}
+.hw .t small{display:block;font-family:var(--f-body);text-transform:none;letter-spacing:0;font-weight:500;color:var(--muted);font-size:12.5px}
+.chips{display:flex;flex-wrap:wrap;gap:5px;min-width:0}
+.chip{--c:var(--accent);display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-left:3px solid var(--c);background:var(--bg);border-radius:6px;padding:3px 8px;font-size:13.5px;cursor:pointer;max-width:100%;color:var(--ink)}
+.chip .d{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.chip .x{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.chip.prevu{border-style:dashed;border-left-style:solid;color:var(--muted)}
+/* Calendrier */
+.cal-head{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.cal-head h2{font-size:28px;font-weight:700;text-transform:uppercase}
+.cal-nav{display:flex;gap:6px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:10px;height:10px;border-radius:3px;background:var(--c)}
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--line);gap:1px}
+.cal .dow{background:var(--sunk);font-family:var(--f-display);font-weight:600;font-size:12.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:6px 8px}
+.cal .day{background:var(--surface);min-height:104px;padding:6px;display:flex;flex-direction:column;gap:4px;min-width:0}
+.cal .day.out{background:var(--bg)}
+.cal .day.out .n{opacity:.45}
+.cal .day .n{font-family:var(--f-display);font-weight:600;font-size:15px;font-variant-numeric:tabular-nums}
+.cal .day.today .n{background:var(--ink);color:var(--bg);border-radius:999px;width:24px;height:24px;display:inline-flex;align-items:center;justify-content:center}
+.ev{--c:var(--accent);display:block;width:100%;text-align:left;border:0;border-radius:5px;padding:3px 6px;font-size:12.5px;line-height:1.25;font-weight:600;background:var(--c);color:var(--on-accent);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer}
+.ev.prevu{background:transparent;color:var(--c);box-shadow:inset 0 0 0 1.5px var(--c)}
+.mstats{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:14px}
+.mstats b{color:var(--ink);font-family:var(--f-display);font-size:19px;font-weight:600}
+@media (max-width:620px){
+  .hw{grid-template-columns:1fr}
+  .cal .day{min-height:64px;padding:4px 3px;gap:3px}
+  .cal .dow{padding:5px 3px;font-size:11px;text-align:center}
+  .cal .day .n{font-size:13px}
+  .ev{font-size:0;padding:0;height:8px;border-radius:4px}
+  .ev.prevu{box-shadow:inset 0 0 0 1.5px var(--c)}
+  .cal-head h2{font-size:22px}
+}
 @media (prefers-reduced-motion:no-preference){.btn,.tab{transition:background .15s,border-color .15s}}
 </style>
 </head><body>
@@ -328,11 +365,11 @@ function render(){
   var c=conflicts();
   var html='<div class="wrap">'+bib()+
     '<div class="bar"><nav class="tabs" role="tablist" aria-label="Rubriques">'+
-    tabBtn('semaine','Semaine','var(--accent)')+
+    tabBtn('semaine','Semaine','var(--accent)')+tabBtn('calendrier','Calendrier','var(--ink)')+
     Object.keys(SP).map(function(k){return tabBtn(SP[k].hash,SP[k].label,SP[k].c);}).join('')+
     '</nav><span class="save" id="save">'+saveLabel()+'</span><button class="btn ghost" data-act="sync">'+(token()?'Synchro GitHub':'Connecter GitHub')+'</button></div>';
   var sp=sportOf(tab);
-  html+= sp? sportPanel(sp,c) : weekPanel(c);
+  html+= sp? sportPanel(sp,c) : tab==='calendrier'? calPanel() : weekPanel(c);
   html+='</div>';
   if(syncOpen) html+=syncView(); else if(modal) html+=dialog(); else if(detail) html+=detailView();
   app.innerHTML=html;
@@ -348,6 +385,47 @@ function bib(){
 }
 function saveLabel(){
   return {idle:'',saving:'Enregistrement…',saved:'Enregistré et synchronisé',readonly:'Gardé sur cet appareil seulement : connecte GitHub pour synchroniser',pending:'Modifications en attente d\'envoi',error:'Échec de l\'envoi : vérifie ta connexion ou ton jeton'}[saveState]||'';
+}
+
+var JOURS=['lun.','mar.','mer.','jeu.','ven.','sam.','dim.'];
+function dayIdx(d){return (d.getDay()+6)%7;}
+/* Historique : une ligne par semaine passée, juste le nom des séances */
+function historyBlock(ws){
+  var past=S.sessions.filter(function(s){var d=pd(s.date);return d&&d<ws;});
+  if(!past.length) return '';
+  var first=weekStart(pd(past.reduce(function(m,s){return s.date<m?s.date:m;},past[0].date)));
+  var h='<div class="group-title">Semaines précédentes</div><div class="hist">';
+  for(var w=new Date(ws);w>first;){
+    w=new Date(w);w.setDate(w.getDate()-7);
+    var e=new Date(w);e.setDate(e.getDate()+6);
+    var inW=past.filter(function(s){var d=pd(s.date);return d>=w&&d<=e;}).sort(function(a,b){return a.date<b.date?-1:1;});
+    var nd=inW.filter(function(s){return s.status==='fait';}).length;
+    h+='<div class="hw"><div class="t">'+w.getDate()+' – '+fmtD(iso(e))+'<small>'+nd+' séance'+(nd>1?'s':'')+'</small></div><div class="chips">'+
+      (inW.length?inW.map(function(s){var d=pd(s.date);return '<span class="chip '+s.status+'" data-open="'+s.id+'" style="--c:'+SP[s.sport].c+'"><span class="d">'+JOURS[dayIdx(d)]+' '+d.getDate()+'</span><span class="x">'+esc(s.title||SP[s.sport].label)+(s.status==='prevu'?' · non faite':'')+'</span></span>';}).join(''):'<span class="hint">Aucune séance</span>')+
+      '</div></div>';
+  }
+  return h+'</div>';
+}
+/* Calendrier mensuel */
+var calM=null;
+function calPanel(){
+  var t=today();if(!calM)calM=new Date(t.getFullYear(),t.getMonth(),1);
+  var y=calM.getFullYear(),m=calM.getMonth(),last=new Date(y,m+1,0);
+  var start=weekStart(new Date(y,m,1)),end=new Date(last);end.setDate(end.getDate()+(6-dayIdx(last)));
+  var MOISL=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+  var inM=S.sessions.filter(function(s){var d=pd(s.date);return d&&d.getFullYear()===y&&d.getMonth()===m;});
+  var st=['nat','velo','muscu','cap'].map(function(k){var n=inM.filter(function(s){return s.sport===k&&s.status==='fait';}).length;return n?'<span><b class="num">'+n+'</b> '+SP[k].label.toLowerCase()+'</span>':'';}).join('');
+  var h='<section class="panel"><div class="cal-head"><h2>'+MOISL[m]+' '+y+'</h2><div class="cal-nav"><button class="btn" data-act="cal-prev" aria-label="Mois précédent">‹</button><button class="btn" data-act="cal-today">Aujourd\'hui</button><button class="btn" data-act="cal-next" aria-label="Mois suivant">›</button></div></div>'+
+    '<div class="mstats">'+(st||'<span>Aucune séance faite ce mois-ci</span>')+'</div>'+
+    '<div class="legend">'+['nat','velo','muscu','cap'].map(function(k){return '<span style="--c:'+SP[k].c+'"><i></i>'+SP[k].label+'</span>';}).join('')+'<span>Contour seul : à faire</span></div>'+
+    '<div class="cal">'+['Lun','Mar','Mer','Jeu','Ven','Sam','Dim'].map(function(x){return '<div class="dow">'+x+'</div>';}).join('');
+  for(var d=new Date(start);d<=end;d.setDate(d.getDate()+1)){
+    var k=iso(d),ev=S.sessions.filter(function(s){return s.date===k;});
+    h+='<div class="day'+(d.getMonth()!==m?' out':'')+(k===iso(t)?' today':'')+'"><span class="n">'+d.getDate()+'</span>'+
+      ev.map(function(s){return '<button class="ev '+s.status+'" data-open="'+s.id+'" style="--c:'+SP[s.sport].c+'" title="'+esc(s.title||'')+'">'+esc(s.title||SP[s.sport].label)+'</button>';}).join('')+'</div>';
+  }
+  h+='</div><p class="hint" style="margin:0">Touche une séance pour ouvrir sa fiche.</p>';
+  return h+'</section>';
 }
 
 function weekPanel(c){
@@ -371,6 +449,7 @@ function weekPanel(c){
   var cal=S.sessions.filter(function(s){return s.status==='prevu'&&!s.date;});
   h+='<div class="group-title">Prochaines séances</div><div class="list">'+(next.length?next.map(function(s){return card(s,c);}).join(''):'<div class="empty">Aucune séance datée à venir.</div>')+'</div>';
   if(cal.length) h+='<div class="group-title">À caler dans ton emploi du temps</div><div class="list">'+cal.map(function(s){return card(s,c);}).join('')+'</div>';
+  h+=historyBlock(ws);
   h+='<div class="rules"><b>Règles de la semaine</b><ul>'+
     '<li>1 natation, 1 vélo, 2 upper. Pas de jours fixes, tu cales selon ton emploi du temps.</li>'+
     '<li>Jamais deux upper à moins de 48 h.</li>'+
@@ -626,6 +705,8 @@ document.addEventListener('click',function(ev){
   var a=b.dataset.act,id=b.dataset.id;
   if(a==='close-bg'){if(ev.target===b){modal=null;detail=null;syncOpen=false;render();}return;}
   if(a==='sync'){syncOpen=true;render();return;}
+  if(a==='cal-prev'||a==='cal-next'){calM=new Date(calM.getFullYear(),calM.getMonth()+(a==='cal-next'?1:-1),1);render();return;}
+  if(a==='cal-today'){calM=null;render();return;}
   if(a==='tok-save'){var v=document.getElementById('f-tok').value.trim();try{localStorage.setItem('gh_token',v);}catch(e){}syncOpen=false;render();persist();return;}
   if(a==='tok-del'){try{localStorage.removeItem('gh_token');}catch(e){}syncOpen=false;render();return;}
   if(a==='add'){var sp=b.dataset.sport;modal={isNew:true,s:{id:'s'+Date.now().toString(36),sport:sp,status:'prevu',date:'',title:'',prog:'U1',sets:{}}};render();return;}

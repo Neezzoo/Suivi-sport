@@ -989,6 +989,17 @@
     "plus": "Tu as fait l'arrière d'épaule, enfin ! C'est l'exercice qui protège ton épaule gauche, et tu l'avais sauté sur tes trois dernières séances.",
     "moins": "Tractions et tirage la même semaine que la natation : surveille ton épaule gauche et ton poignet droit sur la prochaine natation."
    }
+  },
+  {
+   "id": "n7",
+   "sport": "nat",
+   "status": "prevu",
+   "date": "2026-10-19",
+   "title": "2 × 600 m · 2000 m",
+   "distance": "2000",
+   "allure": "2:15-2:20",
+   "notes": "Suite du 14/10 : mêmes 1200 m d'allure, mais en 2 blocs de 600 m au lieu de 3 × 400.",
+   "consignes": "## Échauffement · 300 m\n- Nage souple : 7:15 ou plus pour les 300 m (2:25/100 et plus lent).\n- Le 05/10 et le 14/10, tu étais à 2:03-2:08 : c'est trop rapide, tu entames ta séance avant de commencer.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:20/100 m, soit 13:30 à 14:00 par 600.\n- 45 s de repos au mur entre les deux.\n- Pars au bas de la cible (2:20) et finis vers 2:15, comme tes 400 du 14/10.\n\n## Allure vive · 200 m\n- 4 × 50 m en 1:00 à 1:02 chacun, 20 s de repos.\n- Pas plus vite : le 14/10, tu les as nagés en 0:51-0:56, ce qui a fait monter ton cardio à 178.\n\n## Retour au calme · 100 m\n- Dos crawlé, très lent. Pas de sprint final.\n\n## Repères\n- Si le deuxième 600 dérape au-delà de 2:25, coupe-le en 2 × 300 avec 20 s de repos.\n- 2000 m au total."
   }
  ]
 }

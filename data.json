@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 25,
+ "seq": 26,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1015,6 +1015,148 @@
     "progression": "Les 2150 m et 2:06/100 ne tiennent pas : 9 s/100 plus vite que le 14/10 avec 9 bpm de moins, c'est improbable. Sur 2000 m, tu es à 2:16, soit le même niveau que le 05/10 et le 14/10.",
     "plus": "Technique toujours propre malgré la gêne : 12,3 mouvements par longueur, SWOLF 44.",
     "moins": "Rythme haché : effet anaérobie 2,3 et pic à 177 bpm, des relances au lieu de blocs réguliers. Le 2 × 600 reste à valider."
+   }
+  },
+  {
+   "id": "s26",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-10-20",
+   "title": "Upper 2",
+   "prog": "U2",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "52",
+       "r": "12"
+      },
+      {
+       "kg": "52",
+       "r": "12"
+      },
+      {
+       "kg": "52",
+       "r": "12"
+      },
+      {
+       "kg": "52",
+       "r": "12"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "27",
+       "r": "10-12"
+      },
+      {
+       "kg": "32",
+       "r": "10-12"
+      },
+      {
+       "kg": "36",
+       "r": "10-12"
+      },
+      {
+       "kg": "36",
+       "r": "10-12"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "36",
+       "r": "10-12"
+      },
+      {
+       "kg": "41",
+       "r": "10-12"
+      },
+      {
+       "kg": "41",
+       "r": "10-12"
+      },
+      {
+       "kg": "41",
+       "r": "10-12"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "6,8",
+       "r": "10-12"
+      },
+      {
+       "kg": "6,8",
+       "r": "10-12"
+      },
+      {
+       "kg": "6,8",
+       "r": "10-12"
+      },
+      {
+       "kg": "6,8",
+       "r": "10-12"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "13",
+       "r": "10-12"
+      },
+      {
+       "kg": "13",
+       "r": "10-12"
+      },
+      {
+       "kg": "13",
+       "r": "10-12"
+      },
+      {
+       "kg": "13",
+       "r": "10-12"
+      }
+     ],
+     [
+      {
+       "kg": "18",
+       "r": "10-12"
+      },
+      {
+       "kg": "18",
+       "r": "10-12"
+      },
+      {
+       "kg": "18",
+       "r": "10-12"
+      },
+      {
+       "kg": "18",
+       "r": "10-12"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "0": "12 reps à chaque série.",
+    "1": "Machine. Montée de 27 à 36 kg.",
+    "2": "Machine.",
+    "3": "Poulie, 6,8 kg par bras.",
+    "4": "Comme le 11/10 : curl 13 kg, extension corde 18 kg."
+   },
+   "notes": "Oiseau non fait.",
+   "cr": {
+    "avis": "Très bonne séance : tu progresses sur trois exercices sur quatre par rapport au 11/10.",
+    "progression": "Militaire 27 → 36 kg (+33 %), tirage poitrine 36 → 41 kg, tirage vertical toujours à 52 kg mais à 12 reps sur les 4 séries. Écartés redescendus de 9 à 6,8 kg par bras.",
+    "plus": "Tirage vertical à 12 reps partout : haut de la fourchette atteint, donc tu montes la charge la prochaine fois (vers 55-59 kg). Grosse marche sur le militaire.",
+    "moins": "Le militaire a pris 9 kg en une séance avec ton épaule gauche fragile : garde 36 kg la prochaine fois tant que les 10 reps ne sont pas propres et sans gêne. L'oiseau a encore sauté."
    }
   }
  ]

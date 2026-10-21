@@ -1157,6 +1157,32 @@
     "plus": "Tirage vertical à 12 reps partout : haut de la fourchette atteint, donc tu montes la charge la prochaine fois (vers 55-59 kg). Grosse marche sur le militaire.",
     "moins": "Le militaire a pris 9 kg en une séance avec ton épaule gauche fragile : garde 36 kg la prochaine fois tant que les 10 reps ne sont pas propres et sans gêne."
    }
+  },
+  {
+   "id": "v6",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-10-21",
+   "title": "Sortie longue EF 2 h · 57 km",
+   "duree": "2h00",
+   "distance": "57",
+   "vitesse": "28,5",
+   "resistance": "9",
+   "fc": "148",
+   "fcmax": "165",
+   "te": "3,9",
+   "tean": "0,8",
+   "calories": "1276",
+   "rpe": "5",
+   "garmin": true,
+   "notes": "Vélo de salle : résistance 6 au début et à la fin, 9 pendant 1h45. Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti fort, effort 5/10. Charge 147. 1102 kcal actives. Perte de sueur estimée 1,77 L. Ravitaillement prévu : petites madeleines (2 juste avant, puis à 40 min, 1h10 et 1h35).",
+   "consignes": "## 0 à 10 min · échauffement\n- Résistance 6 à 8, cadence 90 et plus, cardio vers 130 bpm.\n\n## 10 min à 1h50 · bloc endurance\n- Résistance 10, cadence 85 à 95, cardio entre 140 et 148 bpm.\n- Dès que le cardio passe 150, résistance 8 jusqu'à revenir sous 145.\n- Pas de finish appuyé.\n\n## 1h50 à 2h00 · retour au calme\n- Résistance 6, cadence libre.\n\n## Hydratation et alimentation\n- Environ 1,5 L sur la séance.\n- 2 madeleines juste avant, 2 à 40 min, 2 à 1h10, 1 ou 2 à 1h35.\n\n## Repères\n- Séance réussie si la moyenne est de 147 bpm ou moins sur 2 h.",
+   "cr": {
+    "avis": "Bonne séance : les 2 h sont faites, en endurance, et Garmin la classe Base. Objectif de moyenne manqué d'un battement (148 contre 147 ou moins), ce qui reste tout à fait correct.",
+    "progression": "Par rapport au 12/10 : 21 min et 9 km de plus (57 contre 48), vitesse quasi identique (28,5 contre 29 km/h), pour seulement 4 bpm de plus en moyenne (148 contre 144). La charge passe de 87 à 147, logique avec la durée.",
+    "plus": "Tu as tenu 2 h sans exploser : effort ressenti 5/10, ressenti fort, anaérobie à 0,8. Tu as bien gardé la résistance 9 au lieu de forcer à 10.",
+    "moins": "Pic à 165 bpm : tu es passé au-dessus de 150 sur une partie de la séance, sûrement en fin de séance avec la dérive cardiaque. Le réflexe « résistance 8 dès 150 » n'a pas encore été appliqué."
+   }
   }
  ]
 }

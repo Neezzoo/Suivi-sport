@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 26,
+ "seq": 27,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1182,6 +1182,148 @@
     "progression": "Par rapport au 12/10 : 21 min et 9 km de plus (57 contre 48), vitesse quasi identique (28,5 contre 29 km/h), pour seulement 4 bpm de plus en moyenne (148 contre 144). La charge passe de 87 à 147, logique avec la durée.",
     "plus": "Tu as tenu 2 h sans exploser : effort ressenti 5/10, ressenti fort, anaérobie à 0,8. Tu as bien gardé la résistance 9 au lieu de forcer à 10.",
     "moins": "Pic à 165 bpm : tu es passé au-dessus de 150 sur une partie de la séance, sûrement en fin de séance avec la dérive cardiaque. Le réflexe « résistance 8 dès 150 » n'a pas encore été appliqué."
+   }
+  },
+  {
+   "id": "s27",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-10-23",
+   "title": "Upper 1",
+   "prog": "U1",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "45",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "52",
+       "r": "8-12"
+      },
+      {
+       "kg": "45",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "20",
+       "r": "8-12"
+      },
+      {
+       "kg": "25",
+       "r": "8-12"
+      },
+      {
+       "kg": "20",
+       "r": "8-12"
+      },
+      {
+       "kg": "20",
+       "r": "8-12"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "4,5",
+       "r": "10"
+      },
+      {
+       "kg": "4,5",
+       "r": "10"
+      },
+      {
+       "kg": "4,5",
+       "r": "10"
+      },
+      {
+       "kg": "4,5",
+       "r": "10"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      }
+     ],
+     [
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      },
+      {
+       "kg": "15,8",
+       "r": "8-12"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "0": "Haltères, 10 reps.",
+    "2": "Machine, par bras.",
+    "3": "À la poulie : 10 reps à 4,5 kg puis 5 reps à 2,3 kg (série dégressive).",
+    "4": "Comme le 07/10 : les deux à la poulie avec la corde.",
+    "5": "Pas fait (manque de temps, choix d'Enzo)."
+   },
+   "notes": "Mêmes charges que l'Upper 1 du 15/10 (2e séance de suite aux mêmes charges).",
+   "cr": {
+    "avis": "Séance faite, mêmes charges que le 15/10.",
+    "progression": "Charges identiques sur tous les exercices depuis le 15/10 : c'est le moment de monter là où tu es en haut de fourchette.",
+    "plus": "Régularité : deux Upper par semaine tenues.",
+    "moins": "Prochaine fois : tirage poulie à 52 kg sur les 4 séries et incliné machine à 25 kg par bras partout si tu as atteint 12 reps ; développé couché à 26 kg dès que les 4 séries à 24 kg passent à 12 ; élévations à 4,5 kg jusqu'à 15 reps."
    }
   }
  ]

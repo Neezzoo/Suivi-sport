@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 27,
+ "seq": 28,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1324,6 +1324,71 @@
     "progression": "Charges identiques sur tous les exercices depuis le 15/10 : c'est le moment de monter là où tu es en haut de fourchette.",
     "plus": "Régularité : deux Upper par semaine tenues.",
     "moins": "Prochaine fois : tirage poulie à 52 kg sur les 4 séries et incliné machine à 25 kg par bras partout si tu as atteint 12 reps ; développé couché à 26 kg dès que les 4 séries à 24 kg passent à 12 ; élévations à 4,5 kg jusqu'à 15 reps."
+   }
+  },
+  {
+   "id": "n8",
+   "sport": "nat",
+   "status": "fait",
+   "date": "2026-10-27",
+   "title": "2 × 600 m · 2000 m",
+   "distance": "2000",
+   "allure": "2:28",
+   "notes": "Garmin affiche 2050 m mais a compté une longueur de trop deux fois (625 au lieu de 600 sur le 2e bloc, 225 au lieu de 200 au retour au calme) : 2000 m réels. 49:16 en mouvement, soit 2:28/100 réel (Garmin 2:24). 1:01:02 écoulé. 1124 mouvements, 23 mvts/min, charge 88.",
+   "consignes": "## Échauffement · 500 m\n- 300 m très souples, plus lent que 2:25/100 (7:15 ou plus).\n- 4 × 50 m éducatifs (25 m rattrapé, 25 m nage complète), 15 s de récup.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:18/100, soit 13:30 à 13:50 par 600.\n- Le 2e égal ou un peu plus rapide que le 1er, jamais sous 2:12.\n- 1 min de récup au mur.\n\n## Retour au calme · 300 m\n- 200 m souples, puis 100 m dos ou brasse très tranquille.",
+   "duree": "53:25",
+   "fc": "137",
+   "fcmax": "164",
+   "swolf": "50",
+   "mvts": "13,7",
+   "bassin": "25",
+   "te": "3,0",
+   "tean": "1,8",
+   "calories": "497",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "Échauffement",
+     "temps": "9:01",
+     "dist": "300 m",
+     "allure": "2:25"
+    },
+    {
+     "label": "Éducatifs",
+     "temps": "6:56",
+     "dist": "200 m",
+     "allure": "2:30"
+    },
+    {
+     "label": "600 n°1",
+     "temps": "13:43",
+     "dist": "600 m",
+     "allure": "2:17"
+    },
+    {
+     "label": "600 n°2",
+     "temps": "14:47",
+     "dist": "600 m",
+     "allure": "2:28"
+    },
+    {
+     "label": "Retour au calme",
+     "temps": "5:48",
+     "dist": "200 m",
+     "allure": "2:54"
+    },
+    {
+     "label": "Dos / brasse",
+     "temps": "3:09",
+     "dist": "100 m",
+     "allure": "3:09"
+    }
+   ],
+   "cr": {
+    "avis": "Séance faite en entier et enfin un échauffement au bon rythme, mais le 2e 600 a lâché : le 2 × 600 n'est validé qu'à moitié.",
+    "progression": "Premier 600 à 2:17, pile dans la cible. Le 2e passe à 2:28 réel (14:47), 11 s/100 plus lent et au-delà du repère de 2:25. Le 14/10, tes 3 × 400 étaient en négatif split : tenir 600 d'affilée est la marche suivante.",
+    "plus": "Échauffement à 2:25 comme demandé, pour la première fois. Cardio maîtrisé (137 de moyenne, 164 max, Garmin Base) : plus de pics à 177-178.",
+    "moins": "Dérive sur le 2e 600 et technique qui se dégrade avec la fatigue (SWOLF 50, 13,7 mouvements contre 44 et 12,3 en forme). Le 1er 600 était sûrement un poil trop ambitieux."
    }
   }
  ]

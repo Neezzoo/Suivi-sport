@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 28,
+ "seq": 29,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1389,6 +1389,155 @@
     "progression": "Premier 600 à 2:17, pile dans la cible. Le 2e passe à 2:28 réel (14:47), 11 s/100 plus lent et au-delà du repère de 2:25. Le 14/10, tes 3 × 400 étaient en négatif split : tenir 600 d'affilée est la marche suivante.",
     "plus": "Échauffement à 2:25 comme demandé, pour la première fois. Cardio maîtrisé (137 de moyenne, 164 max, Garmin Base) : plus de pics à 177-178.",
     "moins": "Dérive sur le 2e 600 et technique qui se dégrade avec la fatigue (SWOLF 50, 13,7 mouvements contre 44 et 12,3 en forme). Le 1er 600 était sûrement un poil trop ambitieux."
+   }
+  },
+  {
+   "id": "s29",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-10-28",
+   "title": "Upper 2",
+   "prog": "U2",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "52",
+       "r": "12"
+      },
+      {
+       "kg": "59",
+       "r": "10"
+      },
+      {
+       "kg": "59",
+       "r": "10"
+      },
+      {
+       "kg": "59",
+       "r": "8"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "32",
+       "r": "12"
+      },
+      {
+       "kg": "32",
+       "r": "12"
+      },
+      {
+       "kg": "32",
+       "r": "12"
+      },
+      {
+       "kg": "32",
+       "r": "12"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "41",
+       "r": "12"
+      },
+      {
+       "kg": "41",
+       "r": "12"
+      },
+      {
+       "kg": "46",
+       "r": "10"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "59",
+       "r": "12"
+      },
+      {
+       "kg": "66",
+       "r": "12"
+      },
+      {
+       "kg": "66",
+       "r": "12"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15",
+       "r": "10-12"
+      },
+      {
+       "kg": "15",
+       "r": "10-12"
+      },
+      {
+       "kg": "15",
+       "r": "10-12"
+      },
+      {
+       "kg": "15",
+       "r": "10-12"
+      }
+     ],
+     [
+      {
+       "kg": "20",
+       "r": "10-12"
+      },
+      {
+       "kg": "20",
+       "r": "10-12"
+      },
+      {
+       "kg": "20",
+       "r": "10-12"
+      },
+      {
+       "kg": "20",
+       "r": "10-12"
+      }
+     ]
+    ],
+    "5": [
+     [
+      {
+       "kg": "41",
+       "r": "12"
+      },
+      {
+       "kg": "41",
+       "r": "12"
+      },
+      {
+       "kg": "41",
+       "r": "12"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "1": "Machine, 4 séries de 12.",
+    "3": "Pec fly (pec deck machine) : charges non comparables avec la poulie.",
+    "4": "4 séries par choix. Curl 15 kg, triceps prise triangle 20 kg.",
+    "5": "Oiseau machine, 1re fois."
+   },
+   "notes": "3 séries poussées (1-2 reps en réserve) au lieu de 4, sauf les bras (4 séries par choix).",
+   "cr": {
+    "avis": "Très bonne séance : tu as monté les charges et appliqué le passage à 3 séries.",
+    "progression": "Tirage vertical 52 → 59 kg, tirage poitrine jusqu'à 46 kg, curl 13 → 15 kg, triceps 18 → 20 kg. Militaire redescendu à 32 kg mais à 12 reps sur 4 séries.",
+    "plus": "Oiseau machine fait pour la 1re fois (41 kg × 12). Militaire propre à 12 reps, c'est mieux pour l'épaule gauche que forcer à 36.",
+    "moins": "Tirage vertical à 10/10/8 à 59 kg : reste à 59 jusqu'à 10 reps partout. Prochaine fois : militaire 34-36 kg, tirage poitrine 46 kg sur 2 séries, pec fly 66 kg sur les 3 séries."
    }
   }
  ]

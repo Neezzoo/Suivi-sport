@@ -1539,6 +1539,32 @@
     "plus": "Oiseau machine fait pour la 1re fois (41 kg × 12). Militaire propre à 12 reps, c'est mieux pour l'épaule gauche que forcer à 36.",
     "moins": "Tirage vertical à 10/10/8 à 59 kg : reste à 59 jusqu'à 10 reps partout. Prochaine fois : militaire 34-36 kg, tirage poitrine 46 kg sur 2 séries, pec fly 66 kg sur les 3 séries."
    }
+  },
+  {
+   "id": "v7",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-10-29",
+   "title": "Sortie EF écourtée · 39 km",
+   "duree": "1h23",
+   "distance": "39",
+   "vitesse": "28",
+   "resistance": "9",
+   "fc": "149",
+   "fcmax": "162",
+   "te": "3,6",
+   "tean": "0,0",
+   "calories": "934",
+   "rpe": "6",
+   "garmin": true,
+   "notes": "Vélo de salle, résistance 9, passée à 6 quand douleur et fatigue. Séance prévue 2 h, arrêtée à 1h23 : douleur au genou, fatigue rapide, peu d'énergie, pas de madeleines. Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti normal, effort 6/10. Charge 114. 813 kcal actives. Perte de sueur estimée 1,18 L.",
+   "consignes": "## 0 à 10 min · échauffement\n- Résistance 6 à 7, cadence 90 et plus, cardio vers 130 bpm.\n\n## 10 min à 1h50 · bloc endurance\n- Résistance 9, cadence 85 à 95, cardio entre 138 et 146 bpm.\n- Dès que le cardio passe 150, résistance 8 jusqu'à revenir sous 145.\n- Toutes les 20 min : 1 min de vélocité, résistance 6, cadence maximale sans rebondir.\n\n## 1h50 à 2h00 · retour au calme\n- Résistance 6.\n\n## Repères\n- Moyenne de 145 bpm ou moins, max sous 155.",
+   "cr": {
+    "avis": "Bonne décision d'avoir écourté : avec une douleur au genou, on ne force pas. La séance reste utile, classée Base par Garmin.",
+    "progression": "Par rapport au 21/10 : 37 min de moins et 1 bpm de plus en moyenne (149 contre 148) à une vitesse proche (28 contre 28,5 km/h). Effort ressenti 6/10 contre 5 : c'était un jour sans.",
+    "plus": "Anaérobie à 0 et max à 162 : pas de dérapage d'intensité, tu as su lever le pied.",
+    "moins": "Cardio élevé pour l'allure et énergie basse, sans doute la fatigue de la semaine (natation le 27, Upper 2 le 28) et pas de sucre pendant. Douleur au genou à surveiller."
+   }
   }
  ]
 }

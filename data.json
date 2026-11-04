@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 30,
+ "seq": 31,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1574,6 +1574,159 @@
    "title": "Upper Hors série",
    "notes": "Séance avec des amis, hors programme. Charges non communiquées.",
    "consignes": "## Exercices faits\n- Tirage vertical\n- Tirage horizontal\n- Développé couché machine\n- Poulie vis-à-vis vers le bas\n- Face pull\n- Élévations latérales\n- Extension triceps au-dessus de la tête\n- Curl marteau à la corde"
+  },
+  {
+   "id": "s31",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-11-04",
+   "title": "Upper 1",
+   "prog": "U1",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "24",
+       "r": "12"
+      },
+      {
+       "kg": "24",
+       "r": "12"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "12"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "52",
+       "r": "10"
+      },
+      {
+       "kg": "52",
+       "r": "10"
+      },
+      {
+       "kg": "52",
+       "r": "10"
+      },
+      {
+       "kg": "52",
+       "r": "10"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "20",
+       "r": "10"
+      },
+      {
+       "kg": "25",
+       "r": "10"
+      },
+      {
+       "kg": "25",
+       "r": "10"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "4,5",
+       "r": "15"
+      },
+      {
+       "kg": "4,5",
+       "r": "15"
+      },
+      {
+       "kg": "4,5",
+       "r": "15"
+      },
+      {
+       "kg": "4,5",
+       "r": "15"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15,8",
+       "r": "12"
+      },
+      {
+       "kg": "15,8",
+       "r": "12"
+      },
+      {
+       "kg": "15,8",
+       "r": "12"
+      },
+      {
+       "kg": "15,8",
+       "r": "14"
+      }
+     ],
+     [
+      {
+       "kg": "15,8",
+       "r": "15"
+      },
+      {
+       "kg": "18",
+       "r": "12"
+      },
+      {
+       "kg": "18",
+       "r": "12"
+      },
+      {
+       "kg": "18",
+       "r": "14"
+      }
+     ]
+    ],
+    "5": [
+     [
+      {
+       "kg": "27",
+       "r": "15"
+      },
+      {
+       "kg": "27",
+       "r": "15"
+      },
+      {
+       "kg": "27",
+       "r": "15"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "2": "Machine, par bras.",
+    "3": "À la poulie.",
+    "4": "Curl marteau à la corde puis extension poulie haute.",
+    "5": "Face pull corde."
+   },
+   "notes": "Entorse du week-end : ni natation ni vélo cette semaine.",
+   "cr": {
+    "avis": "Excellente séance : tu as monté les charges comme prévu et tu as fait le face pull.",
+    "progression": "Tirage 52 kg sur les 4 séries (contre 45/52/52/45), incliné à 25 kg par bras, couché à 24 kg presque à 12 partout, élévations à 15 reps, bras en hausse (curl et extension).",
+    "plus": "Face pull fait (27 kg × 15). Élévations à 15 reps sur les 4 séries : haut de fourchette atteint.",
+    "moins": "Prochaine fois : couché 26 kg, élévations à la charge au-dessus, tirage 52 kg en visant 12 reps, incliné 25 kg sur les 3 séries."
+   }
   }
  ]
 }

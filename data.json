@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 29,
+ "seq": 30,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1565,6 +1565,14 @@
     "plus": "Anaérobie à 0 et max à 162 : pas de dérapage d'intensité, tu as su lever le pied.",
     "moins": "Cardio élevé pour l'allure et énergie basse, sans doute la fatigue de la semaine (natation le 27, Upper 2 le 28) et pas de sucre pendant. Douleur au genou à surveiller."
    }
+  },
+  {
+   "id": "s30",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-10-31",
+   "title": "Upper Hors série",
+   "notes": "Séance avec des amis, hors programme. Exercices et charges non communiqués."
   }
  ]
 }

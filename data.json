@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 31,
+ "seq": 32,
  "cap": {
   "reprise": false,
   "depuis": ""
@@ -1726,6 +1726,160 @@
     "progression": "Tirage 52 kg sur les 4 séries (contre 45/52/52/45), incliné à 25 kg par bras, couché à 24 kg presque à 12 partout, élévations à 15 reps, bras en hausse (curl et extension).",
     "plus": "Face pull fait (27 kg × 15). Élévations à 15 reps sur les 4 séries : haut de fourchette atteint.",
     "moins": "Prochaine fois : couché 26 kg, élévations à la charge au-dessus, tirage 52 kg en visant 12 reps, incliné 25 kg sur les 3 séries."
+   }
+  },
+  {
+   "id": "s32",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-11-06",
+   "title": "Upper 2",
+   "prog": "U2",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "59",
+       "r": "10"
+      },
+      {
+       "kg": "59",
+       "r": "10"
+      },
+      {
+       "kg": "59",
+       "r": "10"
+      },
+      {
+       "kg": "59",
+       "r": "8"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "32",
+       "r": "12"
+      },
+      {
+       "kg": "32",
+       "r": "12"
+      },
+      {
+       "kg": "32",
+       "r": "12"
+      },
+      {
+       "kg": "32",
+       "r": "12"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "39",
+       "r": "12"
+      },
+      {
+       "kg": "45",
+       "r": "12"
+      },
+      {
+       "kg": "45",
+       "r": "12"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "4,5",
+       "r": "14"
+      },
+      {
+       "kg": "6",
+       "r": "12"
+      },
+      {
+       "kg": "6",
+       "r": "12"
+      },
+      {
+       "kg": "6",
+       "r": "12"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15",
+       "r": "12"
+      },
+      {
+       "kg": "15",
+       "r": "10"
+      },
+      {
+       "kg": "15",
+       "r": "12"
+      },
+      {
+       "kg": "15",
+       "r": "10"
+      }
+     ],
+     [
+      {
+       "kg": "20",
+       "r": "14"
+      },
+      {
+       "kg": "22,5",
+       "r": "12"
+      },
+      {
+       "kg": "22,5",
+       "r": "12"
+      },
+      {
+       "kg": "22,5",
+       "r": "12"
+      }
+     ]
+    ],
+    "5": [
+     [
+      {
+       "kg": "29,3",
+       "r": "12"
+      },
+      {
+       "kg": "29,3",
+       "r": "15"
+      },
+      {
+       "kg": "29,3",
+       "r": "15"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "1": "Machine.",
+    "2": "À la poulie, prise pronation (pas la machine cette fois) : charges non comparables.",
+    "3": "Poulie vis-à-vis, par bras.",
+    "4": "Curl 15 kg, triceps 20 puis 22,5 kg.",
+    "5": "Face pull corde à la place de l'oiseau au pec fly, qui fait mal à l'épaule."
+   },
+   "notes": "Oiseau au pec fly remplacé par le face pull : douleur à l'épaule. Entorse : ni natation ni vélo cette semaine, vacances la semaine suivante.",
+   "cr": {
+    "avis": "Bonne séance, solide et bien adaptée.",
+    "progression": "Tirage vertical à 59 kg sur 4 séries (10/10/10/8, contre 10/10/8 sur 3 séries), triceps 20 → 22,5 kg, militaire stable à 32 kg × 12.",
+    "plus": "Bon réflexe d'avoir remplacé l'oiseau par le face pull dès que l'épaule a gêné.",
+    "moins": "Douleur à l'épaule sur l'oiseau : à surveiller. Prochaine fois : militaire 34 kg si l'épaule ne gêne pas, sinon reste à 32."
    }
   }
  ]

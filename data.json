@@ -1,1886 +1,2040 @@
 {
- "v": 1,
- "seq": 32,
- "cap": {
-  "reprise": false,
-  "depuis": ""
- },
- "program": {
-  "U1": {
-   "name": "Upper 1",
-   "focus": "Pectoraux et épaisseur du dos",
-   "ex": [
-    [
-     "Développé couché haltères, prise semi-neutre",
-     "4",
-     "10-12",
-     "2 min"
-    ],
-    [
-     "Tirage horizontal poulie basse, prise neutre",
-     "4",
-     "10-12",
-     "2 min"
-    ],
-    [
-     "Développé incliné (machine guidée ou haltères)",
-     "3",
-     "10-12",
-     "2 min"
-    ],
-    [
-     "Élévations latérales haltères",
-     "4",
-     "15",
-     "1 min"
-    ],
-    [
-     "Super-set curl marteau / extension poulie haute",
-     "3",
-     "12-15",
-     "1 min après le duo"
-    ],
-    [
-     "Face pull corde",
-     "2",
-     "15-20",
-     "1 min"
-    ]
-   ]
+  "v": 1,
+  "seq": 33,
+  "cap": {
+    "reprise": false,
+    "depuis": ""
   },
-  "U2": {
-   "name": "Upper 2",
-   "focus": "Épaules et largeur du dos",
-   "ex": [
-    [
-     "Tirage vertical prise large (neutre si le poignet tire)",
-     "4",
-     "10-12",
-     "2 min"
-    ],
-    [
-     "Développé militaire machine, prise neutre",
-     "4",
-     "10-12",
-     "2 min"
-    ],
-    [
-     "Tirage poitrine machine, buste en appui",
-     "3",
-     "10-12",
-     "2 min"
-    ],
-    [
-     "Écartés pec deck ou poulie vis-à-vis",
-     "3",
-     "12-15",
-     "1 min"
-    ],
-    [
-     "Super-set curl poulie basse barre EZ / extension corde",
-     "3",
-     "12-15",
-     "1 min après le duo"
-    ],
-    [
-     "Oiseau machine (reverse pec deck)",
-     "2",
-     "15-20",
-     "1 min"
-    ]
-   ]
+  "program": {
+    "U1": {
+      "name": "Upper 1",
+      "focus": "Pectoraux et épaisseur du dos",
+      "ex": [
+        [
+          "Développé couché haltères, prise semi-neutre",
+          "4",
+          "10-12",
+          "2 min"
+        ],
+        [
+          "Tirage horizontal poulie basse, prise neutre",
+          "4",
+          "10-12",
+          "2 min"
+        ],
+        [
+          "Développé incliné (machine guidée ou haltères)",
+          "3",
+          "10-12",
+          "2 min"
+        ],
+        [
+          "Élévations latérales haltères",
+          "4",
+          "15",
+          "1 min"
+        ],
+        [
+          "Super-set curl marteau / extension poulie haute",
+          "3",
+          "12-15",
+          "1 min après le duo"
+        ],
+        [
+          "Face pull corde",
+          "2",
+          "15-20",
+          "1 min"
+        ]
+      ]
+    },
+    "U2": {
+      "name": "Upper 2",
+      "focus": "Épaules et largeur du dos",
+      "ex": [
+        [
+          "Tirage vertical prise large (neutre si le poignet tire)",
+          "4",
+          "10-12",
+          "2 min"
+        ],
+        [
+          "Développé militaire machine, prise neutre",
+          "4",
+          "10-12",
+          "2 min"
+        ],
+        [
+          "Tirage poitrine machine, buste en appui",
+          "3",
+          "10-12",
+          "2 min"
+        ],
+        [
+          "Écartés pec deck ou poulie vis-à-vis",
+          "3",
+          "12-15",
+          "1 min"
+        ],
+        [
+          "Super-set curl poulie basse barre EZ / extension corde",
+          "3",
+          "12-15",
+          "1 min après le duo"
+        ],
+        [
+          "Oiseau machine (reverse pec deck)",
+          "2",
+          "15-20",
+          "1 min"
+        ]
+      ]
+    },
+    "warmup": "## Échauffement · 8 à 10 min\n- 5 min de rameur ou de vélo, tranquille.\n- Rotations externes à la poulie : 2 × 15 par bras, léger. C'est la protection de ton épaule gauche.\n- 1 ou 2 séries légères du premier exercice avant les séries de travail."
   },
-  "warmup": "## Échauffement · 8 à 10 min\n- 5 min de rameur ou de vélo, tranquille.\n- Rotations externes à la poulie : 2 × 15 par bras, léger. C'est la protection de ton épaule gauche.\n- 1 ou 2 séries légères du premier exercice avant les séries de travail."
- },
- "sessions": [
-  {
-   "id": "n1",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-09-09",
-   "title": "1625 m haché",
-   "distance": "1625",
-   "allure": "2:07",
-   "fc": "122",
-   "notes": "Garmin a compté 1825 m (8 longueurs de trop) : corrigé à 1625 m. Allure recalculée sur le temps de nage, 34:29 pour 1625 m, soit 2:07/100 (Garmin affichait 1:53). SWOLF recalculé à ~44 (Garmin : 39 sur 73 longueurs au lieu de 65) : estimation. Records Garmin de ce jour faussés. ~22 min de pause sur 56:20. Cardio montre douteux (122 bpm). Charge 55.",
-   "duree": "56 min",
-   "fcmax": "166",
-   "swolf": "~44",
-   "te": "2,4",
-   "tean": "1,6",
-   "calories": "438",
-   "garmin": true,
-   "cr": {
-    "avis": "Bonne séance technique une fois corrigée : 2:07/100 en nage effective, mais très hachée.",
-    "progression": "Première séance fiable de la série, elle sert de point de départ.",
-    "plus": "Allure de 2:07/100 en nage effective, déjà au niveau de ton objectif de course (~2:08).",
-    "moins": "22 min d'arrêt sur 56 : l'allure n'est tenue que sur des morceaux courts. En course, il n'y a pas de mur."
-   }
-  },
-  {
-   "id": "n2",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-09-18",
-   "title": "1600 m continu",
-   "distance": "1600",
-   "allure": "2:27",
-   "fc": "130",
-   "notes": "Temps en mouvement 39:08 sur 45:15, la plus continue de tes séances. Garmin : base, ressenti très bien. Charge 75.",
-   "duree": "45 min",
-   "fcmax": "172",
-   "swolf": "51",
-   "te": "2,9",
-   "tean": "1,6",
-   "calories": "387",
-   "garmin": true,
-   "cr": {
-    "avis": "La séance la plus proche de la course : presque 40 min de nage avec peu d'arrêts.",
-    "progression": "Par rapport au 09/09 : 6 min de pause au lieu de 22, mais une allure qui passe de 2:07 à 2:27.",
-    "plus": "Tu tiens la durée : c'est la base de ton 1,4 km.",
-    "moins": "SWOLF 51 et pic à 172 bpm : la technique se dégrade sur la longueur. Il faut faire le pont avec des blocs de 200 à 400 m à 2:05-2:15."
-   }
-  },
-  {
-   "id": "n3",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-09-24",
-   "title": "1750 m fractionné",
-   "distance": "1750",
-   "allure": "2:11",
-   "fc": "142",
-   "notes": "Temps de nage 38:22 sur 48:25 au total, donc ~10 min de pause. Garmin : base, ressenti très bien, effort 4/10. Charge 109.",
-   "duree": "38 min",
-   "fcmax": "171",
-   "swolf": "47",
-   "te": "3,2",
-   "tean": "2,3",
-   "calories": "371",
-   "garmin": true,
-   "cr": {
-    "avis": "Ta meilleure séance de natation de la série : la plus longue nage effective avec une allure solide.",
-    "progression": "Par rapport au 18/09 : +150 m, 16 s plus rapide aux 100 m (2:11 contre 2:27) et SWOLF meilleur (47 contre 51). Par rapport au 09/09 (2:07 mais 22 min de pause), allure proche avec deux fois moins d'arrêts.",
-    "plus": "2:11/100 sur 38 min de nage, c'est à 3 s de ton allure de course visée (~2:08).",
-    "moins": "Effet anaérobie à 2,3, le plus haut de la série, et pic à 171 bpm : certains fractionnés partent trop vite."
-   }
-  },
-  {
-   "id": "n4",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-10-05",
-   "title": "Pyramide 1900 m",
-   "distance": "1900",
-   "allure": "2:15",
-   "notes": "Séance prévue nagée en entier, 1900 m d'après Garmin et confirmés par Enzo. Temps de nage 42:38 sur 44:52, 58:16 au total avec les pauses. 952 mouvements, 22 mvts/min. Charge 58. La « meilleure allure » de 0:51/100 affichée par Garmin est un bug de la montre.",
-   "consignes": "## Échauffement · 300 m\n- Nage libre en cherchant la glisse : 11 à 13 mouvements par longueur.\n- Allure tranquille, plus lente que 2:25/100 m.\n\n## Bloc principal · 1200 m en pyramide\n- 200 m, puis 20 s de repos.\n- 400 m, puis 30 s de repos.\n- 400 m, puis 30 s de repos.\n- 200 m, puis 20 s de repos.\n- Allure verrouillée entre 2:15 et 2:20/100 m, du premier au dernier intervalle.\n\n## Technique sous fatigue · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque, pour forcer l'allongement du bras.\n\n## Retour au calme · 100 m\n- Dos crawlé de préférence.\n\n## Repères\n- Le plus dur sera de ne pas partir trop vite sur le premier 200 m.\n- Si tu n'arrives pas à tenir 2:20 sur le dernier 400, allonge le repos à 45 s plutôt que de casser ta nage.\n- L'objectif course est 1,4 km en ~30 min, soit ~2:08/100 m.",
-   "duree": "45 min",
-   "fc": "135",
-   "fcmax": "163",
-   "swolf": "46",
-   "mvts": "12,5",
-   "te": "2,7",
-   "tean": "0,7",
-   "calories": "412",
-   "garmin": true,
-   "tours": [
+  "sessions": [
     {
-     "label": "Intervalle 1",
-     "temps": "7:11",
-     "dist": "300 m",
-     "allure": "2:08"
+      "id": "n1",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-09-09",
+      "title": "1625 m haché",
+      "distance": "1625",
+      "allure": "2:07",
+      "fc": "122",
+      "notes": "Garmin a compté 1825 m (8 longueurs de trop) : corrigé à 1625 m. Allure recalculée sur le temps de nage, 34:29 pour 1625 m, soit 2:07/100 (Garmin affichait 1:53). SWOLF recalculé à ~44 (Garmin : 39 sur 73 longueurs au lieu de 65) : estimation. Records Garmin de ce jour faussés. ~22 min de pause sur 56:20. Cardio montre douteux (122 bpm). Charge 55.",
+      "duree": "56 min",
+      "fcmax": "166",
+      "swolf": "~44",
+      "te": "2,4",
+      "tean": "1,6",
+      "calories": "438",
+      "garmin": true,
+      "cr": {
+        "avis": "Bonne séance technique une fois corrigée : 2:07/100 en nage effective, mais très hachée.",
+        "progression": "Première séance fiable de la série, elle sert de point de départ.",
+        "plus": "Allure de 2:07/100 en nage effective, déjà au niveau de ton objectif de course (~2:08).",
+        "moins": "22 min d'arrêt sur 56 : l'allure n'est tenue que sur des morceaux courts. En course, il n'y a pas de mur."
+      }
     },
     {
-     "label": "Intervalle 2",
-     "temps": "4:27",
-     "dist": "200 m",
-     "allure": "2:14"
+      "id": "n2",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-09-18",
+      "title": "1600 m continu",
+      "distance": "1600",
+      "allure": "2:27",
+      "fc": "130",
+      "notes": "Temps en mouvement 39:08 sur 45:15, la plus continue de tes séances. Garmin : base, ressenti très bien. Charge 75.",
+      "duree": "45 min",
+      "fcmax": "172",
+      "swolf": "51",
+      "te": "2,9",
+      "tean": "1,6",
+      "calories": "387",
+      "garmin": true,
+      "cr": {
+        "avis": "La séance la plus proche de la course : presque 40 min de nage avec peu d'arrêts.",
+        "progression": "Par rapport au 09/09 : 6 min de pause au lieu de 22, mais une allure qui passe de 2:07 à 2:27.",
+        "plus": "Tu tiens la durée : c'est la base de ton 1,4 km.",
+        "moins": "SWOLF 51 et pic à 172 bpm : la technique se dégrade sur la longueur. Il faut faire le pont avec des blocs de 200 à 400 m à 2:05-2:15."
+      }
     },
     {
-     "label": "Intervalle 3",
-     "temps": "9:38",
-     "dist": "400 m",
-     "allure": "2:25"
+      "id": "n3",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-09-24",
+      "title": "1750 m fractionné",
+      "distance": "1750",
+      "allure": "2:11",
+      "fc": "142",
+      "notes": "Temps de nage 38:22 sur 48:25 au total, donc ~10 min de pause. Garmin : base, ressenti très bien, effort 4/10. Charge 109.",
+      "duree": "38 min",
+      "fcmax": "171",
+      "swolf": "47",
+      "te": "3,2",
+      "tean": "2,3",
+      "calories": "371",
+      "garmin": true,
+      "cr": {
+        "avis": "Ta meilleure séance de natation de la série : la plus longue nage effective avec une allure solide.",
+        "progression": "Par rapport au 18/09 : +150 m, 16 s plus rapide aux 100 m (2:11 contre 2:27) et SWOLF meilleur (47 contre 51). Par rapport au 09/09 (2:07 mais 22 min de pause), allure proche avec deux fois moins d'arrêts.",
+        "plus": "2:11/100 sur 38 min de nage, c'est à 3 s de ton allure de course visée (~2:08).",
+        "moins": "Effet anaérobie à 2,3, le plus haut de la série, et pic à 171 bpm : certains fractionnés partent trop vite."
+      }
     },
     {
-     "label": "Intervalle 4",
-     "temps": "10:39",
-     "dist": "425 m",
-     "allure": "2:20"
+      "id": "n4",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-10-05",
+      "title": "Pyramide 1900 m",
+      "distance": "1900",
+      "allure": "2:15",
+      "notes": "Séance prévue nagée en entier, 1900 m d'après Garmin et confirmés par Enzo. Temps de nage 42:38 sur 44:52, 58:16 au total avec les pauses. 952 mouvements, 22 mvts/min. Charge 58. La « meilleure allure » de 0:51/100 affichée par Garmin est un bug de la montre.",
+      "consignes": "## Échauffement · 300 m\n- Nage libre en cherchant la glisse : 11 à 13 mouvements par longueur.\n- Allure tranquille, plus lente que 2:25/100 m.\n\n## Bloc principal · 1200 m en pyramide\n- 200 m, puis 20 s de repos.\n- 400 m, puis 30 s de repos.\n- 400 m, puis 30 s de repos.\n- 200 m, puis 20 s de repos.\n- Allure verrouillée entre 2:15 et 2:20/100 m, du premier au dernier intervalle.\n\n## Technique sous fatigue · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque, pour forcer l'allongement du bras.\n\n## Retour au calme · 100 m\n- Dos crawlé de préférence.\n\n## Repères\n- Le plus dur sera de ne pas partir trop vite sur le premier 200 m.\n- Si tu n'arrives pas à tenir 2:20 sur le dernier 400, allonge le repos à 45 s plutôt que de casser ta nage.\n- L'objectif course est 1,4 km en ~30 min, soit ~2:08/100 m.",
+      "duree": "45 min",
+      "fc": "135",
+      "fcmax": "163",
+      "swolf": "46",
+      "mvts": "12,5",
+      "te": "2,7",
+      "tean": "0,7",
+      "calories": "412",
+      "garmin": true,
+      "tours": [
+        {
+          "label": "Intervalle 1",
+          "temps": "7:11",
+          "dist": "300 m",
+          "allure": "2:08"
+        },
+        {
+          "label": "Intervalle 2",
+          "temps": "4:27",
+          "dist": "200 m",
+          "allure": "2:14"
+        },
+        {
+          "label": "Intervalle 3",
+          "temps": "9:38",
+          "dist": "400 m",
+          "allure": "2:25"
+        },
+        {
+          "label": "Intervalle 4",
+          "temps": "10:39",
+          "dist": "425 m",
+          "allure": "2:20"
+        },
+        {
+          "label": "Intervalle 5",
+          "temps": "4:00",
+          "dist": "200 m",
+          "allure": "2:00"
+        },
+        {
+          "label": "Intervalle 6",
+          "temps": "5:07",
+          "dist": "250 m",
+          "allure": "2:03"
+        },
+        {
+          "label": "Intervalle 7",
+          "temps": "3:47",
+          "dist": "125 m",
+          "allure": "2:28"
+        }
+      ],
+      "cr": {
+        "avis": "Très bonne séance : ta plus longue natation, à 2:15 de moyenne, avec un cardio maîtrisé.",
+        "progression": "Par rapport au 24/09 : +150 m, allure proche (2:15 contre 2:11), mais FC moyenne plus basse (135 contre 142) et effet anaérobie divisé par trois (0,7 contre 2,3). Tu nages plus longtemps en forçant moins.",
+        "plus": "Bloc central de 400 + 425 m tenu à 2:20-2:25, et un dernier 200 à 2:00 : tu finis fort.",
+        "moins": "Échauffement à 2:08 au lieu de 2:25 et plus : tu pars trop vite. Les 400 sont un peu au-dessus de la cible (2:15-2:20)."
+      }
     },
     {
-     "label": "Intervalle 5",
-     "temps": "4:00",
-     "dist": "200 m",
-     "allure": "2:00"
+      "id": "v1",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-09-16",
+      "title": "Endurance 1 h",
+      "distance": "30,5",
+      "duree": "1h00",
+      "vitesse": "30",
+      "resistance": "10",
+      "fc": "154",
+      "notes": "Vélo de salle. 29 km/h de 0 à 15 km, 31 km/h de 15 à 30 km. Zones FC : Z2 7 %, Z3 54 %, Z4 33 %, Z5 1 %. Garmin : base, ressenti bien.",
+      "te": "4,1",
+      "tean": "0,0",
+      "garmin": true,
+      "tours": [
+        {
+          "label": "0 à 15 km",
+          "vitesse": "29 km/h"
+        },
+        {
+          "label": "15 à 30 km",
+          "vitesse": "31 km/h"
+        }
+      ],
+      "cr": {
+        "avis": "Sortie correcte mais encore trop appuyée pour de l'endurance : un tiers du temps en zone 4.",
+        "progression": "Par rapport au 05/09 : même vitesse (30 km/h) et même résistance, mais 7 bpm de moins. Bon signe.",
+        "plus": "Tu as su lever le pied par rapport au 05/09.",
+        "moins": "Accélération en deuxième moitié (29 puis 31 km/h) : c'est là que le cardio monte. Garde la même vitesse du début à la fin."
+      }
     },
     {
-     "label": "Intervalle 6",
-     "temps": "5:07",
-     "dist": "250 m",
-     "allure": "2:03"
+      "id": "v2",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-09-22",
+      "title": "Seuil 46 min",
+      "distance": "24,2",
+      "duree": "46 min",
+      "vitesse": "32",
+      "resistance": "14 / 13",
+      "fc": "168",
+      "notes": "Vélo de salle. Zones FC : Z3 5 %, Z4 93 %. Garmin : seuil.",
+      "te": "4,5",
+      "tean": "0,0",
+      "garmin": true,
+      "tours": [
+        {
+          "label": "Résistance 14",
+          "temps": "30 min",
+          "dist": "16,2 km",
+          "vitesse": "32,5 km/h"
+        },
+        {
+          "label": "Résistance 13",
+          "temps": "15 min",
+          "dist": "8 km",
+          "vitesse": "32 km/h"
+        }
+      ],
+      "cr": {
+        "avis": "Vraie séance au seuil, bien menée : 93 % du temps en zone 4, sans passer en zone 5.",
+        "progression": "Ta meilleure vitesse de la série (32 km/h) à la plus haute résistance. C'est ta référence de seuil.",
+        "plus": "Effort très bien dosé : aucune minute en zone 5, effet anaérobie à 0.",
+        "moins": "Une seule séance vélo par semaine en ce moment : ce type de séance passe après l'endurance longue, pas à sa place."
+      }
     },
     {
-     "label": "Intervalle 7",
-     "temps": "3:47",
-     "dist": "125 m",
-     "allure": "2:28"
+      "id": "v3",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-09-30",
+      "title": "40 km endurance",
+      "distance": "40",
+      "duree": "1h24",
+      "vitesse": "28,5",
+      "resistance": "8 / 10 / 8",
+      "fc": "151",
+      "notes": "Vélo de salle. Ressenti Garmin : très bien, effort 4/10. Charge d'entraînement 121. Distance et vitesse lues sur le compteur du vélo (la montre affiche 0 km en intérieur).",
+      "fcmax": "162",
+      "te": "3,7",
+      "tean": "0,1",
+      "calories": "980",
+      "garmin": true,
+      "tours": [
+        {
+          "label": "Résistance 8",
+          "temps": "15 min"
+        },
+        {
+          "label": "Résistance 10",
+          "temps": "45 min"
+        },
+        {
+          "label": "Résistance 8",
+          "temps": "25 min"
+        }
+      ],
+      "analyse": "- Ce qui est bien : 1h24 d'affilée, effort 4/10 et effet anaérobie quasi nul (0,1). C'est exactement le type de séance qui te manque.\n- Ce qui coince : 151 bpm de moyenne et un pic à 162. Avec 15 min et 25 min à résistance 8 probablement plus bas, le bloc de 45 min à résistance 10 a dû tourner autour de 155-160 bpm (estimation : la capture ne donne pas la FC par bloc). C'est au-dessus de ton plafond de 150 bpm : sur ce bloc, tu faisais du tempo, pas de l'endurance fondamentale.\n- L'effet aérobie de 3,7 le confirme : pour une sortie d'endurance pure, on attend plutôt 2,5 à 3,3. Plus haut, tu accumules de la fatigue sans gagner davantage sur la durée.\n- Prochaine sortie : résistance 8 à 9 du début à la fin, cadence 85 à 95 tr/min, FC moyenne visée 145. Ajoute 15 à 20 min pour aller vers 1h45. Tu iras un peu moins vite, et c'est voulu.\n- Note : la montre n'a pas de capteur de vitesse en salle, d'où 0 km. Continue de noter le compteur du vélo comme tu l'as fait.",
+      "cr": {
+        "avis": "Bonne séance de fond, mais pas tout à fait de l'endurance fondamentale : 151 bpm de moyenne pour un plafond à 150.",
+        "progression": "Par rapport au 29/08 (résistance 8, 26,3 km/h, 152 bpm) : +2,2 km/h au même cardio, et 11 min de plus. C'est la vraie progression de ton endurance.",
+        "plus": "1h24 d'affilée à 4/10 d'effort, sans aucune dose anaérobie (0,1).",
+        "moins": "Le bloc de 45 min en résistance 10 t'a fait monter jusqu'à 162 bpm. La prochaine fois, reste en 8-9 tout du long."
+      }
+    },
+    {
+      "id": "v4",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-10-09",
+      "title": "Sortie longue 50 km",
+      "duree": "1h40",
+      "fc": "157",
+      "notes": "Vélo de salle. D'après Enzo : séance prévue faite en 1h30 en zone verte Garmin (zone 3, 139-158 bpm), puis accélération à la fin pour atteindre 50 km. Garmin : tempo, ressenti bien. Charge 191. Perte de sueur estimée 1,6 L. Distance et vitesse lues sur le compteur du vélo.",
+      "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 8, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 10, cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure.\n- Après la première heure, 30 à 60 g de glucides par heure (boisson sucrée ou barre). C'est aussi l'occasion de tester ce que tu prendras en course.\n\n## Repères\n- Le vélo d'Obernai dure ~1h45 avec 765 m D+. Cette sortie construit la durée à cardio bas, c'est ce qui te manque le plus.\n- Si tu décroches avant la fin, arrête-toi à 1h35 cette fois et vise 1h45 la suivante.",
+      "distance": "50",
+      "vitesse": "30",
+      "resistance": "10",
+      "fcmax": "178",
+      "te": "4,5",
+      "tean": "1,3",
+      "calories": "1271",
+      "garmin": true,
+      "cr": {
+        "avis": "Très bonne séance de volume : séance prévue faite, puis un finish appuyé pour boucler 50 km.",
+        "progression": "Plus longue sortie de la série (50 km, 1h40). Par rapport au 05/09 (même résistance 10, 30 km/h, 161 bpm sur 1h12), tu tiens 28 min de plus avec 4 bpm de moins.",
+        "plus": "30 km/h pendant 1h40 : ta durée de course à vélo est presque atteinte, et le moteur progresse.",
+        "moins": "La zone verte Garmin monte jusqu'à 158 bpm, au-dessus de ton plafond d'endurance de 150. Pour les sorties longues, vise le bas de cette zone (140-150)."
+      }
+    },
+    {
+      "id": "m1",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-07",
+      "title": "Upper 1",
+      "prog": "U1",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "26",
+              "r": "8-12"
+            },
+            {
+              "kg": "26",
+              "r": "8-12"
+            },
+            {
+              "kg": "26",
+              "r": "8-12"
+            },
+            {
+              "kg": "24",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "39",
+              "r": "8-12"
+            },
+            {
+              "kg": "45",
+              "r": "8-12"
+            },
+            {
+              "kg": "45",
+              "r": "8-12"
+            },
+            {
+              "kg": "45",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "15",
+              "r": "8-12"
+            },
+            {
+              "kg": "15",
+              "r": "8-12"
+            },
+            {
+              "kg": "15",
+              "r": "8-12"
+            },
+            {
+              "kg": "15",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "7",
+              "r": "8-12"
+            },
+            {
+              "kg": "7",
+              "r": "8-12"
+            },
+            {
+              "kg": "7",
+              "r": "8-12"
+            },
+            {
+              "kg": "7",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            }
+          ],
+          [
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "0": "Haltères.",
+        "2": "Machine, 15 kg par bras.",
+        "3": "7 kg par haltère.",
+        "4": "Les deux à la poulie avec la corde.",
+        "5": "Pas fait."
+      },
+      "notes": "Première séance Upper 1 du programme. 4 séries de 8 à 12 reps sur chaque exercice (Enzo ne note pas le détail des reps).",
+      "cr": {
+        "avis": "Bonne reprise : charges cohérentes pour une première séance après 4 mois d'arrêt.",
+        "progression": "Première séance Upper 1 : elle sert de référence pour la double progression (10 à 12 reps, puis +1 à 2,5 kg).",
+        "plus": "Développé couché à 26 kg et tirage à 45 kg tenus sur 3 séries : la base est là.",
+        "moins": "Face pull sauté : c'est l'exercice qui protège ton épaule gauche, à ne pas zapper."
+      }
+    },
+    {
+      "id": "m2",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-11",
+      "title": "Upper 2",
+      "prog": "U2",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "27",
+              "r": "8-12"
+            },
+            {
+              "kg": "27",
+              "r": "8-12"
+            },
+            {
+              "kg": "27",
+              "r": "8-12"
+            },
+            {
+              "kg": "27",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "36",
+              "r": "8-12"
+            },
+            {
+              "kg": "36",
+              "r": "8-12"
+            },
+            {
+              "kg": "36",
+              "r": "8-12"
+            },
+            {
+              "kg": "36",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "9",
+              "r": "8-12"
+            },
+            {
+              "kg": "9",
+              "r": "8-12"
+            },
+            {
+              "kg": "9",
+              "r": "8-12"
+            },
+            {
+              "kg": "9",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "13",
+              "r": "8-12"
+            },
+            {
+              "kg": "13",
+              "r": "8-12"
+            },
+            {
+              "kg": "13",
+              "r": "8-12"
+            },
+            {
+              "kg": "13",
+              "r": "8-12"
+            }
+          ],
+          [
+            {
+              "kg": "18",
+              "r": "8-12"
+            },
+            {
+              "kg": "18",
+              "r": "8-12"
+            },
+            {
+              "kg": "18",
+              "r": "8-12"
+            },
+            {
+              "kg": "18",
+              "r": "8-12"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "1": "Machine.",
+        "2": "Machine.",
+        "3": "Poulie vis-à-vis, 9 kg par bras.",
+        "4": "Curl à la barre à la poulie 13 kg, extension à la corde 18 kg.",
+        "5": "Pas fait."
+      },
+      "notes": "Première séance Upper 2 du programme. 4 séries de 8 à 12 reps par exercice (fourchette donnée par Enzo).",
+      "cr": {
+        "avis": "Séance solide et équilibrée, avec des charges cohérentes pour une deuxième séance de reprise.",
+        "progression": "Première séance Upper 2 : elle devient ta référence. Bon écart de 4 jours avec l'Upper 1 du 07/10.",
+        "plus": "Tirage vertical à 52 kg : ton dos est déjà bien présent.",
+        "moins": "Oiseau sauté, comme le face pull lundi : c'est la 2e fois que tu coupes l'exercice qui protège ton épaule gauche."
+      }
+    },
+    {
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-08-29",
+      "title": "Endurance 32 km",
+      "distance": "32",
+      "duree": "1h13",
+      "vitesse": "26,3",
+      "resistance": "8",
+      "fc": "152",
+      "te": "3,8",
+      "tean": "0,4",
+      "garmin": true,
+      "notes": "Vélo de salle. Vitesse calculée (32 km en 1h13). Zones FC : Z2 3 %, Z3 75 %, Z4 20 %, Z5 1 %. Garmin : base, ressenti bien.",
+      "cr": {
+        "avis": "Séance d'endurance correcte, la plus « fond » de ta série d'été.",
+        "progression": "Première sortie de référence : c'est elle qui sert de point de comparaison pour la suite.",
+        "plus": "75 % du temps en zone 3, effort régulier sur 1h13.",
+        "moins": "152 bpm de moyenne et 20 % en zone 4 : déjà un peu au-dessus de ton plafond de 150."
+      },
+      "id": "s21"
+    },
+    {
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-09-05",
+      "title": "Tempo 35 km",
+      "distance": "35",
+      "duree": "1h12",
+      "vitesse": "30",
+      "resistance": "10",
+      "fc": "161",
+      "te": "4,6",
+      "tean": "0,0",
+      "garmin": true,
+      "notes": "Vélo de salle. Zones FC : Z3 22 %, Z4 75 %. Garmin : tempo, ressenti bien.",
+      "cr": {
+        "avis": "Ce n'est pas une sortie d'endurance, c'est 1h12 de tempo : 161 bpm et 75 % du temps en zone 4.",
+        "progression": "Par rapport au 29/08 : +3,7 km/h en passant de résistance 8 à 10, mais au prix de 9 bpm de plus.",
+        "plus": "Tu tiens 30 km/h plus d'une heure, la caisse est là.",
+        "moins": "Effet aérobie 4,6 : séance très fatigante. C'est le piège du puncheur, rouler trop fort tout le temps."
+      },
+      "id": "s22"
+    },
+    {
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-09-04",
+      "title": "Natation 25 et 50 m",
+      "distance": "1550",
+      "duree": "41 min",
+      "fc": "132",
+      "fcmax": "168",
+      "swolf": "67",
+      "te": "2,7",
+      "tean": "1,8",
+      "calories": "410",
+      "garmin": true,
+      "notes": "Bassin mixte (moitié 25 m, moitié 50 m) : Garmin s'est trompé dans le comptage, distance et allure non fiables (la montre affichait 1:39/100). Seul le SWOLF compte. Temps en mouvement 25:27 sur 41:20. Charge 70.",
+      "cr": {
+        "avis": "Séance difficile à lire : la montre a mal compté les longueurs, donc distance et allure ne sont pas exploitables.",
+        "progression": "Première séance de la série. Le SWOLF de 67 n'est pas comparable aux autres : en 50 m, une longueur compte double.",
+        "plus": "Tu as nagé 25 min en tout, et le ressenti était bon.",
+        "moins": "Effet anaérobie 1,8 : beaucoup d'efforts courts et intenses, l'inverse de ce que demande un 1,4 km de triathlon."
+      },
+      "id": "s23",
+      "bassin": "25 et 50"
+    },
+    {
+      "id": "v5",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-10-12",
+      "title": "Sortie longue EF 48 km",
+      "duree": "1h39",
+      "resistance": "9",
+      "fc": "144",
+      "notes": "Vélo de salle, résistance 9 tout du long. Garmin : Base (aérobie bas), ressenti fort, effort 5/10. Charge 87. Perte de sueur estimée 1,4 L. Distance et vitesse lues sur le compteur du vélo.",
+      "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 7, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 9 (pas 10), cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n- Tu rouleras sans doute vers 27-28 km/h au lieu de 30 : c'est normal, c'est voulu.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple. Pas d'accélération finale.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure (tu as perdu 1,6 L de sueur le 9/10).\n- Après la première heure, 30 à 60 g de glucides par heure.\n\n## Repères\n- Objectif : 1h45 avec une moyenne autour de 145 bpm. La vitesse et la distance n'ont aucune importance aujourd'hui.\n- La semaine prochaine, si c'est réussi, on passe à 2 h.",
+      "distance": "48",
+      "vitesse": "29",
+      "fcmax": "159",
+      "te": "3,3",
+      "tean": "0,0",
+      "calories": "1010",
+      "rpe": "5",
+      "garmin": true,
+      "cr": {
+        "avis": "Exactement la séance demandée : vraie sortie d'endurance, cardio maîtrisé du début à la fin.",
+        "progression": "Par rapport au 09/10 : même durée (1h39 contre 1h40), seulement 2 km de moins, mais 13 bpm de moins en moyenne (144 contre 157) et une charge divisée par deux (87 contre 191).",
+        "plus": "144 bpm de moyenne à 29 km/h : tu roules presque aussi vite qu'avant en restant sous ton plafond. C'est l'endurance qui progresse.",
+        "moins": "Pic à 159 bpm : quelques minutes au-dessus de 150, sans doute en fin de séance. La prochaine fois, baisse à 8 dès que tu dépasses 150."
+      }
+    },
+    {
+      "id": "n6",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-10-14",
+      "title": "3 × 400 m · 2050 m",
+      "distance": "2050",
+      "allure": "2:15",
+      "notes": "Séance prévue nagée. Distance de 2050 m = somme des intervalles Garmin (cohérente avec 2:15/100 sur 46:03 de nage). 57:35 au total avec les pauses. 1138 mouvements, 25 mvts/min. Charge 112. La « meilleure allure » de 0:55/100 est un bug de la montre.",
+      "consignes": "## Échauffement · 300 m\n- Nage libre souple, plus lente que 2:25/100 m. Le 05/10 tu étais parti à 2:08 : ralentis vraiment.\n- Cherche la glisse : 11 à 13 mouvements par longueur.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque.\n\n## Bloc principal · 1200 m\n- 3 × 400 m à 2:15-2:20/100 m, soit 9:00 à 9:20 par 400.\n- 30 s de repos au mur entre chaque 400.\n- Objectif : les trois 400 au même temps, à 10 s près. Le 05/10, tes 400 avaient glissé à 2:20-2:25.\n\n## Allure vive · 200 m\n- 4 × 50 m à 2:00-2:05/100 m (environ 1:00 à 1:02 par 50), 20 s de repos.\n- Rapide mais propre : garde tes 13-14 mouvements par longueur.\n\n## Retour au calme · 100 m\n- Dos crawlé, très souple.\n\n## Repères\n- Si tu ne tiens pas 2:20 sur le troisième 400, prends 45 s de repos avant plutôt que de casser ta nage.\n- Total 2000 m, ta plus longue séance à ce jour.",
+      "duree": "46 min",
+      "fc": "141",
+      "fcmax": "178",
+      "swolf": "48",
+      "mvts": "13,9",
+      "te": "3,3",
+      "tean": "2,2",
+      "calories": "461",
+      "garmin": true,
+      "tours": [
+        {
+          "label": "Échauffement",
+          "temps": "6:08",
+          "dist": "300 m",
+          "allure": "2:03"
+        },
+        {
+          "label": "Rattrapé",
+          "temps": "5:23",
+          "dist": "200 m",
+          "allure": "2:41"
+        },
+        {
+          "label": "400 n°1",
+          "temps": "9:31",
+          "dist": "400 m",
+          "allure": "2:23"
+        },
+        {
+          "label": "400 n°2",
+          "temps": "9:25",
+          "dist": "400 m",
+          "allure": "2:21"
+        },
+        {
+          "label": "400 n°3",
+          "temps": "9:14",
+          "dist": "400 m",
+          "allure": "2:19"
+        },
+        {
+          "label": "50 vif n°1",
+          "temps": "0:51",
+          "dist": "50 m",
+          "allure": "1:42"
+        },
+        {
+          "label": "50 vif n°2",
+          "temps": "0:56",
+          "dist": "50 m",
+          "allure": "1:52"
+        },
+        {
+          "label": "50 vif n°3",
+          "temps": "0:52",
+          "dist": "50 m",
+          "allure": "1:43"
+        },
+        {
+          "label": "50 vif n°4",
+          "temps": "0:54",
+          "dist": "50 m",
+          "allure": "1:48"
+        },
+        {
+          "label": "Fin",
+          "temps": "2:50",
+          "dist": "150 m",
+          "allure": "1:53"
+        }
+      ],
+      "cr": {
+        "avis": "Bonne séance : ta plus longue natation (2050 m) et un bloc de 3 × 400 bien construit, chaque 400 plus rapide que le précédent.",
+        "progression": "Par rapport au 05/10 : un 400 de plus, et des 400 plus réguliers (2:23, 2:21, 2:19 contre 2:25 et 2:20). Le dernier 400 est enfin dans la cible.",
+        "plus": "Accélération progressive sur les 400 : tu gères ton effort au lieu de le subir.",
+        "moins": "Échauffement encore trop rapide (2:03 au lieu de 2:25 et plus), 50 vifs à 1:42-1:52 au lieu de 2:00-2:05, et fin à 1:53 au lieu d'un retour au calme : d'où l'effet anaérobie à 2,2 et le pic à 178."
+      }
+    },
+    {
+      "id": "s24",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-15",
+      "title": "Upper 1",
+      "prog": "U1",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "45",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "45",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "20",
+              "r": "8-12"
+            },
+            {
+              "kg": "25",
+              "r": "8-12"
+            },
+            {
+              "kg": "20",
+              "r": "8-12"
+            },
+            {
+              "kg": "20",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "4,5",
+              "r": "10"
+            },
+            {
+              "kg": "4,5",
+              "r": "10"
+            },
+            {
+              "kg": "4,5",
+              "r": "10"
+            },
+            {
+              "kg": "4,5",
+              "r": "10"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            }
+          ],
+          [
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "0": "Haltères, 10 reps.",
+        "2": "Machine, par bras.",
+        "3": "À la poulie : 10 reps à 4,5 kg puis 5 reps à 2,3 kg (série dégressive).",
+        "4": "Comme le 07/10 : les deux à la poulie avec la corde.",
+        "5": "Pas fait (manque de temps, choix d'Enzo)."
+      },
+      "notes": "4 séries par exercice (fourchette 8-12 sauf mention).",
+      "cr": {
+        "avis": "Séance bien gérée : tu as allégé là où il fallait et progressé là où tu pouvais.",
+        "progression": "Par rapport au 07/10 : tirage 45 → 52 kg sur les séries lourdes, développé incliné 15 → 20-25 kg. Développé couché redescendu de 26 à 24 kg mais à 10 reps propres.",
+        "plus": "Le développé couché à 24 kg × 10, c'est exactement le bon choix pour monter proprement vers 26 kg.",
+        "moins": "Le passage de 15 à 25 kg au développé incliné est un très gros saut en une semaine : surveille ton épaule gauche sur cet exercice."
+      }
+    },
+    {
+      "id": "s25",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-17",
+      "title": "Upper Hors série",
+      "notes": "Séance avec des amis, hors programme. Pas de charges ni de capture Garmin. Proche de l'Upper 1 : la prochaine séance sera l'Upper 2.",
+      "consignes": "## Exercices faits\n- Tractions\n- Tirage horizontal\n- Machine pectoraux\n- Écarté poulie vis-à-vis vers le bas (haut des pecs)\n- Arrière d'épaule à la corde, poulie\n- Élévations latérales à la poulie\n- Super-set biceps / triceps, comme en Upper 1",
+      "cr": {
+        "avis": "Bonne séance de dépannage : équilibrée entre poussée et tirage, et elle complète ta semaine (vélo, natation, deux upper).",
+        "progression": "Deux jours après l'Upper 1 du 15/10, avec beaucoup d'exercices en commun : c'est surtout du volume en plus sur les mêmes muscles.",
+        "plus": "Tu as fait l'arrière d'épaule, enfin ! C'est l'exercice qui protège ton épaule gauche, et tu l'avais sauté sur tes trois dernières séances.",
+        "moins": "Tractions et tirage la même semaine que la natation : surveille ton épaule gauche et ton poignet droit sur la prochaine natation."
+      }
+    },
+    {
+      "id": "n7",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-10-19",
+      "title": "2 × 600 m · 2000-2150 m (distance douteuse)",
+      "distance": "2000",
+      "allure": "2:16",
+      "notes": "Distance Garmin 2150 m jugée douteuse : environ 2000 m réels. Pas une séance de référence.",
+      "consignes": "## Échauffement · 300 m\n- Nage souple : 7:15 ou plus pour les 300 m (2:25/100 et plus lent).\n- Le 05/10 et le 14/10, tu étais à 2:03-2:08 : c'est trop rapide, tu entames ta séance avant de commencer.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:20/100 m, soit 13:30 à 14:00 par 600.\n- 45 s de repos au mur entre les deux.\n- Pars au bas de la cible (2:20) et finis vers 2:15, comme tes 400 du 14/10.\n\n## Allure vive · 200 m\n- 4 × 50 m en 1:00 à 1:02 chacun, 20 s de repos.\n- Pas plus vite : le 14/10, tu les as nagés en 0:51-0:56, ce qui a fait monter ton cardio à 178.\n\n## Retour au calme · 100 m\n- Dos crawlé, très lent. Pas de sprint final.\n\n## Repères\n- Si le deuxième 600 dérape au-delà de 2:25, coupe-le en 2 × 300 avec 20 s de repos.\n- 2000 m au total.",
+      "duree": "48:31",
+      "fc": "132",
+      "fcmax": "177",
+      "swolf": "44",
+      "mvts": "12,3",
+      "bassin": "25",
+      "te": "2,8",
+      "tean": "2,3",
+      "calories": "498",
+      "garmin": true,
+      "cr": {
+        "avis": "Séance faite comme prévu, 2 × 600 m.",
+        "progression": "Allure d'environ 2:16/100 sur ~2000 m, dans la cible 2:15-2:20 des blocs.",
+        "plus": "Blocs de 600 m tenus dans l'allure visée.",
+        "moins": "Distance Garmin peu fiable (2150 m affichés) : séance à ne pas prendre comme référence."
+      }
+    },
+    {
+      "id": "s26",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-20",
+      "title": "Upper 2",
+      "prog": "U2",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "52",
+              "r": "12"
+            },
+            {
+              "kg": "52",
+              "r": "12"
+            },
+            {
+              "kg": "52",
+              "r": "12"
+            },
+            {
+              "kg": "52",
+              "r": "12"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "27",
+              "r": "10-12"
+            },
+            {
+              "kg": "32",
+              "r": "10-12"
+            },
+            {
+              "kg": "36",
+              "r": "10-12"
+            },
+            {
+              "kg": "36",
+              "r": "10-12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "36",
+              "r": "10-12"
+            },
+            {
+              "kg": "41",
+              "r": "10-12"
+            },
+            {
+              "kg": "41",
+              "r": "10-12"
+            },
+            {
+              "kg": "41",
+              "r": "10-12"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "6,8",
+              "r": "10-12"
+            },
+            {
+              "kg": "6,8",
+              "r": "10-12"
+            },
+            {
+              "kg": "6,8",
+              "r": "10-12"
+            },
+            {
+              "kg": "6,8",
+              "r": "10-12"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "13",
+              "r": "10-12"
+            },
+            {
+              "kg": "13",
+              "r": "10-12"
+            },
+            {
+              "kg": "13",
+              "r": "10-12"
+            },
+            {
+              "kg": "13",
+              "r": "10-12"
+            }
+          ],
+          [
+            {
+              "kg": "18",
+              "r": "10-12"
+            },
+            {
+              "kg": "18",
+              "r": "10-12"
+            },
+            {
+              "kg": "18",
+              "r": "10-12"
+            },
+            {
+              "kg": "18",
+              "r": "10-12"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "0": "12 reps à chaque série.",
+        "1": "Machine. Montée de 27 à 36 kg.",
+        "2": "Machine.",
+        "3": "Poulie, 6,8 kg par bras.",
+        "4": "Comme le 11/10 : curl 13 kg, extension corde 18 kg."
+      },
+      "cr": {
+        "avis": "Très bonne séance : tu progresses sur trois exercices sur quatre par rapport au 11/10.",
+        "progression": "Militaire 27 → 36 kg (+33 %), tirage poitrine 36 → 41 kg, tirage vertical toujours à 52 kg mais à 12 reps sur les 4 séries. Écartés redescendus de 9 à 6,8 kg par bras.",
+        "plus": "Tirage vertical à 12 reps partout : haut de la fourchette atteint, donc tu montes la charge la prochaine fois (vers 55-59 kg). Grosse marche sur le militaire.",
+        "moins": "Le militaire a pris 9 kg en une séance avec ton épaule gauche fragile : garde 36 kg la prochaine fois tant que les 10 reps ne sont pas propres et sans gêne."
+      }
+    },
+    {
+      "id": "v6",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-10-21",
+      "title": "Sortie longue EF 2 h · 57 km",
+      "duree": "2h00",
+      "distance": "57",
+      "vitesse": "28,5",
+      "resistance": "9",
+      "fc": "148",
+      "fcmax": "165",
+      "te": "3,9",
+      "tean": "0,8",
+      "calories": "1276",
+      "rpe": "5",
+      "garmin": true,
+      "notes": "Vélo de salle : résistance 6 au début et à la fin, 9 pendant 1h45. Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti fort, effort 5/10. Charge 147. 1102 kcal actives. Perte de sueur estimée 1,77 L. Ravitaillement prévu : petites madeleines (2 juste avant, puis à 40 min, 1h10 et 1h35).",
+      "consignes": "## 0 à 10 min · échauffement\n- Résistance 6 à 8, cadence 90 et plus, cardio vers 130 bpm.\n\n## 10 min à 1h50 · bloc endurance\n- Résistance 10, cadence 85 à 95, cardio entre 140 et 148 bpm.\n- Dès que le cardio passe 150, résistance 8 jusqu'à revenir sous 145.\n- Pas de finish appuyé.\n\n## 1h50 à 2h00 · retour au calme\n- Résistance 6, cadence libre.\n\n## Hydratation et alimentation\n- Environ 1,5 L sur la séance.\n- 2 madeleines juste avant, 2 à 40 min, 2 à 1h10, 1 ou 2 à 1h35.\n\n## Repères\n- Séance réussie si la moyenne est de 147 bpm ou moins sur 2 h.",
+      "cr": {
+        "avis": "Bonne séance : les 2 h sont faites, en endurance, et Garmin la classe Base. Objectif de moyenne manqué d'un battement (148 contre 147 ou moins), ce qui reste tout à fait correct.",
+        "progression": "Par rapport au 12/10 : 21 min et 9 km de plus (57 contre 48), vitesse quasi identique (28,5 contre 29 km/h), pour seulement 4 bpm de plus en moyenne (148 contre 144). La charge passe de 87 à 147, logique avec la durée.",
+        "plus": "Tu as tenu 2 h sans exploser : effort ressenti 5/10, ressenti fort, anaérobie à 0,8. Tu as bien gardé la résistance 9 au lieu de forcer à 10.",
+        "moins": "Pic à 165 bpm : tu es passé au-dessus de 150 sur une partie de la séance, sûrement en fin de séance avec la dérive cardiaque. Le réflexe « résistance 8 dès 150 » n'a pas encore été appliqué."
+      }
+    },
+    {
+      "id": "s27",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-23",
+      "title": "Upper 1",
+      "prog": "U1",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "45",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "52",
+              "r": "8-12"
+            },
+            {
+              "kg": "45",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "20",
+              "r": "8-12"
+            },
+            {
+              "kg": "25",
+              "r": "8-12"
+            },
+            {
+              "kg": "20",
+              "r": "8-12"
+            },
+            {
+              "kg": "20",
+              "r": "8-12"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "4,5",
+              "r": "10"
+            },
+            {
+              "kg": "4,5",
+              "r": "10"
+            },
+            {
+              "kg": "4,5",
+              "r": "10"
+            },
+            {
+              "kg": "4,5",
+              "r": "10"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            }
+          ],
+          [
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            },
+            {
+              "kg": "15,8",
+              "r": "8-12"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "0": "Haltères, 10 reps.",
+        "2": "Machine, par bras.",
+        "3": "À la poulie : 10 reps à 4,5 kg puis 5 reps à 2,3 kg (série dégressive).",
+        "4": "Comme le 07/10 : les deux à la poulie avec la corde.",
+        "5": "Pas fait (manque de temps, choix d'Enzo)."
+      },
+      "notes": "Mêmes charges que l'Upper 1 du 15/10 (2e séance de suite aux mêmes charges).",
+      "cr": {
+        "avis": "Séance faite, mêmes charges que le 15/10.",
+        "progression": "Charges identiques sur tous les exercices depuis le 15/10 : c'est le moment de monter là où tu es en haut de fourchette.",
+        "plus": "Régularité : deux Upper par semaine tenues.",
+        "moins": "Prochaine fois : tirage poulie à 52 kg sur les 4 séries et incliné machine à 25 kg par bras partout si tu as atteint 12 reps ; développé couché à 26 kg dès que les 4 séries à 24 kg passent à 12 ; élévations à 4,5 kg jusqu'à 15 reps."
+      }
+    },
+    {
+      "id": "n8",
+      "sport": "nat",
+      "status": "fait",
+      "date": "2026-10-27",
+      "title": "2 × 600 m · 2000 m",
+      "distance": "2000",
+      "allure": "2:28",
+      "notes": "Garmin affiche 2050 m mais a compté une longueur de trop deux fois (625 au lieu de 600 sur le 2e bloc, 225 au lieu de 200 au retour au calme) : 2000 m réels. 49:16 en mouvement, soit 2:28/100 réel (Garmin 2:24). 1:01:02 écoulé. 1124 mouvements, 23 mvts/min, charge 88.",
+      "consignes": "## Échauffement · 500 m\n- 300 m très souples, plus lent que 2:25/100 (7:15 ou plus).\n- 4 × 50 m éducatifs (25 m rattrapé, 25 m nage complète), 15 s de récup.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:18/100, soit 13:30 à 13:50 par 600.\n- Le 2e égal ou un peu plus rapide que le 1er, jamais sous 2:12.\n- 1 min de récup au mur.\n\n## Retour au calme · 300 m\n- 200 m souples, puis 100 m dos ou brasse très tranquille.",
+      "duree": "53:25",
+      "fc": "137",
+      "fcmax": "164",
+      "swolf": "50",
+      "mvts": "13,7",
+      "bassin": "25",
+      "te": "3,0",
+      "tean": "1,8",
+      "calories": "497",
+      "garmin": true,
+      "tours": [
+        {
+          "label": "Échauffement",
+          "temps": "9:01",
+          "dist": "300 m",
+          "allure": "2:25"
+        },
+        {
+          "label": "Éducatifs",
+          "temps": "6:56",
+          "dist": "200 m",
+          "allure": "2:30"
+        },
+        {
+          "label": "600 n°1",
+          "temps": "13:43",
+          "dist": "600 m",
+          "allure": "2:17"
+        },
+        {
+          "label": "600 n°2",
+          "temps": "14:47",
+          "dist": "600 m",
+          "allure": "2:28"
+        },
+        {
+          "label": "Retour au calme",
+          "temps": "5:48",
+          "dist": "200 m",
+          "allure": "2:54"
+        },
+        {
+          "label": "Dos / brasse",
+          "temps": "3:09",
+          "dist": "100 m",
+          "allure": "3:09"
+        }
+      ],
+      "cr": {
+        "avis": "Séance faite en entier et enfin un échauffement au bon rythme, mais le 2e 600 a lâché : le 2 × 600 n'est validé qu'à moitié.",
+        "progression": "Premier 600 à 2:17, pile dans la cible. Le 2e passe à 2:28 réel (14:47), 11 s/100 plus lent et au-delà du repère de 2:25. Le 14/10, tes 3 × 400 étaient en négatif split : tenir 600 d'affilée est la marche suivante.",
+        "plus": "Échauffement à 2:25 comme demandé, pour la première fois. Cardio maîtrisé (137 de moyenne, 164 max, Garmin Base) : plus de pics à 177-178.",
+        "moins": "Dérive sur le 2e 600 et technique qui se dégrade avec la fatigue (SWOLF 50, 13,7 mouvements contre 44 et 12,3 en forme). Le 1er 600 était sûrement un poil trop ambitieux."
+      }
+    },
+    {
+      "id": "s29",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-28",
+      "title": "Upper 2",
+      "prog": "U2",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "52",
+              "r": "12"
+            },
+            {
+              "kg": "59",
+              "r": "10"
+            },
+            {
+              "kg": "59",
+              "r": "10"
+            },
+            {
+              "kg": "59",
+              "r": "8"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "32",
+              "r": "12"
+            },
+            {
+              "kg": "32",
+              "r": "12"
+            },
+            {
+              "kg": "32",
+              "r": "12"
+            },
+            {
+              "kg": "32",
+              "r": "12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "41",
+              "r": "12"
+            },
+            {
+              "kg": "41",
+              "r": "12"
+            },
+            {
+              "kg": "46",
+              "r": "10"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "59",
+              "r": "12"
+            },
+            {
+              "kg": "66",
+              "r": "12"
+            },
+            {
+              "kg": "66",
+              "r": "12"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15",
+              "r": "10-12"
+            },
+            {
+              "kg": "15",
+              "r": "10-12"
+            },
+            {
+              "kg": "15",
+              "r": "10-12"
+            },
+            {
+              "kg": "15",
+              "r": "10-12"
+            }
+          ],
+          [
+            {
+              "kg": "20",
+              "r": "10-12"
+            },
+            {
+              "kg": "20",
+              "r": "10-12"
+            },
+            {
+              "kg": "20",
+              "r": "10-12"
+            },
+            {
+              "kg": "20",
+              "r": "10-12"
+            }
+          ]
+        ],
+        "5": [
+          [
+            {
+              "kg": "41",
+              "r": "12"
+            },
+            {
+              "kg": "41",
+              "r": "12"
+            },
+            {
+              "kg": "41",
+              "r": "12"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "1": "Machine, 4 séries de 12.",
+        "3": "Pec fly (pec deck machine) : charges non comparables avec la poulie.",
+        "4": "4 séries par choix. Curl 15 kg, triceps prise triangle 20 kg.",
+        "5": "Oiseau machine, 1re fois."
+      },
+      "notes": "3 séries poussées (1-2 reps en réserve) au lieu de 4, sauf les bras (4 séries par choix).",
+      "cr": {
+        "avis": "Très bonne séance : tu as monté les charges et appliqué le passage à 3 séries.",
+        "progression": "Tirage vertical 52 → 59 kg, tirage poitrine jusqu'à 46 kg, curl 13 → 15 kg, triceps 18 → 20 kg. Militaire redescendu à 32 kg mais à 12 reps sur 4 séries.",
+        "plus": "Oiseau machine fait pour la 1re fois (41 kg × 12). Militaire propre à 12 reps, c'est mieux pour l'épaule gauche que forcer à 36.",
+        "moins": "Tirage vertical à 10/10/8 à 59 kg : reste à 59 jusqu'à 10 reps partout. Prochaine fois : militaire 34-36 kg, tirage poitrine 46 kg sur 2 séries, pec fly 66 kg sur les 3 séries."
+      }
+    },
+    {
+      "id": "v7",
+      "sport": "velo",
+      "status": "fait",
+      "date": "2026-10-29",
+      "title": "Sortie EF écourtée · 39 km",
+      "duree": "1h23",
+      "distance": "39",
+      "vitesse": "28",
+      "resistance": "9",
+      "fc": "149",
+      "fcmax": "162",
+      "te": "3,6",
+      "tean": "0,0",
+      "calories": "934",
+      "rpe": "6",
+      "garmin": true,
+      "notes": "Vélo de salle, résistance 9, passée à 6 quand douleur et fatigue. Séance prévue 2 h, arrêtée à 1h23 : douleur au genou, fatigue rapide, peu d'énergie, pas de madeleines. Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti normal, effort 6/10. Charge 114. 813 kcal actives. Perte de sueur estimée 1,18 L.",
+      "consignes": "## 0 à 10 min · échauffement\n- Résistance 6 à 7, cadence 90 et plus, cardio vers 130 bpm.\n\n## 10 min à 1h50 · bloc endurance\n- Résistance 9, cadence 85 à 95, cardio entre 138 et 146 bpm.\n- Dès que le cardio passe 150, résistance 8 jusqu'à revenir sous 145.\n- Toutes les 20 min : 1 min de vélocité, résistance 6, cadence maximale sans rebondir.\n\n## 1h50 à 2h00 · retour au calme\n- Résistance 6.\n\n## Repères\n- Moyenne de 145 bpm ou moins, max sous 155.",
+      "cr": {
+        "avis": "Bonne décision d'avoir écourté : avec une douleur au genou, on ne force pas. La séance reste utile, classée Base par Garmin.",
+        "progression": "Par rapport au 21/10 : 37 min de moins et 1 bpm de plus en moyenne (149 contre 148) à une vitesse proche (28 contre 28,5 km/h). Effort ressenti 6/10 contre 5 : c'était un jour sans.",
+        "plus": "Anaérobie à 0 et max à 162 : pas de dérapage d'intensité, tu as su lever le pied.",
+        "moins": "Cardio élevé pour l'allure et énergie basse, sans doute la fatigue de la semaine (natation le 27, Upper 2 le 28) et pas de sucre pendant. Douleur au genou à surveiller."
+      }
+    },
+    {
+      "id": "s30",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-10-31",
+      "title": "Upper Hors série",
+      "notes": "Séance avec des amis, hors programme. Charges non communiquées.",
+      "consignes": "## Exercices faits\n- Tirage vertical\n- Tirage horizontal\n- Développé couché machine\n- Poulie vis-à-vis vers le bas\n- Face pull\n- Élévations latérales\n- Extension triceps au-dessus de la tête\n- Curl marteau à la corde"
+    },
+    {
+      "id": "s31",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-11-04",
+      "title": "Upper 1",
+      "prog": "U1",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "24",
+              "r": "12"
+            },
+            {
+              "kg": "24",
+              "r": "12"
+            },
+            {
+              "kg": "24",
+              "r": "10"
+            },
+            {
+              "kg": "24",
+              "r": "12"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "52",
+              "r": "10"
+            },
+            {
+              "kg": "52",
+              "r": "10"
+            },
+            {
+              "kg": "52",
+              "r": "10"
+            },
+            {
+              "kg": "52",
+              "r": "10"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "20",
+              "r": "10"
+            },
+            {
+              "kg": "25",
+              "r": "10"
+            },
+            {
+              "kg": "25",
+              "r": "10"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "4,5",
+              "r": "15"
+            },
+            {
+              "kg": "4,5",
+              "r": "15"
+            },
+            {
+              "kg": "4,5",
+              "r": "15"
+            },
+            {
+              "kg": "4,5",
+              "r": "15"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "14"
+            }
+          ],
+          [
+            {
+              "kg": "15,8",
+              "r": "15"
+            },
+            {
+              "kg": "18",
+              "r": "12"
+            },
+            {
+              "kg": "18",
+              "r": "12"
+            },
+            {
+              "kg": "18",
+              "r": "14"
+            }
+          ]
+        ],
+        "5": [
+          [
+            {
+              "kg": "27",
+              "r": "15"
+            },
+            {
+              "kg": "27",
+              "r": "15"
+            },
+            {
+              "kg": "27",
+              "r": "15"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "2": "Machine, par bras.",
+        "3": "À la poulie.",
+        "4": "Curl marteau à la corde puis extension poulie haute.",
+        "5": "Face pull corde."
+      },
+      "notes": "Entorse du week-end : ni natation ni vélo cette semaine.",
+      "cr": {
+        "avis": "Excellente séance : tu as monté les charges comme prévu et tu as fait le face pull.",
+        "progression": "Tirage 52 kg sur les 4 séries (contre 45/52/52/45), incliné à 25 kg par bras, couché à 24 kg presque à 12 partout, élévations à 15 reps, bras en hausse (curl et extension).",
+        "plus": "Face pull fait (27 kg × 15). Élévations à 15 reps sur les 4 séries : haut de fourchette atteint.",
+        "moins": "Prochaine fois : couché 26 kg, élévations à la charge au-dessus, tirage 52 kg en visant 12 reps, incliné 25 kg sur les 3 séries."
+      }
+    },
+    {
+      "id": "s32",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-11-06",
+      "title": "Upper 2",
+      "prog": "U2",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "59",
+              "r": "10"
+            },
+            {
+              "kg": "59",
+              "r": "10"
+            },
+            {
+              "kg": "59",
+              "r": "10"
+            },
+            {
+              "kg": "59",
+              "r": "8"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "32",
+              "r": "12"
+            },
+            {
+              "kg": "32",
+              "r": "12"
+            },
+            {
+              "kg": "32",
+              "r": "12"
+            },
+            {
+              "kg": "32",
+              "r": "12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "39",
+              "r": "12"
+            },
+            {
+              "kg": "45",
+              "r": "12"
+            },
+            {
+              "kg": "45",
+              "r": "12"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "4,5",
+              "r": "14"
+            },
+            {
+              "kg": "6",
+              "r": "12"
+            },
+            {
+              "kg": "6",
+              "r": "12"
+            },
+            {
+              "kg": "6",
+              "r": "12"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15",
+              "r": "12"
+            },
+            {
+              "kg": "15",
+              "r": "10"
+            },
+            {
+              "kg": "15",
+              "r": "12"
+            },
+            {
+              "kg": "15",
+              "r": "10"
+            }
+          ],
+          [
+            {
+              "kg": "20",
+              "r": "14"
+            },
+            {
+              "kg": "22,5",
+              "r": "12"
+            },
+            {
+              "kg": "22,5",
+              "r": "12"
+            },
+            {
+              "kg": "22,5",
+              "r": "12"
+            }
+          ]
+        ],
+        "5": [
+          [
+            {
+              "kg": "29,3",
+              "r": "12"
+            },
+            {
+              "kg": "29,3",
+              "r": "15"
+            },
+            {
+              "kg": "29,3",
+              "r": "15"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "1": "Machine.",
+        "2": "À la poulie, prise pronation (pas la machine cette fois) : charges non comparables.",
+        "3": "Poulie vis-à-vis, par bras.",
+        "4": "Curl 15 kg, triceps 20 puis 22,5 kg.",
+        "5": "Face pull corde à la place de l'oiseau au pec fly, qui fait mal à l'épaule."
+      },
+      "notes": "Oiseau au pec fly remplacé par le face pull : douleur à l'épaule. Entorse : ni natation ni vélo cette semaine, vacances la semaine suivante.",
+      "cr": {
+        "avis": "Bonne séance, solide et bien adaptée.",
+        "progression": "Tirage vertical à 59 kg sur 4 séries (10/10/10/8, contre 10/10/8 sur 3 séries), triceps 20 → 22,5 kg, militaire stable à 32 kg × 12.",
+        "plus": "Bon réflexe d'avoir remplacé l'oiseau par le face pull dès que l'épaule a gêné.",
+        "moins": "Douleur à l'épaule sur l'oiseau : à surveiller. Prochaine fois : militaire 34 kg si l'épaule ne gêne pas, sinon reste à 32."
+      }
+    },
+    {
+      "id": "s33",
+      "sport": "muscu",
+      "status": "fait",
+      "date": "2026-11-16",
+      "title": "Upper 1",
+      "prog": "U1",
+      "sets": {
+        "0": [
+          [
+            {
+              "kg": "26",
+              "r": "10"
+            },
+            {
+              "kg": "26",
+              "r": "10"
+            },
+            {
+              "kg": "26",
+              "r": "10"
+            },
+            {
+              "kg": "26",
+              "r": "10"
+            }
+          ]
+        ],
+        "1": [
+          [
+            {
+              "kg": "20",
+              "r": "12"
+            },
+            {
+              "kg": "20",
+              "r": "12"
+            },
+            {
+              "kg": "20",
+              "r": "12"
+            },
+            {
+              "kg": "20",
+              "r": "12"
+            }
+          ]
+        ],
+        "2": [
+          [
+            {
+              "kg": "25",
+              "r": "10"
+            },
+            {
+              "kg": "25",
+              "r": "10"
+            },
+            {
+              "kg": "25",
+              "r": "10"
+            }
+          ]
+        ],
+        "3": [
+          [
+            {
+              "kg": "4,5",
+              "r": "15"
+            },
+            {
+              "kg": "4,5",
+              "r": "15"
+            },
+            {
+              "kg": "4,5",
+              "r": "15"
+            },
+            {
+              "kg": "4,5",
+              "r": "15"
+            }
+          ]
+        ],
+        "4": [
+          [
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "12"
+            }
+          ],
+          [
+            {
+              "kg": "15,8",
+              "r": "12"
+            },
+            {
+              "kg": "15,8",
+              "r": "14"
+            },
+            {
+              "kg": "18",
+              "r": "12"
+            },
+            {
+              "kg": "18",
+              "r": "12"
+            }
+          ]
+        ],
+        "5": [
+          [
+            {
+              "kg": "29,3",
+              "r": "15"
+            },
+            {
+              "kg": "29,3",
+              "r": "15"
+            },
+            {
+              "kg": "29,3",
+              "r": "15"
+            }
+          ]
+        ]
+      },
+      "exNotes": {
+        "1": "Poulie indisponible : machine de tirage à disques, 20 kg par côté (non comparable aux 52 kg à la poulie).",
+        "2": "Machine, par bras.",
+        "3": "À la poulie.",
+        "4": "Curl marteau à la corde puis extension poulie haute.",
+        "5": "Face pull corde."
+      },
+      "notes": "Reprise après la pause entorse et vacances.",
+      "cr": {
+        "avis": "Bonne séance de reprise : couché passé à 26 kg comme prévu et face pull fait.",
+        "progression": "Couché 26 kg × 10 sur les 4 séries (contre 24 kg le 04/11), face pull 29,3 kg (contre 27), extension montée à 18 kg sur 2 séries. Incliné et élévations stables.",
+        "plus": "Couché 26 kg tenu à 10 reps partout, face pull gardé dans la séance.",
+        "moins": "Tirage sur machine à disques : pas comparable au tirage poulie. Prochaine fois : couché 26 kg en visant 12, élévations un cran au-dessus."
+      }
     }
-   ],
-   "cr": {
-    "avis": "Très bonne séance : ta plus longue natation, à 2:15 de moyenne, avec un cardio maîtrisé.",
-    "progression": "Par rapport au 24/09 : +150 m, allure proche (2:15 contre 2:11), mais FC moyenne plus basse (135 contre 142) et effet anaérobie divisé par trois (0,7 contre 2,3). Tu nages plus longtemps en forçant moins.",
-    "plus": "Bloc central de 400 + 425 m tenu à 2:20-2:25, et un dernier 200 à 2:00 : tu finis fort.",
-    "moins": "Échauffement à 2:08 au lieu de 2:25 et plus : tu pars trop vite. Les 400 sont un peu au-dessus de la cible (2:15-2:20)."
-   }
-  },
-  {
-   "id": "v1",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-09-16",
-   "title": "Endurance 1 h",
-   "distance": "30,5",
-   "duree": "1h00",
-   "vitesse": "30",
-   "resistance": "10",
-   "fc": "154",
-   "notes": "Vélo de salle. 29 km/h de 0 à 15 km, 31 km/h de 15 à 30 km. Zones FC : Z2 7 %, Z3 54 %, Z4 33 %, Z5 1 %. Garmin : base, ressenti bien.",
-   "te": "4,1",
-   "tean": "0,0",
-   "garmin": true,
-   "tours": [
-    {
-     "label": "0 à 15 km",
-     "vitesse": "29 km/h"
-    },
-    {
-     "label": "15 à 30 km",
-     "vitesse": "31 km/h"
-    }
-   ],
-   "cr": {
-    "avis": "Sortie correcte mais encore trop appuyée pour de l'endurance : un tiers du temps en zone 4.",
-    "progression": "Par rapport au 05/09 : même vitesse (30 km/h) et même résistance, mais 7 bpm de moins. Bon signe.",
-    "plus": "Tu as su lever le pied par rapport au 05/09.",
-    "moins": "Accélération en deuxième moitié (29 puis 31 km/h) : c'est là que le cardio monte. Garde la même vitesse du début à la fin."
-   }
-  },
-  {
-   "id": "v2",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-09-22",
-   "title": "Seuil 46 min",
-   "distance": "24,2",
-   "duree": "46 min",
-   "vitesse": "32",
-   "resistance": "14 / 13",
-   "fc": "168",
-   "notes": "Vélo de salle. Zones FC : Z3 5 %, Z4 93 %. Garmin : seuil.",
-   "te": "4,5",
-   "tean": "0,0",
-   "garmin": true,
-   "tours": [
-    {
-     "label": "Résistance 14",
-     "temps": "30 min",
-     "dist": "16,2 km",
-     "vitesse": "32,5 km/h"
-    },
-    {
-     "label": "Résistance 13",
-     "temps": "15 min",
-     "dist": "8 km",
-     "vitesse": "32 km/h"
-    }
-   ],
-   "cr": {
-    "avis": "Vraie séance au seuil, bien menée : 93 % du temps en zone 4, sans passer en zone 5.",
-    "progression": "Ta meilleure vitesse de la série (32 km/h) à la plus haute résistance. C'est ta référence de seuil.",
-    "plus": "Effort très bien dosé : aucune minute en zone 5, effet anaérobie à 0.",
-    "moins": "Une seule séance vélo par semaine en ce moment : ce type de séance passe après l'endurance longue, pas à sa place."
-   }
-  },
-  {
-   "id": "v3",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-09-30",
-   "title": "40 km endurance",
-   "distance": "40",
-   "duree": "1h24",
-   "vitesse": "28,5",
-   "resistance": "8 / 10 / 8",
-   "fc": "151",
-   "notes": "Vélo de salle. Ressenti Garmin : très bien, effort 4/10. Charge d'entraînement 121. Distance et vitesse lues sur le compteur du vélo (la montre affiche 0 km en intérieur).",
-   "fcmax": "162",
-   "te": "3,7",
-   "tean": "0,1",
-   "calories": "980",
-   "garmin": true,
-   "tours": [
-    {
-     "label": "Résistance 8",
-     "temps": "15 min"
-    },
-    {
-     "label": "Résistance 10",
-     "temps": "45 min"
-    },
-    {
-     "label": "Résistance 8",
-     "temps": "25 min"
-    }
-   ],
-   "analyse": "- Ce qui est bien : 1h24 d'affilée, effort 4/10 et effet anaérobie quasi nul (0,1). C'est exactement le type de séance qui te manque.\n- Ce qui coince : 151 bpm de moyenne et un pic à 162. Avec 15 min et 25 min à résistance 8 probablement plus bas, le bloc de 45 min à résistance 10 a dû tourner autour de 155-160 bpm (estimation : la capture ne donne pas la FC par bloc). C'est au-dessus de ton plafond de 150 bpm : sur ce bloc, tu faisais du tempo, pas de l'endurance fondamentale.\n- L'effet aérobie de 3,7 le confirme : pour une sortie d'endurance pure, on attend plutôt 2,5 à 3,3. Plus haut, tu accumules de la fatigue sans gagner davantage sur la durée.\n- Prochaine sortie : résistance 8 à 9 du début à la fin, cadence 85 à 95 tr/min, FC moyenne visée 145. Ajoute 15 à 20 min pour aller vers 1h45. Tu iras un peu moins vite, et c'est voulu.\n- Note : la montre n'a pas de capteur de vitesse en salle, d'où 0 km. Continue de noter le compteur du vélo comme tu l'as fait.",
-   "cr": {
-    "avis": "Bonne séance de fond, mais pas tout à fait de l'endurance fondamentale : 151 bpm de moyenne pour un plafond à 150.",
-    "progression": "Par rapport au 29/08 (résistance 8, 26,3 km/h, 152 bpm) : +2,2 km/h au même cardio, et 11 min de plus. C'est la vraie progression de ton endurance.",
-    "plus": "1h24 d'affilée à 4/10 d'effort, sans aucune dose anaérobie (0,1).",
-    "moins": "Le bloc de 45 min en résistance 10 t'a fait monter jusqu'à 162 bpm. La prochaine fois, reste en 8-9 tout du long."
-   }
-  },
-  {
-   "id": "v4",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-10-09",
-   "title": "Sortie longue 50 km",
-   "duree": "1h40",
-   "fc": "157",
-   "notes": "Vélo de salle. D'après Enzo : séance prévue faite en 1h30 en zone verte Garmin (zone 3, 139-158 bpm), puis accélération à la fin pour atteindre 50 km. Garmin : tempo, ressenti bien. Charge 191. Perte de sueur estimée 1,6 L. Distance et vitesse lues sur le compteur du vélo.",
-   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 8, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 10, cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure.\n- Après la première heure, 30 à 60 g de glucides par heure (boisson sucrée ou barre). C'est aussi l'occasion de tester ce que tu prendras en course.\n\n## Repères\n- Le vélo d'Obernai dure ~1h45 avec 765 m D+. Cette sortie construit la durée à cardio bas, c'est ce qui te manque le plus.\n- Si tu décroches avant la fin, arrête-toi à 1h35 cette fois et vise 1h45 la suivante.",
-   "distance": "50",
-   "vitesse": "30",
-   "resistance": "10",
-   "fcmax": "178",
-   "te": "4,5",
-   "tean": "1,3",
-   "calories": "1271",
-   "garmin": true,
-   "cr": {
-    "avis": "Très bonne séance de volume : séance prévue faite, puis un finish appuyé pour boucler 50 km.",
-    "progression": "Plus longue sortie de la série (50 km, 1h40). Par rapport au 05/09 (même résistance 10, 30 km/h, 161 bpm sur 1h12), tu tiens 28 min de plus avec 4 bpm de moins.",
-    "plus": "30 km/h pendant 1h40 : ta durée de course à vélo est presque atteinte, et le moteur progresse.",
-    "moins": "La zone verte Garmin monte jusqu'à 158 bpm, au-dessus de ton plafond d'endurance de 150. Pour les sorties longues, vise le bas de cette zone (140-150)."
-   }
-  },
-  {
-   "id": "m1",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-07",
-   "title": "Upper 1",
-   "prog": "U1",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "26",
-       "r": "8-12"
-      },
-      {
-       "kg": "26",
-       "r": "8-12"
-      },
-      {
-       "kg": "26",
-       "r": "8-12"
-      },
-      {
-       "kg": "24",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "39",
-       "r": "8-12"
-      },
-      {
-       "kg": "45",
-       "r": "8-12"
-      },
-      {
-       "kg": "45",
-       "r": "8-12"
-      },
-      {
-       "kg": "45",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "15",
-       "r": "8-12"
-      },
-      {
-       "kg": "15",
-       "r": "8-12"
-      },
-      {
-       "kg": "15",
-       "r": "8-12"
-      },
-      {
-       "kg": "15",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "7",
-       "r": "8-12"
-      },
-      {
-       "kg": "7",
-       "r": "8-12"
-      },
-      {
-       "kg": "7",
-       "r": "8-12"
-      },
-      {
-       "kg": "7",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      }
-     ],
-     [
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "0": "Haltères.",
-    "2": "Machine, 15 kg par bras.",
-    "3": "7 kg par haltère.",
-    "4": "Les deux à la poulie avec la corde.",
-    "5": "Pas fait."
-   },
-   "notes": "Première séance Upper 1 du programme. 4 séries de 8 à 12 reps sur chaque exercice (Enzo ne note pas le détail des reps).",
-   "cr": {
-    "avis": "Bonne reprise : charges cohérentes pour une première séance après 4 mois d'arrêt.",
-    "progression": "Première séance Upper 1 : elle sert de référence pour la double progression (10 à 12 reps, puis +1 à 2,5 kg).",
-    "plus": "Développé couché à 26 kg et tirage à 45 kg tenus sur 3 séries : la base est là.",
-    "moins": "Face pull sauté : c'est l'exercice qui protège ton épaule gauche, à ne pas zapper."
-   }
-  },
-  {
-   "id": "m2",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-11",
-   "title": "Upper 2",
-   "prog": "U2",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "27",
-       "r": "8-12"
-      },
-      {
-       "kg": "27",
-       "r": "8-12"
-      },
-      {
-       "kg": "27",
-       "r": "8-12"
-      },
-      {
-       "kg": "27",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "36",
-       "r": "8-12"
-      },
-      {
-       "kg": "36",
-       "r": "8-12"
-      },
-      {
-       "kg": "36",
-       "r": "8-12"
-      },
-      {
-       "kg": "36",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "9",
-       "r": "8-12"
-      },
-      {
-       "kg": "9",
-       "r": "8-12"
-      },
-      {
-       "kg": "9",
-       "r": "8-12"
-      },
-      {
-       "kg": "9",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "13",
-       "r": "8-12"
-      },
-      {
-       "kg": "13",
-       "r": "8-12"
-      },
-      {
-       "kg": "13",
-       "r": "8-12"
-      },
-      {
-       "kg": "13",
-       "r": "8-12"
-      }
-     ],
-     [
-      {
-       "kg": "18",
-       "r": "8-12"
-      },
-      {
-       "kg": "18",
-       "r": "8-12"
-      },
-      {
-       "kg": "18",
-       "r": "8-12"
-      },
-      {
-       "kg": "18",
-       "r": "8-12"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "1": "Machine.",
-    "2": "Machine.",
-    "3": "Poulie vis-à-vis, 9 kg par bras.",
-    "4": "Curl à la barre à la poulie 13 kg, extension à la corde 18 kg.",
-    "5": "Pas fait."
-   },
-   "notes": "Première séance Upper 2 du programme. 4 séries de 8 à 12 reps par exercice (fourchette donnée par Enzo).",
-   "cr": {
-    "avis": "Séance solide et équilibrée, avec des charges cohérentes pour une deuxième séance de reprise.",
-    "progression": "Première séance Upper 2 : elle devient ta référence. Bon écart de 4 jours avec l'Upper 1 du 07/10.",
-    "plus": "Tirage vertical à 52 kg : ton dos est déjà bien présent.",
-    "moins": "Oiseau sauté, comme le face pull lundi : c'est la 2e fois que tu coupes l'exercice qui protège ton épaule gauche."
-   }
-  },
-  {
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-08-29",
-   "title": "Endurance 32 km",
-   "distance": "32",
-   "duree": "1h13",
-   "vitesse": "26,3",
-   "resistance": "8",
-   "fc": "152",
-   "te": "3,8",
-   "tean": "0,4",
-   "garmin": true,
-   "notes": "Vélo de salle. Vitesse calculée (32 km en 1h13). Zones FC : Z2 3 %, Z3 75 %, Z4 20 %, Z5 1 %. Garmin : base, ressenti bien.",
-   "cr": {
-    "avis": "Séance d'endurance correcte, la plus « fond » de ta série d'été.",
-    "progression": "Première sortie de référence : c'est elle qui sert de point de comparaison pour la suite.",
-    "plus": "75 % du temps en zone 3, effort régulier sur 1h13.",
-    "moins": "152 bpm de moyenne et 20 % en zone 4 : déjà un peu au-dessus de ton plafond de 150."
-   },
-   "id": "s21"
-  },
-  {
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-09-05",
-   "title": "Tempo 35 km",
-   "distance": "35",
-   "duree": "1h12",
-   "vitesse": "30",
-   "resistance": "10",
-   "fc": "161",
-   "te": "4,6",
-   "tean": "0,0",
-   "garmin": true,
-   "notes": "Vélo de salle. Zones FC : Z3 22 %, Z4 75 %. Garmin : tempo, ressenti bien.",
-   "cr": {
-    "avis": "Ce n'est pas une sortie d'endurance, c'est 1h12 de tempo : 161 bpm et 75 % du temps en zone 4.",
-    "progression": "Par rapport au 29/08 : +3,7 km/h en passant de résistance 8 à 10, mais au prix de 9 bpm de plus.",
-    "plus": "Tu tiens 30 km/h plus d'une heure, la caisse est là.",
-    "moins": "Effet aérobie 4,6 : séance très fatigante. C'est le piège du puncheur, rouler trop fort tout le temps."
-   },
-   "id": "s22"
-  },
-  {
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-09-04",
-   "title": "Natation 25 et 50 m",
-   "distance": "1550",
-   "duree": "41 min",
-   "fc": "132",
-   "fcmax": "168",
-   "swolf": "67",
-   "te": "2,7",
-   "tean": "1,8",
-   "calories": "410",
-   "garmin": true,
-   "notes": "Bassin mixte (moitié 25 m, moitié 50 m) : Garmin s'est trompé dans le comptage, distance et allure non fiables (la montre affichait 1:39/100). Seul le SWOLF compte. Temps en mouvement 25:27 sur 41:20. Charge 70.",
-   "cr": {
-    "avis": "Séance difficile à lire : la montre a mal compté les longueurs, donc distance et allure ne sont pas exploitables.",
-    "progression": "Première séance de la série. Le SWOLF de 67 n'est pas comparable aux autres : en 50 m, une longueur compte double.",
-    "plus": "Tu as nagé 25 min en tout, et le ressenti était bon.",
-    "moins": "Effet anaérobie 1,8 : beaucoup d'efforts courts et intenses, l'inverse de ce que demande un 1,4 km de triathlon."
-   },
-   "id": "s23",
-   "bassin": "25 et 50"
-  },
-  {
-   "id": "v5",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-10-12",
-   "title": "Sortie longue EF 48 km",
-   "duree": "1h39",
-   "resistance": "9",
-   "fc": "144",
-   "notes": "Vélo de salle, résistance 9 tout du long. Garmin : Base (aérobie bas), ressenti fort, effort 5/10. Charge 87. Perte de sueur estimée 1,4 L. Distance et vitesse lues sur le compteur du vélo.",
-   "consignes": "## 0 à 15 min · mise en route\n- Résistance 6 à 7, cadence qui monte progressivement.\n- Cardio sous 135 bpm.\n\n## 15 min à 1h35 · bloc endurance\n- Résistance 8 à 9 (pas 10), cadence 85 à 95 tr/min.\n- Cardio entre 140 et 148 bpm, jamais au-dessus de 150. Effort 4/10 : tu dois pouvoir parler.\n- Si le cardio dépasse 150, baisse la résistance d'un cran et garde la cadence.\n- Tu rouleras sans doute vers 27-28 km/h au lieu de 30 : c'est normal, c'est voulu.\n\n## 1h35 à 1h45 · retour au calme\n- Résistance basse, cadence souple. Pas d'accélération finale.\n\n## Hydratation et alimentation\n- 500 à 750 ml d'eau par heure (tu as perdu 1,6 L de sueur le 9/10).\n- Après la première heure, 30 à 60 g de glucides par heure.\n\n## Repères\n- Objectif : 1h45 avec une moyenne autour de 145 bpm. La vitesse et la distance n'ont aucune importance aujourd'hui.\n- La semaine prochaine, si c'est réussi, on passe à 2 h.",
-   "distance": "48",
-   "vitesse": "29",
-   "fcmax": "159",
-   "te": "3,3",
-   "tean": "0,0",
-   "calories": "1010",
-   "rpe": "5",
-   "garmin": true,
-   "cr": {
-    "avis": "Exactement la séance demandée : vraie sortie d'endurance, cardio maîtrisé du début à la fin.",
-    "progression": "Par rapport au 09/10 : même durée (1h39 contre 1h40), seulement 2 km de moins, mais 13 bpm de moins en moyenne (144 contre 157) et une charge divisée par deux (87 contre 191).",
-    "plus": "144 bpm de moyenne à 29 km/h : tu roules presque aussi vite qu'avant en restant sous ton plafond. C'est l'endurance qui progresse.",
-    "moins": "Pic à 159 bpm : quelques minutes au-dessus de 150, sans doute en fin de séance. La prochaine fois, baisse à 8 dès que tu dépasses 150."
-   }
-  },
-  {
-   "id": "n6",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-10-14",
-   "title": "3 × 400 m · 2050 m",
-   "distance": "2050",
-   "allure": "2:15",
-   "notes": "Séance prévue nagée. Distance de 2050 m = somme des intervalles Garmin (cohérente avec 2:15/100 sur 46:03 de nage). 57:35 au total avec les pauses. 1138 mouvements, 25 mvts/min. Charge 112. La « meilleure allure » de 0:55/100 est un bug de la montre.",
-   "consignes": "## Échauffement · 300 m\n- Nage libre souple, plus lente que 2:25/100 m. Le 05/10 tu étais parti à 2:08 : ralentis vraiment.\n- Cherche la glisse : 11 à 13 mouvements par longueur.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos entre chaque.\n\n## Bloc principal · 1200 m\n- 3 × 400 m à 2:15-2:20/100 m, soit 9:00 à 9:20 par 400.\n- 30 s de repos au mur entre chaque 400.\n- Objectif : les trois 400 au même temps, à 10 s près. Le 05/10, tes 400 avaient glissé à 2:20-2:25.\n\n## Allure vive · 200 m\n- 4 × 50 m à 2:00-2:05/100 m (environ 1:00 à 1:02 par 50), 20 s de repos.\n- Rapide mais propre : garde tes 13-14 mouvements par longueur.\n\n## Retour au calme · 100 m\n- Dos crawlé, très souple.\n\n## Repères\n- Si tu ne tiens pas 2:20 sur le troisième 400, prends 45 s de repos avant plutôt que de casser ta nage.\n- Total 2000 m, ta plus longue séance à ce jour.",
-   "duree": "46 min",
-   "fc": "141",
-   "fcmax": "178",
-   "swolf": "48",
-   "mvts": "13,9",
-   "te": "3,3",
-   "tean": "2,2",
-   "calories": "461",
-   "garmin": true,
-   "tours": [
-    {
-     "label": "Échauffement",
-     "temps": "6:08",
-     "dist": "300 m",
-     "allure": "2:03"
-    },
-    {
-     "label": "Rattrapé",
-     "temps": "5:23",
-     "dist": "200 m",
-     "allure": "2:41"
-    },
-    {
-     "label": "400 n°1",
-     "temps": "9:31",
-     "dist": "400 m",
-     "allure": "2:23"
-    },
-    {
-     "label": "400 n°2",
-     "temps": "9:25",
-     "dist": "400 m",
-     "allure": "2:21"
-    },
-    {
-     "label": "400 n°3",
-     "temps": "9:14",
-     "dist": "400 m",
-     "allure": "2:19"
-    },
-    {
-     "label": "50 vif n°1",
-     "temps": "0:51",
-     "dist": "50 m",
-     "allure": "1:42"
-    },
-    {
-     "label": "50 vif n°2",
-     "temps": "0:56",
-     "dist": "50 m",
-     "allure": "1:52"
-    },
-    {
-     "label": "50 vif n°3",
-     "temps": "0:52",
-     "dist": "50 m",
-     "allure": "1:43"
-    },
-    {
-     "label": "50 vif n°4",
-     "temps": "0:54",
-     "dist": "50 m",
-     "allure": "1:48"
-    },
-    {
-     "label": "Fin",
-     "temps": "2:50",
-     "dist": "150 m",
-     "allure": "1:53"
-    }
-   ],
-   "cr": {
-    "avis": "Bonne séance : ta plus longue natation (2050 m) et un bloc de 3 × 400 bien construit, chaque 400 plus rapide que le précédent.",
-    "progression": "Par rapport au 05/10 : un 400 de plus, et des 400 plus réguliers (2:23, 2:21, 2:19 contre 2:25 et 2:20). Le dernier 400 est enfin dans la cible.",
-    "plus": "Accélération progressive sur les 400 : tu gères ton effort au lieu de le subir.",
-    "moins": "Échauffement encore trop rapide (2:03 au lieu de 2:25 et plus), 50 vifs à 1:42-1:52 au lieu de 2:00-2:05, et fin à 1:53 au lieu d'un retour au calme : d'où l'effet anaérobie à 2,2 et le pic à 178."
-   }
-  },
-  {
-   "id": "s24",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-15",
-   "title": "Upper 1",
-   "prog": "U1",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "45",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "45",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "20",
-       "r": "8-12"
-      },
-      {
-       "kg": "25",
-       "r": "8-12"
-      },
-      {
-       "kg": "20",
-       "r": "8-12"
-      },
-      {
-       "kg": "20",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "4,5",
-       "r": "10"
-      },
-      {
-       "kg": "4,5",
-       "r": "10"
-      },
-      {
-       "kg": "4,5",
-       "r": "10"
-      },
-      {
-       "kg": "4,5",
-       "r": "10"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      }
-     ],
-     [
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "0": "Haltères, 10 reps.",
-    "2": "Machine, par bras.",
-    "3": "À la poulie : 10 reps à 4,5 kg puis 5 reps à 2,3 kg (série dégressive).",
-    "4": "Comme le 07/10 : les deux à la poulie avec la corde.",
-    "5": "Pas fait (manque de temps, choix d'Enzo)."
-   },
-   "notes": "4 séries par exercice (fourchette 8-12 sauf mention).",
-   "cr": {
-    "avis": "Séance bien gérée : tu as allégé là où il fallait et progressé là où tu pouvais.",
-    "progression": "Par rapport au 07/10 : tirage 45 → 52 kg sur les séries lourdes, développé incliné 15 → 20-25 kg. Développé couché redescendu de 26 à 24 kg mais à 10 reps propres.",
-    "plus": "Le développé couché à 24 kg × 10, c'est exactement le bon choix pour monter proprement vers 26 kg.",
-    "moins": "Le passage de 15 à 25 kg au développé incliné est un très gros saut en une semaine : surveille ton épaule gauche sur cet exercice."
-   }
-  },
-  {
-   "id": "s25",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-17",
-   "title": "Upper Hors série",
-   "notes": "Séance avec des amis, hors programme. Pas de charges ni de capture Garmin. Proche de l'Upper 1 : la prochaine séance sera l'Upper 2.",
-   "consignes": "## Exercices faits\n- Tractions\n- Tirage horizontal\n- Machine pectoraux\n- Écarté poulie vis-à-vis vers le bas (haut des pecs)\n- Arrière d'épaule à la corde, poulie\n- Élévations latérales à la poulie\n- Super-set biceps / triceps, comme en Upper 1",
-   "cr": {
-    "avis": "Bonne séance de dépannage : équilibrée entre poussée et tirage, et elle complète ta semaine (vélo, natation, deux upper).",
-    "progression": "Deux jours après l'Upper 1 du 15/10, avec beaucoup d'exercices en commun : c'est surtout du volume en plus sur les mêmes muscles.",
-    "plus": "Tu as fait l'arrière d'épaule, enfin ! C'est l'exercice qui protège ton épaule gauche, et tu l'avais sauté sur tes trois dernières séances.",
-    "moins": "Tractions et tirage la même semaine que la natation : surveille ton épaule gauche et ton poignet droit sur la prochaine natation."
-   }
-  },
-  {
-   "id": "n7",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-10-19",
-   "title": "2 × 600 m · 2000-2150 m (distance douteuse)",
-   "distance": "2000",
-   "allure": "2:16",
-   "notes": "Distance Garmin 2150 m jugée douteuse : environ 2000 m réels. Pas une séance de référence.",
-   "consignes": "## Échauffement · 300 m\n- Nage souple : 7:15 ou plus pour les 300 m (2:25/100 et plus lent).\n- Le 05/10 et le 14/10, tu étais à 2:03-2:08 : c'est trop rapide, tu entames ta séance avant de commencer.\n\n## Technique · 200 m\n- 4 × 50 m en crawl rattrapé, 15 s de repos.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:20/100 m, soit 13:30 à 14:00 par 600.\n- 45 s de repos au mur entre les deux.\n- Pars au bas de la cible (2:20) et finis vers 2:15, comme tes 400 du 14/10.\n\n## Allure vive · 200 m\n- 4 × 50 m en 1:00 à 1:02 chacun, 20 s de repos.\n- Pas plus vite : le 14/10, tu les as nagés en 0:51-0:56, ce qui a fait monter ton cardio à 178.\n\n## Retour au calme · 100 m\n- Dos crawlé, très lent. Pas de sprint final.\n\n## Repères\n- Si le deuxième 600 dérape au-delà de 2:25, coupe-le en 2 × 300 avec 20 s de repos.\n- 2000 m au total.",
-   "duree": "48:31",
-   "fc": "132",
-   "fcmax": "177",
-   "swolf": "44",
-   "mvts": "12,3",
-   "bassin": "25",
-   "te": "2,8",
-   "tean": "2,3",
-   "calories": "498",
-   "garmin": true,
-   "cr": {
-    "avis": "Séance faite comme prévu, 2 × 600 m.",
-    "progression": "Allure d'environ 2:16/100 sur ~2000 m, dans la cible 2:15-2:20 des blocs.",
-    "plus": "Blocs de 600 m tenus dans l'allure visée.",
-    "moins": "Distance Garmin peu fiable (2150 m affichés) : séance à ne pas prendre comme référence."
-   }
-  },
-  {
-   "id": "s26",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-20",
-   "title": "Upper 2",
-   "prog": "U2",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "52",
-       "r": "12"
-      },
-      {
-       "kg": "52",
-       "r": "12"
-      },
-      {
-       "kg": "52",
-       "r": "12"
-      },
-      {
-       "kg": "52",
-       "r": "12"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "27",
-       "r": "10-12"
-      },
-      {
-       "kg": "32",
-       "r": "10-12"
-      },
-      {
-       "kg": "36",
-       "r": "10-12"
-      },
-      {
-       "kg": "36",
-       "r": "10-12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "36",
-       "r": "10-12"
-      },
-      {
-       "kg": "41",
-       "r": "10-12"
-      },
-      {
-       "kg": "41",
-       "r": "10-12"
-      },
-      {
-       "kg": "41",
-       "r": "10-12"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "6,8",
-       "r": "10-12"
-      },
-      {
-       "kg": "6,8",
-       "r": "10-12"
-      },
-      {
-       "kg": "6,8",
-       "r": "10-12"
-      },
-      {
-       "kg": "6,8",
-       "r": "10-12"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "13",
-       "r": "10-12"
-      },
-      {
-       "kg": "13",
-       "r": "10-12"
-      },
-      {
-       "kg": "13",
-       "r": "10-12"
-      },
-      {
-       "kg": "13",
-       "r": "10-12"
-      }
-     ],
-     [
-      {
-       "kg": "18",
-       "r": "10-12"
-      },
-      {
-       "kg": "18",
-       "r": "10-12"
-      },
-      {
-       "kg": "18",
-       "r": "10-12"
-      },
-      {
-       "kg": "18",
-       "r": "10-12"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "0": "12 reps à chaque série.",
-    "1": "Machine. Montée de 27 à 36 kg.",
-    "2": "Machine.",
-    "3": "Poulie, 6,8 kg par bras.",
-    "4": "Comme le 11/10 : curl 13 kg, extension corde 18 kg."
-   },
-   "cr": {
-    "avis": "Très bonne séance : tu progresses sur trois exercices sur quatre par rapport au 11/10.",
-    "progression": "Militaire 27 → 36 kg (+33 %), tirage poitrine 36 → 41 kg, tirage vertical toujours à 52 kg mais à 12 reps sur les 4 séries. Écartés redescendus de 9 à 6,8 kg par bras.",
-    "plus": "Tirage vertical à 12 reps partout : haut de la fourchette atteint, donc tu montes la charge la prochaine fois (vers 55-59 kg). Grosse marche sur le militaire.",
-    "moins": "Le militaire a pris 9 kg en une séance avec ton épaule gauche fragile : garde 36 kg la prochaine fois tant que les 10 reps ne sont pas propres et sans gêne."
-   }
-  },
-  {
-   "id": "v6",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-10-21",
-   "title": "Sortie longue EF 2 h · 57 km",
-   "duree": "2h00",
-   "distance": "57",
-   "vitesse": "28,5",
-   "resistance": "9",
-   "fc": "148",
-   "fcmax": "165",
-   "te": "3,9",
-   "tean": "0,8",
-   "calories": "1276",
-   "rpe": "5",
-   "garmin": true,
-   "notes": "Vélo de salle : résistance 6 au début et à la fin, 9 pendant 1h45. Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti fort, effort 5/10. Charge 147. 1102 kcal actives. Perte de sueur estimée 1,77 L. Ravitaillement prévu : petites madeleines (2 juste avant, puis à 40 min, 1h10 et 1h35).",
-   "consignes": "## 0 à 10 min · échauffement\n- Résistance 6 à 8, cadence 90 et plus, cardio vers 130 bpm.\n\n## 10 min à 1h50 · bloc endurance\n- Résistance 10, cadence 85 à 95, cardio entre 140 et 148 bpm.\n- Dès que le cardio passe 150, résistance 8 jusqu'à revenir sous 145.\n- Pas de finish appuyé.\n\n## 1h50 à 2h00 · retour au calme\n- Résistance 6, cadence libre.\n\n## Hydratation et alimentation\n- Environ 1,5 L sur la séance.\n- 2 madeleines juste avant, 2 à 40 min, 2 à 1h10, 1 ou 2 à 1h35.\n\n## Repères\n- Séance réussie si la moyenne est de 147 bpm ou moins sur 2 h.",
-   "cr": {
-    "avis": "Bonne séance : les 2 h sont faites, en endurance, et Garmin la classe Base. Objectif de moyenne manqué d'un battement (148 contre 147 ou moins), ce qui reste tout à fait correct.",
-    "progression": "Par rapport au 12/10 : 21 min et 9 km de plus (57 contre 48), vitesse quasi identique (28,5 contre 29 km/h), pour seulement 4 bpm de plus en moyenne (148 contre 144). La charge passe de 87 à 147, logique avec la durée.",
-    "plus": "Tu as tenu 2 h sans exploser : effort ressenti 5/10, ressenti fort, anaérobie à 0,8. Tu as bien gardé la résistance 9 au lieu de forcer à 10.",
-    "moins": "Pic à 165 bpm : tu es passé au-dessus de 150 sur une partie de la séance, sûrement en fin de séance avec la dérive cardiaque. Le réflexe « résistance 8 dès 150 » n'a pas encore été appliqué."
-   }
-  },
-  {
-   "id": "s27",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-23",
-   "title": "Upper 1",
-   "prog": "U1",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "45",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "52",
-       "r": "8-12"
-      },
-      {
-       "kg": "45",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "20",
-       "r": "8-12"
-      },
-      {
-       "kg": "25",
-       "r": "8-12"
-      },
-      {
-       "kg": "20",
-       "r": "8-12"
-      },
-      {
-       "kg": "20",
-       "r": "8-12"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "4,5",
-       "r": "10"
-      },
-      {
-       "kg": "4,5",
-       "r": "10"
-      },
-      {
-       "kg": "4,5",
-       "r": "10"
-      },
-      {
-       "kg": "4,5",
-       "r": "10"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      }
-     ],
-     [
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      },
-      {
-       "kg": "15,8",
-       "r": "8-12"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "0": "Haltères, 10 reps.",
-    "2": "Machine, par bras.",
-    "3": "À la poulie : 10 reps à 4,5 kg puis 5 reps à 2,3 kg (série dégressive).",
-    "4": "Comme le 07/10 : les deux à la poulie avec la corde.",
-    "5": "Pas fait (manque de temps, choix d'Enzo)."
-   },
-   "notes": "Mêmes charges que l'Upper 1 du 15/10 (2e séance de suite aux mêmes charges).",
-   "cr": {
-    "avis": "Séance faite, mêmes charges que le 15/10.",
-    "progression": "Charges identiques sur tous les exercices depuis le 15/10 : c'est le moment de monter là où tu es en haut de fourchette.",
-    "plus": "Régularité : deux Upper par semaine tenues.",
-    "moins": "Prochaine fois : tirage poulie à 52 kg sur les 4 séries et incliné machine à 25 kg par bras partout si tu as atteint 12 reps ; développé couché à 26 kg dès que les 4 séries à 24 kg passent à 12 ; élévations à 4,5 kg jusqu'à 15 reps."
-   }
-  },
-  {
-   "id": "n8",
-   "sport": "nat",
-   "status": "fait",
-   "date": "2026-10-27",
-   "title": "2 × 600 m · 2000 m",
-   "distance": "2000",
-   "allure": "2:28",
-   "notes": "Garmin affiche 2050 m mais a compté une longueur de trop deux fois (625 au lieu de 600 sur le 2e bloc, 225 au lieu de 200 au retour au calme) : 2000 m réels. 49:16 en mouvement, soit 2:28/100 réel (Garmin 2:24). 1:01:02 écoulé. 1124 mouvements, 23 mvts/min, charge 88.",
-   "consignes": "## Échauffement · 500 m\n- 300 m très souples, plus lent que 2:25/100 (7:15 ou plus).\n- 4 × 50 m éducatifs (25 m rattrapé, 25 m nage complète), 15 s de récup.\n\n## Bloc principal · 1200 m\n- 2 × 600 m à 2:15-2:18/100, soit 13:30 à 13:50 par 600.\n- Le 2e égal ou un peu plus rapide que le 1er, jamais sous 2:12.\n- 1 min de récup au mur.\n\n## Retour au calme · 300 m\n- 200 m souples, puis 100 m dos ou brasse très tranquille.",
-   "duree": "53:25",
-   "fc": "137",
-   "fcmax": "164",
-   "swolf": "50",
-   "mvts": "13,7",
-   "bassin": "25",
-   "te": "3,0",
-   "tean": "1,8",
-   "calories": "497",
-   "garmin": true,
-   "tours": [
-    {
-     "label": "Échauffement",
-     "temps": "9:01",
-     "dist": "300 m",
-     "allure": "2:25"
-    },
-    {
-     "label": "Éducatifs",
-     "temps": "6:56",
-     "dist": "200 m",
-     "allure": "2:30"
-    },
-    {
-     "label": "600 n°1",
-     "temps": "13:43",
-     "dist": "600 m",
-     "allure": "2:17"
-    },
-    {
-     "label": "600 n°2",
-     "temps": "14:47",
-     "dist": "600 m",
-     "allure": "2:28"
-    },
-    {
-     "label": "Retour au calme",
-     "temps": "5:48",
-     "dist": "200 m",
-     "allure": "2:54"
-    },
-    {
-     "label": "Dos / brasse",
-     "temps": "3:09",
-     "dist": "100 m",
-     "allure": "3:09"
-    }
-   ],
-   "cr": {
-    "avis": "Séance faite en entier et enfin un échauffement au bon rythme, mais le 2e 600 a lâché : le 2 × 600 n'est validé qu'à moitié.",
-    "progression": "Premier 600 à 2:17, pile dans la cible. Le 2e passe à 2:28 réel (14:47), 11 s/100 plus lent et au-delà du repère de 2:25. Le 14/10, tes 3 × 400 étaient en négatif split : tenir 600 d'affilée est la marche suivante.",
-    "plus": "Échauffement à 2:25 comme demandé, pour la première fois. Cardio maîtrisé (137 de moyenne, 164 max, Garmin Base) : plus de pics à 177-178.",
-    "moins": "Dérive sur le 2e 600 et technique qui se dégrade avec la fatigue (SWOLF 50, 13,7 mouvements contre 44 et 12,3 en forme). Le 1er 600 était sûrement un poil trop ambitieux."
-   }
-  },
-  {
-   "id": "s29",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-28",
-   "title": "Upper 2",
-   "prog": "U2",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "52",
-       "r": "12"
-      },
-      {
-       "kg": "59",
-       "r": "10"
-      },
-      {
-       "kg": "59",
-       "r": "10"
-      },
-      {
-       "kg": "59",
-       "r": "8"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "32",
-       "r": "12"
-      },
-      {
-       "kg": "32",
-       "r": "12"
-      },
-      {
-       "kg": "32",
-       "r": "12"
-      },
-      {
-       "kg": "32",
-       "r": "12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "41",
-       "r": "12"
-      },
-      {
-       "kg": "41",
-       "r": "12"
-      },
-      {
-       "kg": "46",
-       "r": "10"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "59",
-       "r": "12"
-      },
-      {
-       "kg": "66",
-       "r": "12"
-      },
-      {
-       "kg": "66",
-       "r": "12"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "15",
-       "r": "10-12"
-      },
-      {
-       "kg": "15",
-       "r": "10-12"
-      },
-      {
-       "kg": "15",
-       "r": "10-12"
-      },
-      {
-       "kg": "15",
-       "r": "10-12"
-      }
-     ],
-     [
-      {
-       "kg": "20",
-       "r": "10-12"
-      },
-      {
-       "kg": "20",
-       "r": "10-12"
-      },
-      {
-       "kg": "20",
-       "r": "10-12"
-      },
-      {
-       "kg": "20",
-       "r": "10-12"
-      }
-     ]
-    ],
-    "5": [
-     [
-      {
-       "kg": "41",
-       "r": "12"
-      },
-      {
-       "kg": "41",
-       "r": "12"
-      },
-      {
-       "kg": "41",
-       "r": "12"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "1": "Machine, 4 séries de 12.",
-    "3": "Pec fly (pec deck machine) : charges non comparables avec la poulie.",
-    "4": "4 séries par choix. Curl 15 kg, triceps prise triangle 20 kg.",
-    "5": "Oiseau machine, 1re fois."
-   },
-   "notes": "3 séries poussées (1-2 reps en réserve) au lieu de 4, sauf les bras (4 séries par choix).",
-   "cr": {
-    "avis": "Très bonne séance : tu as monté les charges et appliqué le passage à 3 séries.",
-    "progression": "Tirage vertical 52 → 59 kg, tirage poitrine jusqu'à 46 kg, curl 13 → 15 kg, triceps 18 → 20 kg. Militaire redescendu à 32 kg mais à 12 reps sur 4 séries.",
-    "plus": "Oiseau machine fait pour la 1re fois (41 kg × 12). Militaire propre à 12 reps, c'est mieux pour l'épaule gauche que forcer à 36.",
-    "moins": "Tirage vertical à 10/10/8 à 59 kg : reste à 59 jusqu'à 10 reps partout. Prochaine fois : militaire 34-36 kg, tirage poitrine 46 kg sur 2 séries, pec fly 66 kg sur les 3 séries."
-   }
-  },
-  {
-   "id": "v7",
-   "sport": "velo",
-   "status": "fait",
-   "date": "2026-10-29",
-   "title": "Sortie EF écourtée · 39 km",
-   "duree": "1h23",
-   "distance": "39",
-   "vitesse": "28",
-   "resistance": "9",
-   "fc": "149",
-   "fcmax": "162",
-   "te": "3,6",
-   "tean": "0,0",
-   "calories": "934",
-   "rpe": "6",
-   "garmin": true,
-   "notes": "Vélo de salle, résistance 9, passée à 6 quand douleur et fatigue. Séance prévue 2 h, arrêtée à 1h23 : douleur au genou, fatigue rapide, peu d'énergie, pas de madeleines. Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti normal, effort 6/10. Charge 114. 813 kcal actives. Perte de sueur estimée 1,18 L.",
-   "consignes": "## 0 à 10 min · échauffement\n- Résistance 6 à 7, cadence 90 et plus, cardio vers 130 bpm.\n\n## 10 min à 1h50 · bloc endurance\n- Résistance 9, cadence 85 à 95, cardio entre 138 et 146 bpm.\n- Dès que le cardio passe 150, résistance 8 jusqu'à revenir sous 145.\n- Toutes les 20 min : 1 min de vélocité, résistance 6, cadence maximale sans rebondir.\n\n## 1h50 à 2h00 · retour au calme\n- Résistance 6.\n\n## Repères\n- Moyenne de 145 bpm ou moins, max sous 155.",
-   "cr": {
-    "avis": "Bonne décision d'avoir écourté : avec une douleur au genou, on ne force pas. La séance reste utile, classée Base par Garmin.",
-    "progression": "Par rapport au 21/10 : 37 min de moins et 1 bpm de plus en moyenne (149 contre 148) à une vitesse proche (28 contre 28,5 km/h). Effort ressenti 6/10 contre 5 : c'était un jour sans.",
-    "plus": "Anaérobie à 0 et max à 162 : pas de dérapage d'intensité, tu as su lever le pied.",
-    "moins": "Cardio élevé pour l'allure et énergie basse, sans doute la fatigue de la semaine (natation le 27, Upper 2 le 28) et pas de sucre pendant. Douleur au genou à surveiller."
-   }
-  },
-  {
-   "id": "s30",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-10-31",
-   "title": "Upper Hors série",
-   "notes": "Séance avec des amis, hors programme. Charges non communiquées.",
-   "consignes": "## Exercices faits\n- Tirage vertical\n- Tirage horizontal\n- Développé couché machine\n- Poulie vis-à-vis vers le bas\n- Face pull\n- Élévations latérales\n- Extension triceps au-dessus de la tête\n- Curl marteau à la corde"
-  },
-  {
-   "id": "s31",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-11-04",
-   "title": "Upper 1",
-   "prog": "U1",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "24",
-       "r": "12"
-      },
-      {
-       "kg": "24",
-       "r": "12"
-      },
-      {
-       "kg": "24",
-       "r": "10"
-      },
-      {
-       "kg": "24",
-       "r": "12"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "52",
-       "r": "10"
-      },
-      {
-       "kg": "52",
-       "r": "10"
-      },
-      {
-       "kg": "52",
-       "r": "10"
-      },
-      {
-       "kg": "52",
-       "r": "10"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "20",
-       "r": "10"
-      },
-      {
-       "kg": "25",
-       "r": "10"
-      },
-      {
-       "kg": "25",
-       "r": "10"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "4,5",
-       "r": "15"
-      },
-      {
-       "kg": "4,5",
-       "r": "15"
-      },
-      {
-       "kg": "4,5",
-       "r": "15"
-      },
-      {
-       "kg": "4,5",
-       "r": "15"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "15,8",
-       "r": "12"
-      },
-      {
-       "kg": "15,8",
-       "r": "12"
-      },
-      {
-       "kg": "15,8",
-       "r": "12"
-      },
-      {
-       "kg": "15,8",
-       "r": "14"
-      }
-     ],
-     [
-      {
-       "kg": "15,8",
-       "r": "15"
-      },
-      {
-       "kg": "18",
-       "r": "12"
-      },
-      {
-       "kg": "18",
-       "r": "12"
-      },
-      {
-       "kg": "18",
-       "r": "14"
-      }
-     ]
-    ],
-    "5": [
-     [
-      {
-       "kg": "27",
-       "r": "15"
-      },
-      {
-       "kg": "27",
-       "r": "15"
-      },
-      {
-       "kg": "27",
-       "r": "15"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "2": "Machine, par bras.",
-    "3": "À la poulie.",
-    "4": "Curl marteau à la corde puis extension poulie haute.",
-    "5": "Face pull corde."
-   },
-   "notes": "Entorse du week-end : ni natation ni vélo cette semaine.",
-   "cr": {
-    "avis": "Excellente séance : tu as monté les charges comme prévu et tu as fait le face pull.",
-    "progression": "Tirage 52 kg sur les 4 séries (contre 45/52/52/45), incliné à 25 kg par bras, couché à 24 kg presque à 12 partout, élévations à 15 reps, bras en hausse (curl et extension).",
-    "plus": "Face pull fait (27 kg × 15). Élévations à 15 reps sur les 4 séries : haut de fourchette atteint.",
-    "moins": "Prochaine fois : couché 26 kg, élévations à la charge au-dessus, tirage 52 kg en visant 12 reps, incliné 25 kg sur les 3 séries."
-   }
-  },
-  {
-   "id": "s32",
-   "sport": "muscu",
-   "status": "fait",
-   "date": "2026-11-06",
-   "title": "Upper 2",
-   "prog": "U2",
-   "sets": {
-    "0": [
-     [
-      {
-       "kg": "59",
-       "r": "10"
-      },
-      {
-       "kg": "59",
-       "r": "10"
-      },
-      {
-       "kg": "59",
-       "r": "10"
-      },
-      {
-       "kg": "59",
-       "r": "8"
-      }
-     ]
-    ],
-    "1": [
-     [
-      {
-       "kg": "32",
-       "r": "12"
-      },
-      {
-       "kg": "32",
-       "r": "12"
-      },
-      {
-       "kg": "32",
-       "r": "12"
-      },
-      {
-       "kg": "32",
-       "r": "12"
-      }
-     ]
-    ],
-    "2": [
-     [
-      {
-       "kg": "39",
-       "r": "12"
-      },
-      {
-       "kg": "45",
-       "r": "12"
-      },
-      {
-       "kg": "45",
-       "r": "12"
-      }
-     ]
-    ],
-    "3": [
-     [
-      {
-       "kg": "4,5",
-       "r": "14"
-      },
-      {
-       "kg": "6",
-       "r": "12"
-      },
-      {
-       "kg": "6",
-       "r": "12"
-      },
-      {
-       "kg": "6",
-       "r": "12"
-      }
-     ]
-    ],
-    "4": [
-     [
-      {
-       "kg": "15",
-       "r": "12"
-      },
-      {
-       "kg": "15",
-       "r": "10"
-      },
-      {
-       "kg": "15",
-       "r": "12"
-      },
-      {
-       "kg": "15",
-       "r": "10"
-      }
-     ],
-     [
-      {
-       "kg": "20",
-       "r": "14"
-      },
-      {
-       "kg": "22,5",
-       "r": "12"
-      },
-      {
-       "kg": "22,5",
-       "r": "12"
-      },
-      {
-       "kg": "22,5",
-       "r": "12"
-      }
-     ]
-    ],
-    "5": [
-     [
-      {
-       "kg": "29,3",
-       "r": "12"
-      },
-      {
-       "kg": "29,3",
-       "r": "15"
-      },
-      {
-       "kg": "29,3",
-       "r": "15"
-      }
-     ]
-    ]
-   },
-   "exNotes": {
-    "1": "Machine.",
-    "2": "À la poulie, prise pronation (pas la machine cette fois) : charges non comparables.",
-    "3": "Poulie vis-à-vis, par bras.",
-    "4": "Curl 15 kg, triceps 20 puis 22,5 kg.",
-    "5": "Face pull corde à la place de l'oiseau au pec fly, qui fait mal à l'épaule."
-   },
-   "notes": "Oiseau au pec fly remplacé par le face pull : douleur à l'épaule. Entorse : ni natation ni vélo cette semaine, vacances la semaine suivante.",
-   "cr": {
-    "avis": "Bonne séance, solide et bien adaptée.",
-    "progression": "Tirage vertical à 59 kg sur 4 séries (10/10/10/8, contre 10/10/8 sur 3 séries), triceps 20 → 22,5 kg, militaire stable à 32 kg × 12.",
-    "plus": "Bon réflexe d'avoir remplacé l'oiseau par le face pull dès que l'épaule a gêné.",
-    "moins": "Douleur à l'épaule sur l'oiseau : à surveiller. Prochaine fois : militaire 34 kg si l'épaule ne gêne pas, sinon reste à 32."
-   }
-  }
- ]
+  ]
 }

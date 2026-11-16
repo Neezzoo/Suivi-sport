@@ -672,6 +672,8 @@ async function fetchRemote(){
     if(r.ok){var j=await r.json();return {data:JSON.parse(b64dec(j.content)),sha:j.sha};}
     if(r.status===401||r.status===403) throw {code:'auth'};
   }
+  /* Sans jeton : lire data.json directement dans le dépôt (ne dépend pas du déploiement GitHub Pages), sinon la copie publiée */
+  try{var r1=await fetch('https://raw.githubusercontent.com/'+REPO+'/'+BRANCH+'/'+FILE+'?t='+Date.now(),{cache:'no-store'});if(r1.ok)return {data:await r1.json(),sha:null};}catch(e){}
   var r2=await fetch(FILE+'?t='+Date.now(),{cache:'no-store'});
   return {data:await r2.json(),sha:null};
 }

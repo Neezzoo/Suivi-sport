@@ -2035,6 +2035,30 @@
     "plus": "Couché 26 kg tenu à 10 reps partout, face pull gardé dans la séance.",
     "moins": "Tirage sur machine à disques : pas comparable au tirage poulie. Prochaine fois : couché 26 kg en visant 12, élévations un cran au-dessus."
    }
+  },
+  {
+   "id": "v8",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-11-17",
+   "title": "Reprise vélo après entorse · 37 km",
+   "duree": "1h20",
+   "distance": "37",
+   "vitesse": "27,7",
+   "resistance": "8",
+   "fc": "155",
+   "fcmax": "168",
+   "te": "4,0",
+   "tean": "0,4",
+   "calories": "977",
+   "garmin": true,
+   "notes": "Vélo de salle, résistance 8, juste après 50 min de cardio chez le kiné (reprise après entorse). Distance lue sur le compteur du vélo (Garmin indique 0 km). Garmin : Base (aérobie bas), ressenti Strong. Charge 142. 861 kcal actives. Perte de sueur estimée 1,25 L.",
+   "cr": {
+    "avis": "Première sortie vélo depuis le 29/10, enchaînée après 50 min de cardio chez le kiné : volume total conséquent pour une reprise.",
+    "progression": "Par rapport au 29/10 (1h23, 149 bpm) : durée proche mais 155 bpm de moyenne, au-dessus du plafond EF de 150, logique avec la fatigue du cardio kiné avant.",
+    "plus": "Pas de douleur signalée, ressenti Strong, anaérobie faible (0,4).",
+    "moins": "Cardio moyen à 155 et max 168 : hors endurance fondamentale. À ne pas comparer aux sorties « fraîches »."
+   }
   }
  ]
 }

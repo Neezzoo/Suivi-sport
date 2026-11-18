@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 34,
+ "seq": 35,
  "cap": {
   "reprise": true,
   "depuis": "2026-11-18"
@@ -2095,6 +2095,160 @@
      "vitesse": "4,0"
     }
    ]
+  },
+  {
+   "id": "s35",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-11-18",
+   "title": "Upper 2",
+   "prog": "U2",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "61",
+       "r": "12"
+      },
+      {
+       "kg": "61",
+       "r": "10"
+      },
+      {
+       "kg": "61",
+       "r": "10"
+      },
+      {
+       "kg": "61",
+       "r": "10"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "36",
+       "r": "12"
+      },
+      {
+       "kg": "36",
+       "r": "12"
+      },
+      {
+       "kg": "36",
+       "r": "10"
+      },
+      {
+       "kg": "36",
+       "r": "10"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "45",
+       "r": "12"
+      },
+      {
+       "kg": "52",
+       "r": "10"
+      },
+      {
+       "kg": "52",
+       "r": "10"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "6,8",
+       "r": "12"
+      },
+      {
+       "kg": "6,8",
+       "r": "12"
+      },
+      {
+       "kg": "6,8",
+       "r": "12"
+      },
+      {
+       "kg": "6,8",
+       "r": "12"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15",
+       "r": "12"
+      },
+      {
+       "kg": "15",
+       "r": "10"
+      },
+      {
+       "kg": "15",
+       "r": "10"
+      },
+      {
+       "kg": "15",
+       "r": "10"
+      }
+     ],
+     [
+      {
+       "kg": "22",
+       "r": "12"
+      },
+      {
+       "kg": "24,7",
+       "r": "12"
+      },
+      {
+       "kg": "24,7",
+       "r": "12"
+      },
+      {
+       "kg": "24,7",
+       "r": "12"
+      }
+     ]
+    ],
+    "5": [
+     [
+      {
+       "kg": "29,7",
+       "r": "15"
+      },
+      {
+       "kg": "29,7",
+       "r": "15"
+      },
+      {
+       "kg": "29,7",
+       "r": "14"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "1": "Machine.",
+    "2": "Encore à la poulie, prise pronation : comparable au 06/11.",
+    "3": "Poulie vis-à-vis, par bras.",
+    "4": "Curl 15 kg, triceps 22 puis 24,7 kg.",
+    "5": "Face pull corde (remplace l'oiseau au pec fly)."
+   },
+   "notes": "Deuxième Upper 2 après l'entorse. Progrès sur tous les exercices par rapport au 06/11.",
+   "cr": {
+    "avis": "Très bonne séance : progrès sur tous les exercices par rapport au 06/11.",
+    "progression": "Tirage vertical 59 → 61 kg (12/10/10/10 contre 10/10/10/8), militaire 32 → 36 kg, tirage poitrine poulie 45 → 52 kg, vis-à-vis 6 → 6,8 kg/bras ×12 ×4, triceps 22,5 → 24,7 kg, face pull 29,3 → 29,7 kg.",
+    "plus": "Le tirage vertical gagne des charges ET des reps en même temps. Face pull gardé en fin de séance.",
+    "moins": "Militaire : reste plafonné à 36 kg (épaule gauche). Pour progresser, monte les reps (12 ×4) avant toute charge. Curl stable à 15 kg : passe au cran suivant quand tu fais 12 sur les 4 séries."
+   }
   }
  ]
 }

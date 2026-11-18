@@ -2069,13 +2069,32 @@
    "duree": "16:00",
    "distance": "2,0",
    "allure": "5:27",
-   "notes": "Reprise course à pied après entorse, encadrée par le kiné. 16 min en 8 × (1 min course / 1 min marche), 2,0 km au total.\nCalcul : marche 8 min à 4 km/h = 0,53 km, donc course 1,47 km en 8 min = ~11 km/h, soit ~5:27/km (allure notée = allure des portions courues). Allure moyenne globale, marche comprise : 8:00/km.",
+   "notes": "Reprise course à pied après entorse, encadrée par le kiné. 16 min en 8 × (1 min course / 1 min marche), 2,0 km au total.\nCalcul : marche 8 min à 4 km/h = 0,53 km, donc course 1,47 km en 8 min = ~11 km/h, soit ~5:27/km (allure notée = allure des portions courues). Allure moyenne globale, marche comprise : 8:00/km.\nGarmin : FC moyenne 118 bpm, FC max 153 bpm (données fournies par Enzo). Cadence et effets d'entraînement non relevés.",
    "cr": {
     "avis": "Première course depuis l'arrêt : format marche-course court et adapté, c'est exactement comme ça qu'on reprend après une entorse.",
     "progression": "Séance de référence pour la reprise : 8 min de course cumulée à ~11 km/h (5:27/km).",
-    "plus": "Volume raisonnable (16 min) et récupération active entre chaque minute courue.",
+    "plus": "FC moyenne à 118 bpm et max à 153 : effort très contrôlé pour une reprise. Volume raisonnable (16 min) avec récupération active.",
     "moins": "11 km/h, c'est déjà plus rapide que l'allure cible de course du triathlon (~5:16/km sur 9,3 km, soit 11,4 km/h) : pour la reprise, ralentis plutôt vers 6:00-6:30/km et augmente d'abord la durée des portions courues, pas la vitesse."
-   }
+   },
+   "fc": "118",
+   "fcmax": "153",
+   "garmin": true,
+   "tours": [
+    {
+     "label": "Course (8 × 1 min)",
+     "dist": "1,47 km",
+     "temps": "8:00",
+     "allure": "5:27",
+     "vitesse": "11,0"
+    },
+    {
+     "label": "Marche (8 × 1 min)",
+     "dist": "0,53 km",
+     "temps": "8:00",
+     "allure": "15:00",
+     "vitesse": "4,0"
+    }
+   ]
   }
  ]
 }

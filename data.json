@@ -2403,6 +2403,29 @@
     "plus": "Bon choix de garder 4,5 kg aux élévations tant que le geste n'est pas propre. Gros saut sur les bras.",
     "moins": "Tirage qui chute à 8 reps sur les 2 dernières séries : reste à 54,3 kg jusqu'à 10 partout. Face pull un peu en baisse (12 à la dernière série)."
    }
+  },
+  {
+   "id": "v9",
+   "sport": "velo",
+   "status": "fait",
+   "date": "2026-11-25",
+   "title": "Grosse séance appuyée · 48 km",
+   "duree": "1h40",
+   "distance": "48",
+   "vitesse": "28,8",
+   "resistance": "9 puis 4",
+   "fc": "157",
+   "fcmax": "174",
+   "te": "4,4",
+   "tean": "0,7",
+   "garmin": true,
+   "notes": "Vélo de salle, 1:40:06, résistance 9 pendant 80 min puis 4. Distance d'après la note Garmin (compteur Garmin à 0 km). Garmin : Tempo (aérobie haut), ressenti Normal. Charge 177. Perte de sueur estimée 1,54 L. Séance volontairement appuyée, hors endurance fondamentale.",
+   "cr": {
+    "avis": "Grosse séance voulue : bon travail de tempo, mais ce n'est pas de l'endurance fondamentale.",
+    "progression": "Par rapport au 17/11 (1h20, 155 bpm, charge 142) : 20 min de plus, 157 bpm de moyenne, charge 177. Le 12/10 (144 bpm) et le 21/10 (148 bpm, 2 h) montrent que tu sais rouler sous 150.",
+    "plus": "1h40 tenue avec une résistance 9, anaérobie faible (0,7), ressenti Normal.",
+    "moins": "157 bpm de moyenne et 174 de max : zone Tempo. Prochaine sortie : résistance 8 du début à la fin pour revenir sous 150."
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "v": 1,
- "seq": 36,
+ "seq": 37,
  "cap": {
   "reprise": true,
   "depuis": "2026-11-18"
@@ -2425,6 +2425,144 @@
     "progression": "Par rapport au 17/11 (1h20, 155 bpm, charge 142) : 20 min de plus, 157 bpm de moyenne, charge 177. Le 12/10 (144 bpm) et le 21/10 (148 bpm, 2 h) montrent que tu sais rouler sous 150.",
     "plus": "1h40 tenue avec une résistance 9, anaérobie faible (0,7), ressenti Normal.",
     "moins": "157 bpm de moyenne et 174 de max : zone Tempo. Prochaine sortie : résistance 8 du début à la fin pour revenir sous 150."
+   }
+  },
+  {
+   "id": "s37",
+   "sport": "muscu",
+   "status": "fait",
+   "date": "2026-11-26",
+   "title": "Upper 2",
+   "prog": "U2",
+   "sets": {
+    "0": [
+     [
+      {
+       "kg": "61",
+       "r": "10"
+      },
+      {
+       "kg": "61",
+       "r": "10"
+      },
+      {
+       "kg": "61",
+       "r": "10"
+      },
+      {
+       "kg": "61",
+       "r": "8"
+      }
+     ]
+    ],
+    "1": [
+     [
+      {
+       "kg": "36",
+       "r": "12"
+      },
+      {
+       "kg": "36",
+       "r": "12"
+      },
+      {
+       "kg": "36",
+       "r": "10"
+      }
+     ]
+    ],
+    "2": [
+     [
+      {
+       "kg": "41",
+       "r": "12"
+      },
+      {
+       "kg": "45",
+       "r": "10"
+      },
+      {
+       "kg": "45",
+       "r": "10"
+      },
+      {
+       "kg": "45",
+       "r": "12"
+      }
+     ]
+    ],
+    "3": [
+     [
+      {
+       "kg": "6,8",
+       "r": "12"
+      },
+      {
+       "kg": "6,8",
+       "r": "12"
+      },
+      {
+       "kg": "6,8",
+       "r": "12"
+      },
+      {
+       "kg": "6,8",
+       "r": "12"
+      }
+     ]
+    ],
+    "4": [
+     [
+      {
+       "kg": "15,8",
+       "r": "15"
+      },
+      {
+       "kg": "15,8",
+       "r": "12"
+      },
+      {
+       "kg": "15,8",
+       "r": "12"
+      },
+      {
+       "kg": "15,8",
+       "r": "10"
+      }
+     ],
+     [
+      {
+       "kg": "24",
+       "r": "12"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      },
+      {
+       "kg": "24",
+       "r": "10"
+      }
+     ]
+    ]
+   },
+   "exNotes": {
+    "1": "Machine, 3 séries.",
+    "2": "Retour sur la MACHINE (retrouvée), pas la poulie : comparable au 28/10 (41/41/46), pas au 18/11.",
+    "3": "Poulie vis-à-vis, par bras.",
+    "4": "Curl 15,8 kg, triceps 24 kg.",
+    "5": "Pas de face pull : remplacé par 4 séries de tirage supplémentaires (charge non précisée)."
+   },
+   "notes": "Upper 2 du 26/11. Face pull remplacé par 4 séries de tirage en plus.",
+   "cr": {
+    "avis": "Séance solide, globalement au niveau du 18/11, avec un vrai gain au curl.",
+    "progression": "Curl 15 → 15,8 kg (15/12/12/10). Tirage poitrine machine 41/41/46 (28/10) → 41 puis 45 ×3, avec 12 reps à la dernière. Tirage vertical 61 kg à 10/10/10/8 (contre 12/10/10/10 le 18/11), triceps 24 kg à 12/10/10/10 (contre 24,7 ×12).",
+    "plus": "Vis-à-vis à 6,8 kg ×12 sur les 4 séries : monte d'un cran la prochaine fois. Militaire tenu à 36 kg sans forcer la charge.",
+    "moins": "Tirage vertical et triceps un peu en dessous du 18/11 : fatigue possible après le vélo appuyé de la veille. Militaire à 3 séries seulement. Sans face pull, rien ne travaille l'arrière d'épaule : glisse-le en superset avec le militaire si le temps manque."
    }
   }
  ]
